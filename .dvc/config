@@ -1,0 +1,5 @@
+[core]
+    remote = dagshub
+['remote "dagshub"']
+    url = https://dagshub.com/manarsaber2/Arabic-Legal-Document-QA.dvc
+    jobs = 1

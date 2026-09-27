@@ -1,0 +1,5 @@
+outs:
+- md5: 5eef79dd874e3cfe003e8a362bdbd7d5
+  size: 146385319
+  hash: md5
+  path: legal_data_raw.pdf
