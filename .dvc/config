@@ -1,4 +1,5 @@
 [core]
-    remote = hf_remote
-['remote "hf_remote"']
-    url = https://huggingface.co/datasets/manarsaber11/legal-document-dataset/raw/main/
+    remote = dagshub
+['remote "dagshub"']
+    url = https://dagshub.com/manarsaber2/Arabic-Legal-Document-QA.dvc
+    jobs = 1
