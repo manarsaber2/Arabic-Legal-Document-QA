@@ -1,0 +1,25 @@
+{
+  "headers": [],
+  "articles": [
+    {
+      "number_en": "Article 52",
+      "number_ar": "مادة ( ٥٢ )",
+      "text_en": "Juristic persons are:\n1. The state, the provinces (mudirias), towns and villages in accordance with the provisions fixed by law;\nadministrations, departments and other public institutions to which the law has granted the status of juristic persons.\n2. Religious groups and communities which the state has recognized as juristic persons.\n3. Wakfs.\n4. Commercial and civil corporations.\n5. Associations and foundations created in accordance with the subsequent provisions hereof.\n6. Any group of persons or properties recognized as a juristic persons by virtue of a provision of the law.",
+      "text_ar": "الأشخاص الاعتبارية هي :-\n(١ الدولة وكذلك المديريات والمدن والقرى بالشروط التي يحددها القانون\nوالإدارات والمصالح وغيرها من المنشآت العامة التي يمنحها القانون\nشخصية اعتبارية .\n(٢ الهيئات والطائف الدينية التي تعترف لها الدولة بشخصية اعتبارية .\n(٣ الأوقاف .\n(٤ الشركات التجارية والمدنية .\n(٥ الجمعيات والمؤسسات المنشأة وفقاً للأحكام التي ستأتي فيما بعد.\n(٦ كل مجموعة من الأشخاص أو الأموال تثبت لها الشخصية الاعتبارية\nبمقتضى نص في القانون.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 53",
+      "number_ar": "مادة ( ٥٣ )",
+      "text_en": "A juristic person enjoys, within the limits established by law, all rights, with the exception of those rights which are inherent in the nature of an individual.\nA juristic person has:\na) its own patrimonium;\nb) legal capacity, within the limits fixed by its constitution or established by law;\nc) the right to sue;\nd) its own domicile. This domicile is the place where its seat of management is situate.\nA corporation whose seat of management is situate abroad but operates in Egypt, is deemed, in accordance with internal law, to have its seat of management at the place where its local seat of management is situate.\nA juristic person has a representative to express its will.",
+      "text_ar": "(١ الشخص الاعتباري يتمتع بجميع الحقوق إلا ما كان منها ملازما لصفة\nالإنسان الطبيعية ، وذلك في الحدود التي قررها القانون .\n(٢ فيكون له :\nأ- ذمة مالية مستقلة.\nب- أهلية في الحدود التي يعينها سند إنشائه، أو التي يقررها القانون .\nج- حق التقاضي.\nد- موطن مستقل، ويعتبر موطنه المكان الذي يوجد فيه مركز\nإدارته، والشركات التي يكون مركزها الرئيسي في الخارج ولها نشاط في\nمصر يعتبر مركز إدارتها ، بالنسبة إلى القانون الداخلي ، والمكان الذي\nتوجد فيه الإدارة المحلية .\n(٣) ويكون له نائب يعبر عن إرادته.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    }
+  ]
+}

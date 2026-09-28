@@ -1,0 +1,95 @@
+{
+  "headers": [],
+  "articles": [
+    {
+      "number_en": null,
+      "number_ar": null,
+      "text_en": "validly perform acts of management within the limits of the law.",
+      "text_ar": null,
+      "is_repealed": false,
+      "continues_from_previous_page": true,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 113",
+      "number_ar": "مادة ١١٣",
+      "text_en": "The courts shall pronounce or raise interdictions on all persons suffering from insanity, mental derangement or imbecility, and prodigals, in accordance with the rules and the procedure prescribed by law.",
+      "text_ar": "المجنون والمعتوه وذو الغفلة والسفيه تحجر عليهم المحكمة ، وترفع الحجر عنهم .وفقا للقواعد والإجراءات المقررة فى القانون.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 114",
+      "number_ar": "مادة ١١٤",
+      "text_en": "An act entered into by a person suffering from insanity or mental derangement after the registration of the sentence of interdiction is null.\nAn act done before the registration of the sentence of interdiction is null only if the state of insanity or derangement was a matter of common notoriety at the time the contract was entered into or if the other party had knowledge thereof.",
+      "text_ar": "( ١ ) يقع باطلا تصرف المجنون والمعتوه إذا صدر التصرف بعد تسجيل قرار الحجر.\n( ٢ ) اما إذا صدر التصرف قبل تسجيل قرار الحجر فلا يكون باطلا الا إذا كانت حالة الجنون أو العته شائعة وقت التعاقد. أو كان الطرف الآخر على بينة منها.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 115",
+      "number_ar": "مادة ١١٥",
+      "text_en": "An act entered into by a person placed under interdiction for imbecility or prodigality after the registration of the sentence of interdiction, will be governed by the provisions regulating acts performed by minors possessing discretion.\nAn act entered into before the registration of the sentence of interdiction shall only be void or voidable if unfair advantage has been taken of the condition of the person under interdiction or if there has been fraudulent collision.",
+      "text_ar": "( ١ ) إذا صدر تصرف من ذى الغفلة أو من السفيه بعد تسجيل قرار الحجر .سرى على هذا التصرف ما يسرى على تصرفات الصبى المميز من أحكام.\n( ٢ ) اما التصرف الصادر قبل تسجيل قرار الحجر فلا يكون باطلا أو قابلا للإبطال ، الا إذا كان نتيجة استغلال أو تواطؤ.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 116",
+      "number_ar": "مادة ١١٦",
+      "text_en": "The constitution of a wakf, or the execution of a will by a person placed under interdiction for prodigality or for imbecility is valid, if the interdicted person has been duly authorized by the court.\nActs of management carried out by a person placed under interdiction for prodigality, who has been authorized to take possession of his property, are valid within the limits provided by the law.",
+      "text_ar": "( ١ ) يكون تصرف المحجور عليه لسفه أو غفلة بالوقف أو بالوصية صحيحا ، متى أذنته المحكمة فى ذلك.\n( ٢ ) وتكون أعمال الإدارة الصادرة من المحجور عليه للسفه المأذون له لتسلم أمواله ، صحيحة فى الحدود التى رسمها القانون.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 117",
+      "number_ar": "مادة ١١٧",
+      "text_en": "If a person is deaf and dumb, deaf and blind or blind and dumb, and cannot, by reason of his infirmity, express his will, the court may appoint a judicial adviser to assist him in connection with such acts as may be necessary in his interests.\nAn act for which the assistance of a judicial adviser has been ordered is voidable, if the act is performed by the person provided with a judicial adviser without the assistance of such adviser, after the registration of the decision providing for such assistance.",
+      "text_ar": "( ١ ) إذا كان الشخص أصم أبكم أو اعمى أصم أو اعمى ابكم ، وتعذر عليه بسبب ذلك التعبير عن إرادته ، جاز للمحكمة أن تعين له مساعدا قضائيا يعاونه فى التصرفات التى تقتضى مصلحته فيها ذلك.\n( ٢ ) ويكون قابلا للإبطال كل تصرف من التصرفات التى تقررت المساعدة القضائية فيها ، متى صدر من الشخص الدعوى تقررت مساعدته قضائيا بغير معاونة المساعد ، إذا صدر التصرف بعد تسجيل قرار المساعدة.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 118",
+      "number_ar": "مادة ١١٨",
+      "text_en": "An act by a natural guardian, a legal guardian or a curator is valid within the limits provided by law.",
+      "text_ar": "التصرفات الصادرة من الأولياء والأوصياء والقوام ، تكون صحيحة فى الحدود التى رسمها القانون.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 119",
+      "number_ar": "مادة ١١٩",
+      "text_en": "A person under legal incapacity, may demand the avoidance of the contract, subject, however, to his liability to payment of damages if he has employed fraudulent methods to conceal his legal incapacity.",
+      "text_ar": "يجوز لناقص الأهلية أن يطلب إبطال العقد ، وهذا مع عدم الإخلال بإلزامه بالتعويض ، إذا لجأ إلى طرق إحتيالية ليخفى نقص أهليته.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 120",
+      "number_ar": "مادة ١٢٠",
+      "text_en": null,
+      "text_ar": null,
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": true,
+      "source_page": 1
+    }
+  ]
+}

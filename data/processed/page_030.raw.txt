@@ -1,0 +1,75 @@
+{
+  "headers": [],
+  "articles": [
+    {
+      "number_en": null,
+      "number_ar": null,
+      "text_en": "(the debtor's) rights or increased his obligations, and has in consequence resulted in. or increased, his insolvency, when the conditions provided for in the following Article are all present.",
+      "text_ar": null,
+      "is_repealed": false,
+      "continues_from_previous_page": true,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 238",
+      "number_ar": "مادة ٢٣٨",
+      "text_en": "If the act by the debtor is for valuable consideration it can only be held invalid as against the creditor, if made by the debtor with the intent to defraud and if the other party to the contract was aware of the fraud. It suffices for the act to be considered fraudulent, if the debtor knew, at the time that it was effected, that he was insolvent: the other party is deemed to have had knowledge of the fraud of the debtor, if he was aware of the debtor's state of insolvency.\nIf, however, the act entered into by the debtor was gratuitous, it is not valid as against the creditor, even if the transferee acted in good faith and it is established that the debtor did not commit fraud.\nIf a transferee disposes of property transmitted to him by a debtor for valuable consideration, a creditor can only claim avoidance of the act by the debtor if it was made for valuable consideration and if the second as well as the first transferee both knew of the debtor's fraud, and when the act by the debtor was gratuitous and the second transferee knew of the insolvency of the debtor at the time the debtor entered into the act in favor of the first transferee.",
+      "text_ar": "(١) إذا كان تصرف المدين بعوض، اشترط لعدم نفاذه في حق الدائن أن يكون منطويا على غش من المدين، وأن يكون من صدر له التصرف علم بهذا الغش، ويكفي لاعتبار التصرف منطويا على الغش أن يكون قد صدر من المدين وهو عالم انه معسر، كما يعتبر من صدر له التصرف عالما بغش المدين إذا كان قد علم أن هذا المدين معسر.\n(٢) أما إذا كان التصرف تبرعا، فانه لا ينفذ في حق الدائن، ولو كان من صدر له التبرع حسن النية لو ثبت أن المدين لم يرتكب غشاً.\n(٣) وإذا كان الخلف الذي انتقل إليه الشيء من المدين قد تصرف فيه بعوض إلي خلف آخر، فلا يصح للدائن أن يتمسك بعدم نفاذ التصرف إلا إذا كان الخلف الثاني يعلم غش المدين، وعلم الخلف الأول بهذا الغش ان كان المريين قد تصرف بعوض، أو كان هذا الخلف الثاني يعلم إعسار المدين قد تصرفه للخلف الأول ان كان المدين قد تصرف له تبرعاً.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 239",
+      "number_ar": "مادة ٢٣٩",
+      "text_en": "A creditor who alleges the insolvency of his debtor has only to establish the amount of his debts. It is for the debtor to prove that his assets are equal to or exceed his liabilities.",
+      "text_ar": "إذا ادعي الدائن إعسار المدين فليس عليه إلا أن يثبت مقدار ما في ذمته من ديون وعلي نفسه أن يثبت أن له ما لا يساوي قيمة الديون أو يزيد عليها.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 240",
+      "number_ar": "مادة ٢٤٠",
+      "text_en": "Once an act has been declared void the benefits that result from the cancellation of the act shall benefit all the creditors to whose prejudice the act was made.",
+      "text_ar": "متي تقرر عدم نفاذ التصرف استيفاء من ذلك جميع الدائنين الذين صدر هذا التصرف اضرارا بهم.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 241",
+      "number_ar": "مادة ٢٤١",
+      "text_en": "When a person acquires a right from an insolvent debtor but has not paid the price, he may escape the consequence of an action by a creditor, provided that the price corresponds to the normal price and he deposits this price in the Caisse du Tribunal.",
+      "text_ar": "إذا كان من تلقي حقا من المدين المعسر لم يدفع ثمنه، فانه يتخلص من الدعوى متي كان الثمن هو ثمن المثل، وقام بإيداعه خزانة المحكمة.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 242",
+      "number_ar": "مادة ٢٤٢",
+      "text_en": "Fraud which consists solely of giving a creditor an unjustified preference over another creditor only entails the loss of that advantage by the creditor who was given the unjustified preference.\nIf an insolvent debtor pays off one of his creditors before the date originally fixed for payment, the payment is not valid as against the other creditors, neither is a payment, made after the date fixed for payment, valid as against the other creditors if made as a result of a fraudulent arrangement between the debtor and the creditor so paid off.",
+      "text_ar": "(١) إذا لم يقصد بالغش إلا تفضيل دائن علي آخر دون حق فلا يترتب عليه إلا حرمان الدائن من هذه الميزة.\n(٢) وإذا وفي المدين المعسر أحد دائنيه قبل انقضاء الأجل الذي عين أصلا للوفاء، فلا يسري هذا الوفاء في حق باقي الدائنين وكذلك لا يسري في حقهم الوفاء ولو حصل بعد انقضاء هذا الأجل إذا كان قد تم نتيجة تواطؤ بين المدين والدائن الذي استوفي حقه.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 243",
+      "number_ar": "مادة ٢٤٣",
+      "text_en": "An action to set aside an act of alienation is prescribed after three years from the date on which the creditor has",
+      "text_ar": "تسقط بالتقادم دعوى عدم نفاذ التصرف بانقضاء ثلاث سنوات من اليوم الذي يعلم فيه الدائن بسبب عدم نفاذ التصرف وتسقط في جميع الأحوال",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": true,
+      "source_page": 1
+    }
+  ]
+}

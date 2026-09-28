@@ -1,0 +1,82 @@
+{
+  "headers": [
+    {
+      "text_en": "his obligation, if the other party does not perform his\nobligation.",
+      "text_ar": null
+    },
+    {
+      "text_en": "SECTION II\nUnilateral Undertakings",
+      "text_ar": "الفصل الثانى\nالإرادة المنفردة"
+    },
+    {
+      "text_en": "SECTION III\nUnlawful Acts",
+      "text_ar": "الفصل الثالث\nالعمل غير المشروع"
+    },
+    {
+      "text_en": "1. Liability Arising from Personal Acts",
+      "text_ar": "1 - المسئولية عن الأعمال الشخصية"
+    }
+  ],
+  "articles": [
+    {
+      "number_en": "Article 162",
+      "number_ar": "مادة ١٦٢",
+      "text_en": "A person who makes a promise to the public of a reward in exchange for a specified service is bound to pay the reward to the person who performs the service, even if he acted without thought of the promise of reward, or without knowledge thereof.\nWhen the person who made the promise does not fix a period of time for the performance of the service, he may withdraw his promise by means of a notice to the public, but such withdrawal will not affect the rights of a person who has already performed the service. The right of action for the reward will be forfeited, if such action is not lodged within six months from the date of publication of the notice of withdrawal.",
+      "text_ar": "( ١ ) من وجه للجمهور وعدا بجائزة يعطيها عن عمل معين التزم بإعطاء الجائزة لمن قام بهذا العمل ولو قام به دون نظر إلى الوعد بالجائزة أو دون علم بها.\n( ٢ ) وإذا لم يعين الواعد اجلا للقيام بالعمل جاز له الرجوع فى وعد بإعلان للجمهور ، على الا يؤثر ذلك فى حق من أتم العمل قبل الرجوع فى الوعد .وتسقط دعوى المطالبة بالجائزة إذا لم ترفع خلال ستة اشهر من تاريخ إعلانه العدول للجمهور.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 163",
+      "number_ar": "مادة ١٦٣",
+      "text_en": "Every fault which cause injury to another, imposes an obligation to make reparation upon the person by whom it is committed.",
+      "text_ar": "كل خطأ سبب ضررا للغير يلزم من ارتكبه بالتعويض.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 164",
+      "number_ar": "مادة ١٦٤",
+      "text_en": "Every person in possession of discretion is responsible for his unlawful acts.\nWhen an injury is caused by a person not in possession of discretion, the judge may, if no one is responsible for him, or if the victim of the injury cannot obtain reparation from the person responsible, condemn the person causing the injury to pay equitable damages, taking into account the position of the parties.",
+      "text_ar": "( ١ ) يكون الشخص مسئولا عن أعماله غير المشروعة متى صدرت منه وهو مميز.\n( ٢ ) ومع ذلك إذا وقع الضرر من شخص غير مميز ولم يكن هناك من هو مسئول عنه ، أو تعذر الحصول على تعويض من المسئول ، جاز للقاضى أن يلزم من وقع منه الضرر بتعويض عادل ، مراعيا فى ذلك مركز الخصوم.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 165",
+      "number_ar": "مادة ١٦٥",
+      "text_en": "In the absence of a provision of the law or an agreement to the contrary, a person is not liable to make reparation, if he proves that the injury resulted from a cause beyond his control, such as unforeseen circumstances, force majeure, the fault of the victim or of a third party.",
+      "text_ar": "إذا اثبت الشخص أن الضرر قد نشأ عن سبب أجنبي لا يد له فيه ، كحادث مفاجئ أو قوة قاهرة أو خطأ من المضرور أو خطأ من الغير ، كان غير ملزم بتعويض هذا الضرر ، ما لم يوجد نص أو اتفاق على غير ذلك.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 166",
+      "number_ar": "مادة ١٦٦",
+      "text_en": "A person who causes an injury to another in the legitimate defense of his person or property, or of the person or property of a third party, is not responsible, provided that he does not exceed the measures necessary for his defense, as otherwise he will be liable to damages assessed in accordance with the principles of equity.",
+      "text_ar": "من احدث ضررا وهو فى حالة دفاع شرعى عن نفسه أو ماله أو عن نفس الغير أو ماله ، كان غير مسئول ، على الا يجاوز فى دفاعه القدر الضروري. والا اصبح ملزما بتعويض تراعى فيه مقتضيات العدالة.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 167",
+      "number_ar": "مادة ١٦٧",
+      "text_en": "A public official is not responsible for an act by which he causes injury to another person, if he acted in pursuance of an order received from a superior, which order he had to obey or thought he had to obey, and if he shows that he believed that the act he performed was lawful, that he had reasonable grounds for such belief and that he",
+      "text_ar": "لا يكون الموظف العام مسئولا عن عمله الذى أضر بالغير إذا قام به تنفيذا لأمر صدر إليه من رئيس ، متى كانت إطاعة هذا الأمر واجبة عليه ، أو كان يعتقد انها واجبة ، واثبت انه كان يعتقد مشروعية العمل الذى وقع منه ، وكان اعتقاده مبنيا على أسباب معقولة ، وانه راعى فى عمله جانب الحيطة.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": true,
+      "source_page": 1
+    }
+  ]
+}

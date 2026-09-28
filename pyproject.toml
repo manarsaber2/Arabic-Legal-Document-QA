@@ -15,7 +15,7 @@ authors=[
 
 dependencies=[
     "fastapi",
-    "dvc-gdrive"
+    "llama-cloud"
 ]
 
 [project.optional-dependencies]

@@ -1,0 +1,35 @@
+{
+  "headers": [],
+  "articles": [
+    {
+      "number_en": null,
+      "number_ar": null,
+      "text_en": "A voluntary agent is deemed to the representative of the person for whom he has acted, if he was devoted to the management of the work the care of a reasonable person, even if the object in view has not been achieved.\nThe person for whom the voluntary agency has acted will be bound to carry out the obligation entered into on his behalf by the voluntary agent, to indemnify him against all undertakings assumed by him, to reimburse him monies usefully or necessarily expended by him which are justified by the circumstances together with interest thereon from the date of expenditure, and to indemnify him in respect of any loss he has suffered as a result of his management. The voluntary agent is not entitled to any remuneration for his works, unless the work comes within the scope of his professional business.",
+      "text_ar": "الشخص العادى ، ولو لم تتحقق النتيجة المرجوة. وفى هذه الحالة يكون رب العمل ملزما بأن ينفيذ التعهدات التى عقدها الفضولى لحسابه ، وان يعوضه عن التعهدات التى التزم بها ، وان يرد له النفقات الضرورية والنافعة التى سوغتها الظروف مضافا إليها فوائدها من يوم دفعها ، وان يعوضه عن الضرر الذى لحقه بسبب قيامه بالعمل ، ولا يستحق الفضولى أجرا على عمله الا أن يكون من أعمال مهنته.",
+      "is_repealed": false,
+      "continues_from_previous_page": true,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 196",
+      "number_ar": "مادة ١٩٦",
+      "text_en": "If a voluntary agent is not legally capable of entering into contracts, he will only be responsible for his management to the extent of his profit therefrom, provided that his liability does not result from an unlawful act.\nThe person for whom the voluntary agent acts remains, however, fully responsible, even if he himself is legally incapable of entering into contract.",
+      "text_ar": "( ١ ) إذا لم تتوافر فى الفضولى أهلية التعاقد فلا يكون مسئولا عن إدارته الا بالقدر الذى أثرى به ، ما لم تكن مسئوليته ناشئة عن عمل غير مشروع.\n( ٢ ) اما رب العمل فتبقى مسئوليته كاملة ، ولو لم تتوافر فيه أهلية التعاقد.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 197",
+      "number_ar": "مادة ١٩٧",
+      "text_en": "A claim arising from voluntary agency is prescribed after three years from the date that each party had knowledge of his right and in any case after fifteen years from the day on which the right arose.",
+      "text_ar": "تسقط الدعوى الناشئة عن الفضالة بانقضاء ثلاث سنوات من اليوم الذى يعلم فيه كل طرف بحقه. وتسقط كذلك فى جميع الأحوال بانقضاء خمس عشرة سنة من اليوم الذى ينشا فيه هذا الحق.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    }
+  ]
+}

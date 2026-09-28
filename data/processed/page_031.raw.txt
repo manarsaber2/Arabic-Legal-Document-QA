@@ -1,0 +1,64 @@
+{
+  "headers": [
+    {
+      "text_en": "2. One of the Means of Security: the Right of Retention",
+      "text_ar": "٢ - إحدى وسائل الضمان: الحق في الحبس"
+    },
+    {
+      "text_en": "3. Insolvency",
+      "text_ar": "الإعسار"
+    }
+  ],
+  "articles": [
+    {
+      "number_en": "Article 244",
+      "number_ar": "مادة ٢٤٤",
+      "text_en": "If a simulated contract has been drawn up, creditors of the contracting parties and particular successors in title, may, if they are in good faith, avail themselves of the hidden contract and establish, by any means, the simulation of the contract by which they were prejudiced.\nIn the case of a conflict of interest between interested parties, some of whom rely upon the ostensible contract and others on the hidden contract, the former shall have preference.",
+      "text_ar": "(١) إذا أبرم عقد صوري فدائني المتعاقدين وللخلف الخاص متي كانوا حسني النية، أن يتمسكوا بالعقد الصوري، كما أن لهم أن يتمسكوا بالعقد المستتر ويثبتوا بجميع الوسائل صورية العقد الذي أضر بهم.\n(٢) وإذا تعارضت مصالح ذوي الشأن، فتمسك بعضهم بالعقد الظاهر وتمسك الآخرون بالعقد المستتر، كانت الأفضلية للأولين.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 245",
+      "number_ar": "مادة ٢٤٥",
+      "text_en": "When the contracting parties hide a genuine contract behind an ostensible contract, the genuine contract will bind the contracting parties and their universal successors in title.",
+      "text_ar": "إذا ستر المتعاقدان عقدا حقيقيا بوجه ظاهر فالعقد النافذ فيما بين المتعاقدين والخلف العام هو العقد الحقيقي.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 246",
+      "number_ar": "مادة ٢٤٦",
+      "text_en": "A person who is under an obligation to supply something, may refrain from performing his obligation so long as his creditor does not offer to perform an obligation incumbent on him arising out of the obligation of the debtor and connected therewith, or as long as the creditor does not supply adequate security to guarantee the performance of his obligation.\nThis right belongs especially to the possessor or holder of a thing, if he has incurred expenditure of a necessary or useful kind on the thing. The possessor or holder may, in such a case, refuse to return the thing until he has been repaid the amount due to him, unless the obligation of restitution results from an unlawful act.",
+      "text_ar": "(١) لكل من التزم بأداء شيء أن يمنع عن الوفاء به مادام الدائن لم يعرض الوفاء بالتزام مترتب عليه بسبب التزام المدين ومرتبط به. أو مادام الدائن لم يقم بتقديم تأمين كاف للوفاء بالتزامه.. !\n(٢) ويكون ذلك بوجه خاص لحائز الشيء أو محرزه إذا هو انفق عليه مصروفات ضرورية أو نافعة، فإن له أن يمتنع عن رد هذا الشيء حتي يستوفي ماهو مستحق له، إلا أن يكون الالتزام بالرد ناشئا عن عمل غير مشروع.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 247",
+      "number_ar": "مادة ٢٤٧",
+      "text_en": "A mere right of retention does not imply a privilege upon the thing.\nA person who retains the thing must preserve the thing in accordance with the rules as to pledge and must render an account of the fruits.\nIf the thing retained is of a perishable nature or susceptible of deterioration, the person who retains the thing may obtain from the court authority for its sale in accordance with the provisions of Article 1119. The right of retention will then be transferred to the price thereof.",
+      "text_ar": "(١) مجرد الحق في حبس الشيء لا يثبت حق امتياز عليه.\n(٢) وعلي الحابس أن يحافظ علي الشيء وفقا لأحكام رهن الحيازة علي أن يقدم حسابا عن غلته.\n(٣) اذا كان الشيء المحبوس يخشي عليه الهلاك أو التلف فللحابس أن يحصل علي اذن من القضاء في بيعه وفقا للأحكام المنصوص عليها في المادة ٩١١١، وينتقل الحق في الحبس من الشيء الي ثمنه.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 248",
+      "number_ar": "مادة ٢٤٨",
+      "text_en": "The right of retention is extinguished by the fact of the thing ceasing to be in the hands of the possessor or the holder.\nA person retaining the thing, who has lost possession thereof without his knowledge or in spite of his opposition, may claim restitution of the thing, if he makes his claim within a period of thirty days from the time he became aware of the loss of possession, provided that one year has not elapsed since the date of loss.",
+      "text_ar": "(١) ينقضى الحق في الحبس بخروج الشيء من يد حانزه أو محرزه.\n(٢) ومع ذلك يجوز لحابس الشيء إذا قام ذا الطلب خلال الثلاثين يوما من الوقت الذي علم فيه بخروج الشيء من يده وقبل انقضاء سنة من وقت خروجه.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    }
+  ]
+}

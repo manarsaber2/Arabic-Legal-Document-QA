@@ -1,0 +1,100 @@
+{
+  "headers": [
+    {
+      "text_en": "2. Indivisibility",
+      "text_ar": "عدم القابلية للانقسام"
+    }
+  ],
+  "articles": [
+    {
+      "number_en": null,
+      "number_ar": null,
+      "text_en": "one of the joint and several debtors issues a formal demand against the creditor, this demand will benefit the other co-debtors.",
+      "text_ar": null,
+      "is_repealed": false,
+      "continues_from_previous_page": true,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 294",
+      "number_ar": "مادة ٢٩٤",
+      "text_en": "A transaction entered into between a creditor and one of the joint and several debtors will benefit the other co-debtors if it involves remission of the debt or the release of the liability in respect thereof in any other way. If such a transaction creates an obligation or increases the existing obligation, it will only be binding upon the other co-debtors if they consent thereto.",
+      "text_ar": "إذا تصالح الدائن مع أحد المدينين المتضامنين وتضمن الصلح الإبراء من الدين أو براءة الذمة منه بأية وسيلة أخرى ، استفاد منه الباقون . أما إذا كان من شان هذا الصلح أن يرتب في ذمتهم التزاما أو يزيد فيما هم ملتزمون به ، فانه لا ينفيذ في حقهم غلا إذا قبلوه.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 295",
+      "number_ar": "مادة ٢٩٥",
+      "text_en": "An acknowledgement of debt by one of the joint and several debtors does not bind the other codebtors.\nIf one of the joint and several debtors refuses to take an oath or if he tenders the oath to the creditor and the creditor takes the oath, the oath refused or tendered will not prejudice the other co-debtors.\nIf the creditor tenders the oath to one of the joint and several debtors and this co-debtor takes the oath, the oath will profit the other co-debtors.",
+      "text_ar": "(١) إذا أقر أحد المدينين المتضامنين بالدين ، فلا يسري هذا الإقرار في حق الباقين.\n(٢) وإذا نكل أحد المدينين المتضامنين عن اليمين أو وجه إلى الدائن يمينا حلفها ، فلا يضار بذلك باقي المدينين.\n(٣) وإذا اقتصر الدائن على توجيه اليمين إلى أحد المدينين المتضامنين فحلف ، فان المدينين الآخرين يستفيدون من ذلك.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 296",
+      "number_ar": "مادة ٢٩٦",
+      "text_en": "A judgment given against one of the joint and several debtors will have no effect against the other codebtors.\nIf the judgment is given in favor of one of them, it will benefit the others, unless the judgment is based on a ground relating only to the co-debtor in favor of whom the judgment is rendered.",
+      "text_ar": "(١) إذا صدر حكم على أحد المدينين المتضامنين ، فلا يحتج ذا الحكم على الباقين.\n(٢) أما إذا صدر الحكم لصالح أحدهم ، فيستفيد منه الباقون إلا إذا كان الحكم مبنيا على سبب خاص بالمدين الذي صدر الحكم لصالححه.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 297",
+      "number_ar": "مادة ٢٩٧",
+      "text_en": "If one of the joint and several debtor pays the debt in full, he will only have a claim against each of the other co-debtors for each of such co-debtors' own share respectively, even if he exercises the right to action of the creditor by way of subrogation.\nThe amount paid is divisible between the co-debtors in equal parts in the absence of an agreement or a provision of the law to the contrary.",
+      "text_ar": "(١) إذا وفي أحد المدينين المتضامنين كل الدين ، فلا يجوز له أن يرجع على أي من الباقين إلا بقدر حصته في الدين ، ولو كان بما له من حق الحلول قد رجع بدعوى الدائن.\n(٢) وينقسم الدين إذا وفاه أحد المدينين حصصا متساوية بين الجميع ، ما لم يوجد اتفاق أو نص يقضي بغير ذلك.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 298",
+      "number_ar": "مادة ٢٩٨",
+      "text_en": "If one of the joint and several debtors becomes insolvent, his share shall be borne by the co-debtor who has effected payment and by all the other solvent co-debtors pro rata.",
+      "text_ar": "إذا أعسر أحد المدينين المتضامنين تحمل تبعة هذا الإعسار المدين الذي وفي بالدين ، وسائر المدينين الموسرين ، كل بقدر حصته.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 299",
+      "number_ar": "مادة ٢٩٩",
+      "text_en": "When the debt concerns one only of the joint and several debtors, he will be liable for the whole debt to the other co-debtors.",
+      "text_ar": "إذا كان أحد المدينين المتضامنين هو وحده صاحب المصلحة في الدين فهو الذي يتحمل به كله نحو الباقين.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 300",
+      "number_ar": "مادة ٣٠٠",
+      "text_en": "An obligation cannot be divided:\na) when it has for its object something which by its nature is not susceptible of division;\nb) if it is the intention of the parties or it follows from the purpose pursued by the parties that the performance of the obligation should not be divided.",
+      "text_ar": "يكون الالتزام غير قابل للانقسام:\n( أ ) إذا ورد على محل لا يقبل بطبيعته أن ينقسم.\n( ب ) إذا تبين من الغرض الذي رمي إليه المتعاقدان أن الالتزام لا يجوز تنفيذه منقسما ، أو إذا انصرفت نية المتعاقدين إلى ذلك.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 301",
+      "number_ar": "مادة ٣٠١",
+      "text_en": "When there are several debtors in respect of an",
+      "text_ar": "(١) إذا تعدد المدينون في التزام غير قابل للانقسام كان كل منهم ملزما",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": true,
+      "source_page": 1
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "headers": [
+    {
+      "text_en": "2. Time Clauses",
+      "text_ar": "٢- الأجل"
+    }
+  ],
+  "articles": [
+    {
+      "number_en": "Article 267",
+      "number_ar": "٢٦٧",
+      "text_en": "An obligation is void when it is subject to a suspensive condition by which the existence of the obligation depends solely on the will of the person who undertook the obligation.",
+      "text_ar": "لا يكون الالتزام قائما إذا علق على شرط واقف يجعل وجود الالتزام متوقفاً على محض إرادة الملتزم.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 268",
+      "number_ar": "٢٦٨",
+      "text_en": "When an obligation depends on a suspensive condition, it does not become executory until the condition is realized. Before realization of the condition, such obligation is not subject to compulsory or to voluntary performance. A creditor may, however, take protective measures to safeguard his rights.",
+      "text_ar": "إذا كان الالتزام معلقا على شرط واقف ، فلا يكون نافذا إلا إذا تحقق الشرط . أما قبل تحقق الشرط ، فلا يكون الالتزام قابلا للتنفيذ القهري ولا للتنفيذ الاختياري ، على أنه يجوز للدائن أن يتخذ من الإجراءات ما يحافظ به على حقّه.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 269",
+      "number_ar": "٢٦٩",
+      "text_en": "An obligation is extinguished when the resolutory condition is realized. The creditor must restitute that which he has received: if restitution is impossible by reason of a cause for which he is responsible, he will be liable in damages.\nActs of management carried out by a creditor shall retain their validity notwithstanding the realization of the condition.",
+      "text_ar": "(١) يترتب على تحقق الشرط الفاسخ زوال الالتزام ويكون الدائن ملزما برد ما أخذه ، فإذا استحال الرد لسبب هو مسئول عنه وجب عليه التعويض.\n(٢) على أن أعمال الإدارة التي تصدر من الدائن تبقي نافذة رغم تحقق الشرط.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 270",
+      "number_ar": "٢٧٠",
+      "text_en": "The fulfillment of a condition is effective retroactively to the day on which the obligation was contracted unless it appears from the will of the parties or by reason of the nature of the contract that the existence of the obligation or its extinction should take effect from the moment of the fulfillment of the condition.\nIn any case, the condition will not have retroactive effect if the execution of the obligation becomes impossible before the fulfillment of the condition, on account of a cause independent of the debtor and for which he is not responsible.",
+      "text_ar": "(١) إذا تحقق الشرط استند أثره إلى الوقت الذي نشأ فيه الالتزام ، إلا إذا تبين من إرادة المتعاقدين أو من طبيعة العقد أن وجود الالتزام ، أو زواله ، إنما يكون في الوقت الذي تحقق فيه الشرط.\n(٢) ومع ذلك لا يكون للشرط أثر رجعي ، إذا أصبح تنفيذ الالتزام قبل تحقق الشرط غير ممكن لسبب أجنبي لا يد للمدين فيه.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 271",
+      "number_ar": "٢٧١",
+      "text_en": "An obligation is for a term if its performance or extinction depends on a future certain event.\nAn event is considered to be certain if it must happen of necessity even if the time at which it should happen is unknown.",
+      "text_ar": "(١) يكون الالتزام لأجل إذا كان نفاده أو انقضاؤه مترتبا على أمر مستقبل محقق الوقوع.\n(٢) ويعتبر الأمر محقق الوقوع متى كان وقعه محتما ، ولو لم يعرف الوقت الذي يقع فيه.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 272",
+      "number_ar": "٢٧٢",
+      "text_en": "When it results from the obligation that the debtor shall only perform the obligation when he is able to do so or when he has the means to do so, the judge will fix a reasonable time for the term, taking into account the actual and future resources of the debtor and allowing for the diligence of a man anxious to perform his obligations.",
+      "text_ar": "إذا تبين من الالتزام أن المدين لا يقوم بوفائه إلا عند المقدرة أو الميسرة ، عين القاضي ميعدا مناسبا لحلول الأجل ، مراعيا في ذلك موارد المدين الحالية والمستقبلة ، ومقتضيا منه عناية الرجل الحريص على الوفاء بالتزامه.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 273",
+      "number_ar": "٢٧٣",
+      "text_en": "A debtor will forfeit the benefit of the term:\na) if he is declared bankrupt or insolvent in accordance with the provisions of law;\nb) if he has, by his own act, appreciably diminished the",
+      "text_ar": "يسقط حق المدين في الأجل:\n(١) إذا شهر إفلاسه أو إعساره وفقا لنصوص القانون.\n(٢) إذا أضعف بفعله إلى حد كبير أعطي الدائن من تأمين خاص ، ولو كان هذا التأمين قد أعطي بعقد لاحق أو بمقتضى القانون ، هذا ما لم يؤثر الدائن",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": true,
+      "source_page": 1
+    }
+  ]
+}

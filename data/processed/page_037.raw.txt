@@ -1,0 +1,94 @@
+{
+  "headers": [
+    {
+      "text_en": "Section III\nPlurality of Parties to an Obligation",
+      "text_ar": "الفصل الثالث\nتعدد طرفي الالتزام"
+    },
+    {
+      "text_en": "1. Joint and Several Obligations",
+      "text_ar": "١ - التضامن"
+    }
+  ],
+  "articles": [
+    {
+      "number_en": "Article 279",
+      "number_ar": "مادة ٢٧٩",
+      "text_en": "Solidarity between creditors or between debtors is not presumed. It is created by agreement or by law.",
+      "text_ar": "التضامن بين الدائنين أو بين المدينين لا يفترض ، وإنما يكون بناء على اتفاق أو نص في القانون.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 280",
+      "number_ar": "مادة ٢٨٠",
+      "text_en": "(1) When there is solidarity between creditors, the debtor may pay the debt to anyone of them unless one of them objects to such payment.\n(2) Solidarity does not prevent the debt being divided between the heirs of one of the joint and several creditors unless the debt itself is indivisible.",
+      "text_ar": "(١) إذا كان التضامن بين الدائنين ، جاز للمدين أن يوفي الدين لأي منهم ، إلا إذا مانع أحدهم في ذلك.\n(٢) ومع ذلك لا يحول التضامن دون انقسام الدين بين ورثة أحد الدائنين المتضامنين ، إلا إذا كان الدين غير قابل للانقسام.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 281",
+      "number_ar": "مادة ٢٨١",
+      "text_en": "Joint and several creditors may take proceedings jointly or severally against the debtor for the performance of the obligation. In so doing, the conditions modifying the effect of the obligation as between each creditor and the debtor should be taken into account.\nA debtor cannot, if he is sued for payment by one of his joint and several creditors, set up as a defence against that creditor, defenses that are personal as regards the other creditors, but he may set up defenses which are personal to the creditor suing him and those which are common to all the creditors.",
+      "text_ar": "(١) يجوز للدائنين المتضامنين ، مجتمعين أو منفردين ، مطالبة المدين بالوفاء ، ويراعي في ذلك ما يلحق رابطة كل دائن من وصف يعدل من أثر الدين.\n(٢) ولا يجوز للمدين إذا طالبه الدائن المتضامنين بالوفاء أن يحتج على هذا الدائن بأوجه الدفع الخاصة بغيره من الدائنين ، ولكن يجوز له أن يحتج على الدائن المطالب بأوجه الدفع بهذا الدائن ، وبأوجه الدفع المشتركة بين الدائنين جميعا.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 282",
+      "number_ar": "مادة ٢٨٢",
+      "text_en": "If a debtor is released of his debt to one of his joint and several creditors for a reason other than performance, he shall be released as regards the other creditors only up to the amount of the share of the creditor to whom he is no longer liable.\nNo one of the joint and several creditors may act in such a way as to prejudice the rights of the other creditors.",
+      "text_ar": "(١) إذا برئت ذمة المدين قبل أحد الدائنين المتضامنين بسبب غير الوفاء ، فلا تبرأ ذمته قبل باقي الدائنين إلا بقدر حصة الدائن الذي برئت ذمة المدين قبله.\n(٢) ولا يجوز لأحد الدائنين المتضامنين أن يأتي عملا من شأنه الإضرار بالدائنين الآخرين.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 283",
+      "number_ar": "مادة ٢٨٣",
+      "text_en": "That which a joint and several creditor receives on account of the debt reverts to all the creditors and will be divided between them proportionally.\nThe division shall be made in equal parts if there is no agreement or provision of the law to the contrary.",
+      "text_ar": "(١) كل ما يستوفيه أحد الدائنين المتضامنين من الدين يصير من حق الدائنين جميعا ويتحاصون فيه.\n(٢) وتكون القسمة بينهم بالتساوي ، إلا إذا وجد اتفاق أو نص يقضي بغير ذلك.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 284",
+      "number_ar": "مادة ٢٨٤",
+      "text_en": "When there is solidarity between the debtors, payment effected by one of them liberates all the others.",
+      "text_ar": "إذا كان التضامن بين المدينين فان وفاء أحدهم بالدين مبرئ لذمة الباقين.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 285",
+      "number_ar": "مادة ٢٨٥",
+      "text_en": "A creditor may take action against all his joint and several debtors jointly or severally. In so doing, the conditions modifying the effect of the obligations as between the creditor and each of the co-debtors should be taken into account.\nA co-debtor who is sued by a creditor for performance cannot set up against that creditor defenses that are personal to other co-debtors, but he may set up defenses that are personal to himself as well as those common to all the co-debtors.",
+      "text_ar": "(١) يجوز للدائن مطالبة المدينين المتضامنين بالدين مجتمعين أو منفردين ، ويراعي في ذلك ما يلحق رابطة كل مدين من أثر الدين.\n(٢) ولا يجوز للمدين الذي يطالبه الدائن بالوفاء أن يحتج بأوجه الدفع الخاصة بغيره من المدينين ، ولكن يجوز له أن يحتج بأوجه الدفع الخاصة به وبالأوجه المشتركة بين المدينين جميعا.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 286",
+      "number_ar": "مادة ٢٨٦",
+      "text_en": null,
+      "text_ar": "يترتب على تجديد الدين بين الدائن واحد المدينين المتضامنين أن تبرأ ذمة",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": true,
+      "source_page": 1
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "headers": [
+    {
+      "text_en": "Conflicts of law as to place:",
+      "text_ar": "تنازع القوانين من حيث المكان"
+    }
+  ],
+  "articles": [
+    {
+      "number_en": null,
+      "number_ar": null,
+      "text_en": "When a person, who was deemed to possess legal capacity in accordance with the provisions of a former law, becomes legally incapable in accordance with the provisions of a new law, such legal incapacity does not affect the validity of acts previously done by him.",
+      "text_ar": "(۲) وإذا عاد شخص توافرت فيه الأهلية بحسب نصوص قديمة ناقص الأهلية بحسب نصوص جديدة فإن ذلك لا يؤثر في تصرفاته السابقة.",
+      "is_repealed": false,
+      "continues_from_previous_page": true,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 7",
+      "number_ar": "مادة ( ٧ )",
+      "text_en": "New legislative provisions as regards prescription apply from such time as they come into force in all cases in which the period of prescription has not been completed. Former legislative provisions however, apply as regards the date of commencement of prescription, its suspension and its interruption in respect of the period prior to the application of the provisions of the new law.",
+      "text_ar": "(۱) تسري النصوص الجديدة المتعلقة بالتقادم من وقت العمل بها علي كل تقادم لم يكتمل.\n(۲) علي أن النصوص القديمة هي التي تسري علي المسائل الخاصة ببدء التقادم ووقفه وانقطاعه' وذلك عن المدة السابقة علي العمل بالنصوص الجديدة.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 8",
+      "number_ar": "مادة ( ٨ )",
+      "text_en": "When the new law provides for a period of prescription shorter than the period provided for in the former law, the new period will apply from the date the new law came into force, even if the old period of prescription has already commenced to run. If, however, the remaining period still to run under the former law is shorter than that fixed by the new law, the prescription shall be completed upon the expiry of such remaining period.",
+      "text_ar": "(۱) إذا قرر النص الجديد مدة التقادم أقصر مما قرره النص القديم سرت المدة الجديدة من وقت العمل بالنصوص الجديد ولو كانت المدة القديمة قد بدأت قبل ذلك.\n(۲) أما إذا كان الباقي من المدة التي نص عليها القانون القديم أقصر من المدة التي قررها النص الجديد' فإن التقادم يتم بانقضاء هذا الباقي.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 9",
+      "number_ar": "مادة ( ٩ )",
+      "text_en": "Proof established in advance is governed by provisions of the law in force at the time when the proof was established or at the time when such proof should have been established.",
+      "text_ar": "تسري في شأن الأدلة التي تعد مقدماً النصوص المعمول بها في الوقت الذي كان ينبغي فيه إعداده .",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 10",
+      "number_ar": "مادة ( ١٠ )",
+      "text_en": "Egyptian law will rule to determine the nature of a legal relationship in order to ascertain the law applicable in the event of a conflict between various laws in any particular suit.",
+      "text_ar": "القانون المصري هو المرجع في تكييف العلاقات عندما يطلب تحديد نوع هذه العلاقات في قضية تتنازع فيها القوانين' لمعرفة القانون الواجب تطبيقه من بينها.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 11",
+      "number_ar": "مادة ( ١١ )",
+      "text_en": "The status and the legal capacity of persons are governed by the law of the country to which they belong by reason of their nationality. If, however, in a transaction of a pecuniary nature, concluded and having effect in Egypt, one of the parties is a foreigner without legal capacity and such lack of capacity is due to a reason that is not apparent and which cannot be easily detected by the other party, this reason has no effect on his legal capacity.\nThe legal status of foreign juristic persons such as companies, associations, foundations, or others, is subject to the law of the State in whose territory such juristic persons have established their actual principal seat of management. If, however, a juristic person carries on its principal activities in Egypt, Egyptian law will be applied.",
+      "text_ar": "(۱) الحالة المدنية للأشخاص وأهليتهم يسري عليها قانون الدولة التي ينتمون إليها بجنسيتهم ومع ذلك ففي التصرفات المالية التي تعقد في مصر وتترتب آثارها فيها' إذا كان أحد الطرفين أجنبياً ناقص الأهلية وكان نقص الأهلية يرجع إلى سبب فيه خفاء لا يسهل علي الطرف الآخر تبينه' فإن هذا السبب لا يؤثر في أهليته.\n(۲) أما النظام القانوني للأشخاص الاعتبارية الأجنبية من شركات وجمعيات ومؤسسات وغيرها فيسري عليه قانون الدولة التي اتخذت فيها هذه الأشخاص مراكز إدارتها الرئيسي الفعلي. ومع ذلك فإذا باشرت نشاطها الرئيسي في مصر' فان القانون المصري هو الذي يسري.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 12",
+      "number_ar": "مادة ( ١٢ )",
+      "text_en": "The fundamental conditions relating to the validity of marriage are governed by the (national) law of each of the two spouses.",
+      "text_ar": "يرجع في الشروط الموضوعية لصحة الزواج إلي قانون كل من الزوجين.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    }
+  ]
+}

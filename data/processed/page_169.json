@@ -1,0 +1,70 @@
+{
+  "page": 169,
+  "model": "gemini-3.5-flash-lite",
+  "blocks": [
+    {
+      "kind": "article",
+      "front_matter": false,
+      "label_en": null,
+      "label_ar": null,
+      "title_en": null,
+      "title_ar": null,
+      "number_en": null,
+      "number_ar": null,
+      "number_end": null,
+      "text_en": "privilege does not operate as against the lessor in as much as he is a third party holder in good faith.\nIf movables and crops so charged are removed from the leased property, notwithstanding the objection of the lessor or without his knowledge, and the movables remaining on the property are not sufficient to secure the privileged claim, the privilege is enforceable on the movables and crops so removed subject to rights acquired on these movables and crops by third parties in good faith.\nThe privilege shall remain in force for three years from the date of removal, even to the detriment of a third party's rights, if the lessor effects within the prescribed time limit an attachment on the movables and crops removed. If, however, the movables and crops are sold to a purchaser in good faith in the market by public auction or by a merchant dealing in similar articles, the lessor must reimburse the purchaser with the price.",
+      "text_ar": "الامتياز قائما ولو أضر بحق الغير لمدة ثلاث سنوات من يوم نقلها إذا أوقع المؤجر عليها حجزا استحقاقيا في الميعاد القانوني . ومع ذلك إذا بيعت هذه الأموال إلى مشتري حسن النية فى سوق عام أو فى مزاد علنى أو ممن يتجر في مثلها ، وجب على المؤجر أن يرد الثمن إلى هذا المشترى.",
+      "is_repealed": false,
+      "continues_from_previous_page": true,
+      "continues_on_next_page": false
+    },
+    {
+      "kind": "article",
+      "front_matter": false,
+      "label_en": null,
+      "label_ar": null,
+      "title_en": "Article 1144",
+      "title_ar": "مادة ١١٤٤",
+      "number_en": "1144",
+      "number_ar": "١١٤٤",
+      "number_end": null,
+      "text_en": "Sums due to hotel proprietors by a traveller for accommodation, food and expenses incurred for his account, are secured by a privilege over the effects brought by the traveller to the hotel or its annexes.\nUnless it can be shown that the hotel proprietor knew of the existence of a third party's rights over these effects at the time they were brought on to the premises, this privilege may be enforced on these effects, even if they do not belong to the traveller, provided that they are not lost or stolen property. An hotel proprietor may, if he has not been paid in full, object to the removal of these effects, and if they are removed notwithstanding his objection or without his knowledge, the privilege continues to be enforceable on them, subject to the rights acquired by third parties in good faith.\nAn hotel proprietor's privilege has the same rank as a lessor's privilege. Should the effects in question be subject to both claims, the first in date will have priority, unless it is not enforceable against the other.",
+      "text_ar": "(١) المبالغ المستحقة لصاحب الفندق فى ذمة التريل عن أجره الإقامة والمؤونة وما صرف لحسابه ، ويكون لها امتياز على الأمتعة التى أحضرها التريل فى الفندق أو ملحقاته.\n( ٢ ) ويقع الامتياز على الأمتعة ولو كانت غير مملوكة للتريل إذا لم يثبت صاحب الفندق كان يعلم وقت إدخالها عنده بححق الغير عليها بشرط ألا تكون تلك الأمتعة مسروقة أو ضائعة . ولصاحب الفندق أن يعارض فى نقل الأمتعة من فندقه مادام لم يستوف حقه كاملا . فإذا نقلت الأمتعة رغم معارضته او دون علمه ، فإن حق الامتياز يبقى قائما عليها دون إخلال بالحقوق كسبها الغير بحسن نية.\n( ٣ ) وامتياز صاحب الفندق نفس المرتبة التى لامتياز المؤجر ، فإذا تزاحم قدم الأسبق فى التاريخ ، ما لم يكن غير نافذ بالنسبة إلى الآخر.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "kind": "article",
+      "front_matter": false,
+      "label_en": null,
+      "label_ar": null,
+      "title_en": "Article 1145",
+      "title_ar": "مادة ١١٤٥",
+      "number_en": "1145",
+      "number_ar": "١١٤٥",
+      "number_end": null,
+      "text_en": "Sums due to a vendor of a movable for price and accessories are secured by a privilege over the movable sold. This privilege is enforceable as long as the movable sold preserves its identity, subject to the rights acquired in good faith by third parties and subject to the special provisions applicable in commercial matters.\nThe privilege follows in rank privileges over movables above referred to. It operates, however, as against the lessor and the hotel proprietor, if it can be proved that they had knowledge of such privilege at the time the thing sold was brought onto the leased property or into the hotel.",
+      "text_ar": "(١) ما يستحق لبائع المنقول من الثمن وملحقاته يكون له امتياز على الشيء المبيع ، ويبقى الامتياز قائما مادام المبيع محتفظا بذاتيته . وهذا دون إخلال بالحقوق التى كسبها الغير بحسن نية ، مع مراعاة الأحكام الخاصة بالمواد التجارية.\n( ٢ ) ويكون هذا الامتياز تاليا في المرتبة لما تقدم ذكره من حقوق الامتياز الواقعة على منقول ، إلا أنه يسرى فى حق المؤجر وصاحب الفندق إذا ثبت أن[أ]ما كانا يعلمان به وقت وضع المبيع فى العين المؤجرة أو الفندق.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "kind": "article",
+      "front_matter": false,
+      "label_en": null,
+      "label_ar": null,
+      "title_en": "Article 1146",
+      "title_ar": "مادة ١١٤٦",
+      "number_en": "1146",
+      "number_ar": "١١٤٦",
+      "number_end": null,
+      "text_en": "Co-owners who have partitioned a movable have a privilege over this movable in respect of their respective remedies against each other resulting from partition, and for repayment of any difference reverting to them in the partition.",
+      "text_ar": "(١) للشركاء الذين اقتسموا منقولا ، حق امتياز عليه تأمينا لحق كل منهم فى الرجوع على الآخرين بسبب القسمة ، وفى استيفاء ما تقرر لهم فيها من معدل.\n( ٢ ) وتكون لامتياز المتقاسم نفس المرتبة التى لامتياز البائع فإذا تزاحم",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": true
+    }
+  ]
+}

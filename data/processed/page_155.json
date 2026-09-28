@@ -1,0 +1,70 @@
+{
+  "page": 155,
+  "model": "gemini-3.5-flash-lite",
+  "blocks": [
+    {
+      "kind": "article",
+      "front_matter": false,
+      "label_en": null,
+      "label_ar": null,
+      "title_en": null,
+      "title_ar": null,
+      "number_en": null,
+      "number_ar": null,
+      "number_end": null,
+      "text_en": "If the debt owed by the third party holder is not yet due for payment, or is less than the debts due to the creditors, or different from them, the creditors may, if they are all agreed, claim from the third party holder payment of what he owes, up to the amount due to them, and payment will be effected in accordance with the conditions on which he has agreed to pay in his original undertaking, and at the time agreed upon for payment.\nIn neither case can the third party holder avoid payment to the creditors by abandoning the property, but when payment has been made to the creditors the property is deemed to be free of all mortgages and the third party holder has the right to call for the radiation of the inscriptions existing on the property.",
+      "text_ar": "جميعا أن يطالبوا الحานر بدفع ما في ذمته بقدر ما هو مستحق لهم ، ويكون الدفع طبقا للشروط التي التزم الحائز في أصل تعهده أن يدفع بمقتضاها وفى الأجل المتفق على الدفع فيه.\n( ٣ ) وفي كلتا الحالتين لا يجوز للحائز أن يتخلص من التزامه بالوفاء للدائنين بتخليه عن العقار ، ولكن إذا هو وفى لهم فإن العقار يعتبر خالصا من كل رهن ويكون للحائز الحق في طلب محو ما على العقار من القيود.",
+      "is_repealed": false,
+      "continues_from_previous_page": true,
+      "continues_on_next_page": false
+    },
+    {
+      "kind": "article",
+      "front_matter": false,
+      "label_en": null,
+      "label_ar": null,
+      "title_en": null,
+      "title_ar": null,
+      "number_en": "1064",
+      "number_ar": "١٠٦٤",
+      "number_end": null,
+      "text_en": "The third party holder who has transcribed his title to the property may purge the property of any mortgage inscribed before the transcription of his title.\nHe can exercise this right even before the mortgagees have served upon the debtor a formal summons to pay, or have served upon the third party holder any summons, and he keeps this right up to the date of the filing in Court of the conditions of sale of the property.",
+      "text_ar": "(١) يجوز للحائز إذا سجل سند ملكيته أن يطهر العقار من كل رهن تم قيده تسجيل هذا السند.\n( ٢ ) وللحائز أن يستعمل هذا الحق حتى قبل ان يوجه الدائنون المرتهنون التنبيه إلى المدين أو الإنذار إلى هذا الحائز ، ويبقى هذا الحق قائما إلى يوم إيداع قائمة شروط البيع.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "kind": "article",
+      "front_matter": false,
+      "label_en": null,
+      "label_ar": null,
+      "title_en": null,
+      "title_ar": null,
+      "number_en": "1065",
+      "number_ar": "١٠٦٥",
+      "number_end": null,
+      "text_en": "If the third part holder decides to proceed with the purge of the property, he must serve upon the inscribed creditors, at their elected domiciles indicated in their inscriptions, summons containing the following particulars:\na- an extract of his title deed, setting the out particulars and the nature and date of the act of disposition, the name in full and precise particulars of the previous owner of the property, the situation and a detailed and precise description of the property, and, if the disposal is a sale, the price and the charges, if any, that may be considered as part of the price;\nb- the date and number of the transcription of his title;\nc- the sum at which he values the property, even if the property is disposed of by sale: this sum must not be less than the reserve price in the case of expropriation nor in any case less than the sum remaining to be paid by the third party holder on the price of the property if the act of disposition was a sale. If parts of the property are charged with separate mortgages, each part must be valued separately;\nd- a list of rights inscribed on the property before the transcription of his title: this list shall contain the date of the inscriptions, the amount of the inscribed debts and the names of the creditors.",
+      "text_ar": "إذا أراد الحائز تطهير العقار وجب عليه أن يوجه إلى الدائنين المقيدة حقوقهم في مواطنهم المختارة المذكورة في القيد إعلانات تشتمل على البيانات الآتية:\n( أ ) خلاصة من سند ملكية الحائز تقتصر على بيان نوع التصرف وتاريخه واسم المالك السابق للعقار مع تعيين هذا المالك تعيينا دقيقا ومحل العقار مع تعيينه وتحديده بالدقة . وإذا كان التصرف بيعا يذكر أيضا الثمن وما عسى أن يوجد من تكاليف تعتبر جزءا من هذا الثمن.\n( ب ) تاريخ تسجيل ملكية الحائز ورقم هذا التسجيل.\n( ج ) المبلغ الذي يقدره الحائز قيمة للعقار ولو كان التصرف بيعا ويجب ألا يقل هذا المبلغ عن السعر الذي يتخذ أساسا لتقدير الثمن في حالة نزع الملكية ، ولا أن يقل في أي حال عن الباقي في ذمة الحائز من ثمن العقار إذا كان التصرف بيعا . وإذا كانت أجزاء العاقر مثقلة برهون مختلفة وجب قيمة كل جزء على حدة.\n( د ) قائمة بالحقوق التي تم قيها على العقار قبل تسجيل سند الحائز تشتمل على بيان تاريخ هذه القيود ومقدار هذه الحقوق وأسماء الدائنين.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false
+    },
+    {
+      "kind": "article",
+      "front_matter": false,
+      "label_en": null,
+      "label_ar": null,
+      "title_en": null,
+      "title_ar": null,
+      "number_en": "1066",
+      "number_ar": "١٠٦٦",
+      "number_end": null,
+      "text_en": "The third party holder must, by the same summons, declare that he is prepared to pay off the inscribed debts up to the amount at which he has valued the property; his offer need not be accompanied by actual production of the money but must be offer of a sum payable in cash, whatever may be the date at which the inscribed",
+      "text_ar": "يجب على الحائز أن يذكر في الاعلان أنه مستعد أن يوفى الديون المقيدة إلى القدر الذي قوم به العقار . وليس عليه أن يصحب العرض بالمبلغ نقدا بل ينحصر العرض في إظهار استعداده للوفاء بمبلغ الدفع في الحال أيا كان ميعاد استحقاق الديون المقيدة.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": true
+    }
+  ]
+}

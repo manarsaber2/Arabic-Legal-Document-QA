@@ -1,0 +1,116 @@
+{
+  "headers": [
+    {
+      "text_en": "FIRST PART\nOBLIGATIONS OR PERSONAL RIGHTS",
+      "text_ar": "القسم الأول\nالالتزامات أو الحقوق الشخصية"
+    },
+    {
+      "text_en": "BOOK I\nOBLIGATIONS GENERALLY",
+      "text_ar": "الكتاب الأول\nالالتزامات بوجه عام"
+    },
+    {
+      "text_en": "CHAPTER I\nSources of Obligations",
+      "text_ar": "الباب الأول\nمصادر الالتزام"
+    },
+    {
+      "text_en": "Section I\nContracts",
+      "text_ar": "الفصل الأول\nالعقد"
+    },
+    {
+      "text_en": "1. Elements of Contracts\nConsent:",
+      "text_ar": "أولا:- أركان العقد\n١ - الرضاء"
+    }
+  ],
+  "articles": [
+    {
+      "number_en": null,
+      "number_ar": null,
+      "text_en": "All real rights over immovable property including the right of ownership and all suits relating to a real right over an immovable are deemed to be immovable property. All other proprietary rights are deemed to be movable property.",
+      "text_ar": "(١) يعتبر مالا عقاريا كل حق عيني يقع علي عقار، بما في ذلك حق الملكية وكذلك كل دعوى تتعلق بحق عيني علي عقار.\n(٢) ويعتبر مالا منقولا ما عدا ذلك من الحقوق المالية.",
+      "is_repealed": false,
+      "continues_from_previous_page": true,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 84",
+      "number_ar": "مادة ( ٨٤ )",
+      "text_en": "Consumable things are those things whose utility, by reason of their destined use, consists in their consumption or disposal.\nAll things destined for sale in commercial establishments are deemed to be consumable.",
+      "text_ar": "(١) الأشياء القابلة للاستهلاك هي التي ينحصر استعمالها، بحسب ما أعدت له، في استهلاكها أو إنفاقها.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 85",
+      "number_ar": "مادة ( ٨٥ )",
+      "text_en": "Fungibles are those things which can be replaced one by another in a payment and which it is customary in trade to estimate by number, measure, volume or weight.",
+      "text_ar": "الأشياء المثلية هي التي يقوم بعضها مقام بعض عند الوفاء والتي تقدر عاد في التعامل بين الناس بالعدد أو المقاس أو الكيل أو الوزن .",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 86",
+      "number_ar": "مادة ( ٨٦ )",
+      "text_en": "Rights in respect of a non-material object are regulated by special laws.",
+      "text_ar": "الحقوق التي ترد علي شيء غير مادي تنظمها قوانين خاصة.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 87",
+      "number_ar": "مادة ( ٨٧ )",
+      "text_en": "Immovable and movable property owned by the State or other public juristic persons and allocated either in fact or by virtue of a law or a decree for purposes of public utility, forms part of the public domain.\nSuch immovable and movable property is not alienable, is not liable to seizure nor to acquisition by prescription.",
+      "text_ar": "(١) تعتبر أموال عامة، العقارات والمنقولات التي للدولة أو للأشخاص الاعتبارية العامة والتي تكون مخصصة لمنفعة عامة بالفعل أو بمقتضى قانون أو مرسوم أو قرار من الوزير المختص .\n(٢) وهذه الأموال لا يجوز التصرف فيها أو الحجز عليها أو تملكها بالتقادم .",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 88",
+      "number_ar": "مادة ( ٨٨ )",
+      "text_en": "Properties forming part of the public domain lose this status with the cessation of their allocation for public utility purposes.\nThis cessation takes place by virtue of a law, or a decree, or in fact, or if the object of public utility for which they were allocated comes to an end.",
+      "text_ar": "تفقد الأموال العامة صفقتها بانتهاء تخصيصها للمنفعة العامة. وينتهي التخصيص بمقتضى قانون أو مرسوم أو قرار من الوزير المختص أو بالفعل، أو بانتهاء الغرض الذي من أجله خصصت تلك الأموال للمنفعة العامة.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 89",
+      "number_ar": "مادة ( ٨٩ )",
+      "text_en": "A contract is created, subject to any special formalities that may be required by law for its conclusion, from the moment that two persons have exchanged two concordant intentions.",
+      "text_ar": "يتم العقد بمجرد أن يتبادل طرفان التعبير عن إرادتين متطابقتين، مع مراعاة ما يقرره القانون فوق ذلك من أوضاع معينة لانعقاد العقد.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 90",
+      "number_ar": "مادة ( ٩٠ )",
+      "text_en": "An intention may be declared verbally, in writing, by signs in general use, and also by such conduct as, in the circumstances of the case, leaves no doubt as to its true meaning.\nA declaration of intention may be implied when neither the law nor the parties require it to be expressed.",
+      "text_ar": "(١) التعبير عن الإرادة يكون باللفظ وبالكتابة وبالإشارة والمتداولة عرفاً، كما يكون باتخاذ موقف لا تدع ظروف الحال شكاً في دلالته علي حقيقة المقصود.\n(٢) ويجوز أن يكون التعبير عن الإرادة ضمنياً، إذا لم ينص القانون أو يتفق الطرفان علي أن يكون صريحاً.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 91",
+      "number_ar": "مادة ( ٩١ )",
+      "text_en": "A declaration of intention becomes effective from the",
+      "text_ar": "ينتج التعبير عن الإرادة أثره في الوقت الذي يتصل فيه يعلم من وجه إليه،",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": true,
+      "source_page": 1
+    }
+  ]
+}
