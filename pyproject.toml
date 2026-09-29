@@ -7,7 +7,7 @@ name="Arabic Legal Document QA"
 version="0.1.0"
 description="System answers legal questions"
 readme="README.md"
-requires-python -">=3.10,<3.14"
+requires-python =">=3.10,<3.14"
 
 authors=[
     {name="Manar Saber"}
@@ -15,7 +15,7 @@ authors=[
 
 dependencies=[
     "fastapi",
-    "dvc-gdrive"
+    "llama-cloud"
 ]
 
 [project.optional-dependencies]

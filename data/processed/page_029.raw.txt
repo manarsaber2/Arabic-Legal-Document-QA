@@ -1,0 +1,115 @@
+{
+  "headers": [],
+  "articles": [
+    {
+      "number_en": null,
+      "number_ar": null,
+      "text_en": "the litigation has been unjustifiably prolonged.",
+      "text_ar": null,
+      "is_repealed": false,
+      "continues_from_previous_page": true,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 230",
+      "number_ar": "مادة ٢٣٠",
+      "text_en": "In a distribution of the price of expropriated property, creditors admitted to the distribution will only be entitled, as from the date of sale by auction, to moratory interest on amounts allocated to them in the distribution, if the purchaser is bound to pay interest on the price, or if the Caisse du Tribunal is bound to pay interest as a result of the deposit of the price at the Caisse, and only to the extent of interest due by the purchaser or by the Caisse, which interest will be distributed amongst all the creditors pro rata.",
+      "text_ar": "عند توزيع ثمن الشيء الذي بيع جبرا لا يكون الدائنون المقبولون في التوزيع مستحقين بعد رسو المزاد لفوائد تأخير عن الأنصبة التي تقررت لهم في هذا التوزيع إلا إذا كان الراسي عليه المزاد ملزما بدفع فوائد الثمن، أو كانت خزانة المحكمة ملزمة بهذه الفوائد بسبب إيداع الثمن فيها، على ألا يتجاوز ما يتقاضاه الدائنون من فوائد في هذه الحالة ما هو مستحق منها قبل الراسي عليه المزاد أو خزانة المحكمة. وهذه الفوائد تقسم بين الدائنين جميعا قسمة غرماء.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 231",
+      "number_ar": "مادة ٢٣١",
+      "text_en": "A creditor may demand damages in addition to interest if he establishes that a loss, in excess of the interest, was due to bad faith on the part of the debtor.",
+      "text_ar": "يجوز للدائن أن يطالب بتعويض تكميلي يضاف إلى الفوائد إذا ثبت أن الضرر الذي يجاوز الفوائد قد تسبب فيه المدين بسوء نية.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 232",
+      "number_ar": "مادة ٢٣٢",
+      "text_en": "Subject to any commercial rules or practice to the contrary, interest does not run on outstanding interest and in no case shall the total interest that the creditor may collect exceed the amount of the capital.",
+      "text_ar": "لا يجوز تقاضي فوائد على متجمد الفوائد، ولا يجوز في أية حال أن يكون مجموع الفوائد التي يتقاضاها الدائن أكثر من رأس المال وذلك كله دون إخلال بالقواعد والعادات التجارية.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 233",
+      "number_ar": "مادة ٢٣٣",
+      "text_en": "The legal rate of commercial interest on current accounts varies according to the local market rate applicable, and capitalization is effected on current accounts according to commercial usage.",
+      "text_ar": "الفوائد التجارية التي تسرى على الحساب الجاري تختلف سعرها القانوني باختلاف الجهات، ويتبع في طريقة حساب الفوائد المركبة في الحساب الجاري ما يقضى به العرف التجاري.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": null,
+      "number_ar": null,
+      "text_en": "Section III\nMeans of Realizing and Securing the Rights of Creditors",
+      "text_ar": "الفصل الثالث\nما يكفل حقوق الدائنين من وسائل تنفيذ ووسائل ضمان",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 234",
+      "number_ar": "مادة ٢٣٤",
+      "text_en": "The debts of a debtor are secured by all his property.\nSubject to any right of preference acquired in accordance with law, all creditors are treated as regards this security on a footing of equality.",
+      "text_ar": "(١) أموال المدين جميعها ضامنة للوفاء بديونه.\n(٢) وجميع الدائنين متساوون في هذا الضمان إلا من كان له منهم حق التقدم طبقا للقانون.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": null,
+      "number_ar": null,
+      "text_en": "1. Means of Realizing the Rights of Creditors",
+      "text_ar": "١ ـ وسائل التنفيذ",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 235",
+      "number_ar": "مادة ٢٣٥",
+      "text_en": "Every creditor, even if his claim has not fallen due, may exercise in the name of his debtor all his debtor's rights of action save only those that are purely personal or cannot be attached.\nThe exercise by a creditor of the rights of his debtor is not admissible, unless the creditor proves that the debtor himself has not exercised such rights and that the debtor's failure to do so is such as to result in or increase his insolvency. The creditor need not necessarily formally summon the debtor to exercise his rights but he must always join the debtor in the proceedings.",
+      "text_ar": "(١) لكل دائن ولو لم يكن حقه مستحق الأداء أن يستعمل باسم مدينة جميع حقوق هذا المدين، إلا ما كان منها متصلا بشخصه خاصة أو غير قابل للحجز.\n(٢) ولا يكون استعمال الدائن لحقوق مدينة مقبولا إلا إذا أبطت أن المدين لم يستعمل هذه الحقوق وأن عدم استعماله لها من شأنه أن يسبب إعساره أو أن يزيد في هذا الإعسار. ولا يشترط أعذار المدين لاستعمال حقه ولكن يجب إدخاله خصما في الدعوى.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 236",
+      "number_ar": "مادة ٢٣٦",
+      "text_en": "A creditor, in the exercise of his debtor's right, is deemed to be the debtor's representative. The proceeds resulting from the exercise of such rights fall into the patrimony of the debtor and serve as security to all his creditors.",
+      "text_ar": "يعتبر الدائن في استعماله حقوق مدينة نائبا عن هذا المدين، وكل فائدة تنتج من استعمال هذه الحقوق تدخل في أموال المدين وتكون ضمانا لجميع دائنيه.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 237",
+      "number_ar": "مادة ٢٣٧",
+      "text_en": "Any creditor whose claim has fallen due and whose debtor has entered into an act of alienation prejudicial to him may demand that such act be declared void so far as he is concerned, if such act has either diminished his",
+      "text_ar": "لكل دائن أصبح حقه مستحق الأداء، وصدر من مدينة تصرف ضار به أن يطلب عدم نفاذ هذا التصرف في حقه، إذا كان التصرف قد انقص من حقوق المدين أو زاد في التزاماته وترتب عليه إعسار المدين أو الزيادة في إعساره، وذلك متي توافرت الشروط المنصوص عليها في المادة التالية.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": true,
+      "source_page": 1
+    }
+  ]
+}

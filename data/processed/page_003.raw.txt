@@ -1,0 +1,85 @@
+{
+  "headers": [],
+  "articles": [
+    {
+      "number_en": "Article 13",
+      "number_ar": "مادة ( ١٣ )",
+      "text_en": "The effects of marriage, including its effects upon the property of the spouses, are regulated by the law of the country to which the husband belongs at the time of conclusion of the marriage. Repudiation of marriage is governed by the law of the country to which the husband belongs at the time of repudiation, whereas divorce and separation are governed by the law of the country to which the husband belongs at the time of the commencement of the legal proceedings.",
+      "text_ar": "(١) يسري قانون الدولة التي ينتمي إليها الزوج وقت انعقاد الزواج علي الآثار التي يرتيبها عقد الزواج بما في ذلك من أثر بالنسبة إلي المال.\n(٢) أما الطلاق' ويسري علي التطليق والانفصال قانون الدولة التي ينتمي إليها الزوج وقت الدعوى.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 14",
+      "number_ar": "مادة ( ١٤ )",
+      "text_en": "If, in the cases provided for in the two preceding articles one of the two spouses is an Egyptian at the time of the conclusion of the marriage, Egyptian law alone shall apply except as regards the legal capacity to marry.",
+      "text_ar": "في الأحوال المنصوص عليها في المادتين السابقتين إذا كان أحد الزوجين مصرياً وقت انعقاد الزواج' يسري القانون المصري وحده، فيها علي شرط الأهلية للزواج.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 15",
+      "number_ar": "مادة ( ١٥ )",
+      "text_en": "Obligations as regards payment of alimony to relatives are governed by the (national) law of the person liable for such payment.",
+      "text_ar": "يسري علي الالتزام بالنفقة فيما بين الأقارب قانون المدين بها.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 16",
+      "number_ar": "مادة ( ١٦ )",
+      "text_en": "The (national) law of a person who should be protected shall apply in respect of all fundamental matters relating to natural and legal guardianship, receivership, and other forms of protection of persons without legal capacity and of absent persons.",
+      "text_ar": "تسري علي المسائل الموضوعية الخاصة بالولاية والوصاية والقوامة وغيرها من النظم الموضوعية لحماية المحجور عليهم والغائبين، قانون الشخص التي تجب حمايته.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 17",
+      "number_ar": "مادة ( ١٧ )",
+      "text_en": "Inheritances, wills and other dispositions taking effect after death are governed by the (national) law of the de cujus, the testator or the person disposing of property at death.\nThe form of a will, however, is governed by the (national) law of testator at the time the will is made, or by the law of the country in which the will is made. The same principles apply to the form of other dispositions taking effect after death.",
+      "text_ar": "(١) يسري علي الميراث والوصية وسائر التصرفات المضافة إلي ما بعد الموت، قانون المورث أو الموصي أو من صدر منه التصرفات وقت موته.\n(٢) ومع ذلك يسري علي شكل الوصية، قانون الموصي وقت الإيصاء أو قانون البلد الذي تمت فيه الوصية وكذلك الحكم في شكل سائر التصرفات المضافة إلي ما بعد الموت.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 18",
+      "number_ar": "مادة ( ١٨ )",
+      "text_en": "Possession, ownership and other real rights are regulated, as regards immovables, by the law of the place in which the immovable is situate, and as regards movables, by the law of the place where the movable was situate at the time the event occurred which resulted in the acquisition or loss of possession, ownership or other real rights.",
+      "text_ar": "يسري علي الحيازة والملكية والحقوق العينية الأخرى، قانون الموقع فيما يختص بالعقار، ويسري بالنسبة إلي المنقول، قانون الجهة التي يوجد فيها هذا المنقول وقت تحقق السبب الذي ترتب عليه كسب الحيازة أو الملكية أو الحقوق العينية الأخرى أو فقدها.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 19",
+      "number_ar": "مادة ( ١٩ )",
+      "text_en": "Contractual Obligations are governed by the law of the domicile when such domicile is common to the contracting parties, and in the absence of a common domicile by the law of the place where the contract was concluded. These provisions are applicable unless the parties agree, or the circumstances indicate that it is intended to apply another law.\nContracts relating to immovables, however, are governed by the law of the place in which the immovable is situate.",
+      "text_ar": "(١) يسري علي الالتزامات التعاقدية. قانون الدولة التي يوجد فيها الموطن المشترك للمتعاقدين إذا اتحدا موطناً، فإن اختلفا موطنا سري قانون الدولة التي تم فيها العقد. هذا ما لم يتفق المتعاقدان أو يتبين من الظروف أن قانوناً آخر هو الذي يراد تطبيقه.\n(٢) علي أن قانون موقع العقار هو الذي يسري علي العقود التي أبرمت في شأن هذا العقار.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 20",
+      "number_ar": "مادة ( ٢٠ )",
+      "text_en": "Contracts between living persons are governed as regards their form by the law of the country in which the",
+      "text_ar": "العقود ما بين الأحياء تخضع في شكلها لقانون البلد الذي تمت فيه، ويجوز أيضاً أن تخضع للقانون الذي يسري علي أحكامها الموضوعية، كما يجوز",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": true,
+      "source_page": 1
+    }
+  ]
+}

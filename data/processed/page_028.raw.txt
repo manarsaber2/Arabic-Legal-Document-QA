@@ -1,0 +1,85 @@
+{
+  "headers": [],
+  "articles": [
+    {
+      "number_en": null,
+      "number_ar": null,
+      "text_en": "only to spouses and to relatives up to the second degree, by reason of grief caused to them by the death of the victim.",
+      "text_ar": null,
+      "is_repealed": false,
+      "continues_from_previous_page": true,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 223",
+      "number_ar": "مادة ٢٢٣",
+      "text_en": "The parties may fix in advance the amount of damages either in the contract or in a subsequent agreement, subject to provisions of Articles 215 to 220.",
+      "text_ar": "يجوز للمتعاقدين أن يحددا مقدما قيمة التعويض بالنص عليها في العقد أو في اتفاق لاحق، ويراعى في هذه الحالة أحكام المواد من ٢١٥ – إلى ٢٢٠.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 224",
+      "number_ar": "مادة ٢٢٤",
+      "text_en": "Damages fixed by agreement are not due, if the debtor establishes that the creditor has not suffered any loss. The judge may reduce the amount of these damages, if the debtor establishes that the amount fixed was grossly exaggerated or that the principal obligation has been partially performed. Any agreement contrary to the provisions of the two preceding paragraphs is void.",
+      "text_ar": "(١) لا يكون التعويض الاتفاقي مستحقا إذا أثبت المدين أن الدائن لم يلحقه أي ضرر.\n(٢) ويجوز للقاضي أن يخفض هذا التعويض إذا أثبت المدين أن التقدير كان مبالغا فيه إلى درجة كبيرة، أو أن الالتزام الأصلي قد نفذ في جزء منه.\n(٣) ويقع باطلا كل اتفاق يخالف الفقرتين السابقتين.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 225",
+      "number_ar": "مادة ٢٢٥",
+      "text_en": "When the loss exceeds the amount fixed by the contract, the creditor cannot claim an increased sum, unless he is able to prove that the debtor has been guilty of fraud or gross negligence.",
+      "text_ar": "إذا جاوز الضرر قيمة التعويض الاتفاقي فلا يجوز للدائن أن يطالب بأكثر من هذه القيمة إلا إذا أثبت أن المدين قد ارتكب غشا أو خطأ جسيما.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 226",
+      "number_ar": "مادة ٢٢٦",
+      "text_en": "When the object of an obligation is the payment of a sum of money of which the amount is known at the time when the claim is made, the debtor shall be bound, in case of delay in payment, to pay to the creditor, as damages for the delay, interest at the rate of four percent in civil matters and five percent in commercial matters. Such interest shall run from the date of the claim in court, unless the contract or commercial usage fixes another date. This Article shall apply, unless otherwise provided in law.",
+      "text_ar": "إذا كان محل الالتزام مبلغا من النقود وكان معلوم المقدار وقت الطلب وتأخر المدين في الوفاء به، كان ملزما بأن يدفع للدائن على سبيل التعويض عن التأخر فوائد قدرها أربعة في المائة في المسائل المدنية وخمسة في المائة في المسائل التجارية .وتسرى هذه الفوائد من تاريخ المطالبة القضائية[١] أن لم يحدد الاتفاق أو العرف التجاري تاريخا آخر لسريانها، وهذا كله ما لم ينص القانون على غيره.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 227",
+      "number_ar": "مادة ٢٢٧",
+      "text_en": "The parties may agree upon another rate of interest either in the event of delay in effecting payment or in any other case in which interest has been stipulated, provided that it does not exceed seven percent. If the parties agree to a rate exceeding seven percent, the rate will be reduced to seven percent and any surplus that has been paid shall be refunded. Any commission or other consideration of whatsoever nature stipulated by the creditor which, together with the agreed interest, exceeds the maximum limits of interest set out above, will be considered as disguised interest and will be subject to reduction, if it is not established that this commission or this consideration is in respect of a service actually rendered by the creditor or of a lawful consideration.",
+      "text_ar": "(١) يجوز للمتعاقدين أن يتفقا على سعر آخر للفوائد سواء أكان ذلك في مقابل تأخير الوفاء أم في أية حالة أخرى تشترط فيها الفوائد، على ألا يزيد هذا السعر على سبعة في المائة فإذا اتفقا على هذا السعر وجب تخفيضها إلى سبعة في المائة وتعين رد دفع زائدا على هذا القدر.\n(٢) وكل عمولة أو منفعة، أياً كان نوعها. اشترطها الدائن إذا زادت هي والفائدة المتفق عليها على الحد الأقصى المتقدم ذكره تعتبر فائدة مستترة وتكون قابلة للتخفيض، إذا ما ثبت أن هذه العمولة أو المنفعة لا تقابلها خدمة حقيقية يكون الدائن قد أداها ولا منفعة مشروعة.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 228",
+      "number_ar": "مادة ٢٢٨",
+      "text_en": "Moratory interest, whether fixed by law or by agreement, is due without the creditor being obliged to prove loss as a result of delay.",
+      "text_ar": "لا يشترط لاستحقاق فوائد التأخير قانونية كانت أو اتفاقية أن يثبت الدائن ضرراً لحقه من هذا التأخير.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 229",
+      "number_ar": "مادة ٢٢٩",
+      "text_en": "If a creditor, whilst claiming his rights, has in bad faith prolonged the duration of the litigation, the judge may reduce the legal or contractual interest or may refuse to allow interest for the whole of the period during which which",
+      "text_ar": "إذا تسبب الدائن بسوء نيته وهو يطالب بحقه، في إطالة أمد التراع فللقاضي أن يخفض الفوائد قانونية كانت أو اتفاقية أو لا يقضى بها إطلاق عن المدة التي فيها التراع بلا مبرر.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": true,
+      "source_page": 1
+    }
+  ]
+}

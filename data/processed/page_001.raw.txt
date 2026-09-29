@@ -1,0 +1,78 @@
+{
+  "headers": [
+    {
+      "text_en": "SECTION I\nLaws and their Applications",
+      "text_ar": "الفصل الأول\nالقانون وتطبيقه"
+    },
+    {
+      "text_en": "1. Laws and Rights",
+      "text_ar": "١ - القانون والحق"
+    },
+    {
+      "text_en": "2. The Application of Laws\nConflicts of law as to time:",
+      "text_ar": "٢ - تطبيق القانون\nتنازع القوانين من حيث الزمان"
+    }
+  ],
+  "articles": [
+    {
+      "number_en": "Article 1",
+      "number_ar": "مادة ( ١ )",
+      "text_en": "Provisions of laws govern all matters to which these provisions apply in letter or spirit.\nIn the absence of a provision of a law that is applicable, the Judge will decide according to custom and in the absence of custom in accordance with the principles of Moslem Law.\nIn the absence of such principles, the Judge will apply the principles of natural justice and the rules of equity.",
+      "text_ar": "(١) تسرى النصوص التشريعية على جميع المسائل التي تتناولها هذه النصوص في لفظها أو في فحواها.\n\n(٢) فإذا لم يوجد نص تشريعي يمكن تطبيقه، حكم القاضي بمقتضى العرف، فإذا لم يوجد، فبمقتضى مبادئ الشريعة الإسلامية، فإذا لم يوجد فبمقتضى مبادئ القانون الطبيعي وقواعد العدالة.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 2",
+      "number_ar": "مادة ( ٢ )",
+      "text_en": "A provision of a law can only be repealed by a subsequent law expressly providing for such repeal, or containing a provision inconsistent with a provision of the former law or regulating anew a matter previously regulated by a former law.",
+      "text_ar": "لا يجوز إلغاء نص تشريعي إلا بتشريع لاحق ينص صراحة على هذا الإلغاء، أو يشتمل على نص يتعارض مع نص التشريع القديم ، أو ينظم من جديد الموضوع الذي سبق أن قرر قواعده ذلك التشريع.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 3",
+      "number_ar": "مادة ( ٣ )",
+      "text_en": "Periods of limitation will be calculated according to the Gregorian calendar, unless expressly provided otherwise by a law.",
+      "text_ar": "تحسب المواعيد بالتقويم الميلادي، ما لم ينص هذا القانون على غير ذلك.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 4",
+      "number_ar": "مادة ( ٤ )",
+      "text_en": "A person legitimately exercises his rights is not responsible for prejudice resulting thereby.",
+      "text_ar": "من استعمل حقه استعمالاً مشروعاً لا يكون مسؤولاً عما ينشأ عن ذلك من ضرر.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 5",
+      "number_ar": "مادة ( ٥ )",
+      "text_en": "The exercise of a right is considered unlawful in the following cases:\na) if the sole aim thereof is to harm another person;\nb) if the benefit it is desired to realize is out of proportion to the harm caused thereby to another person;\nc) if the benefit it is desired to realize is unlawful.",
+      "text_ar": "يكون استعمال الحق غير مشروع في الأحوال الآتية :\n(أ) إذا لم يقصد به سوى الإضرار بالغير.\n\n(ب) إذا كانت المصالح التي يرمي إلى تحقيقها قليلة الأهمية، بحيث لا تتناسب البتة مع ما يصيب الغير من ضرر بسببها.\n\n(ج) إذا كان المصالح التي يرمي إلى تحقيقها غير مشروعة.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 6",
+      "number_ar": "مادة (٦)",
+      "text_en": "Legislative provisions as regards the legal capacity of a person are applicable to all persons who fulfill the conditions embodied in such provisions.",
+      "text_ar": "(١) النصوص المتعلقة بالأهلية تسري علي جميع الأشخاص الذين تنطبق عليهم الشروط المقررة في هذه النصوص.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    }
+  ]
+}

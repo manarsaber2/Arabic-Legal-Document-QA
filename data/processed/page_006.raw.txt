@@ -1,0 +1,105 @@
+{
+  "headers": [],
+  "articles": [
+    {
+      "number_en": null,
+      "number_ar": null,
+      "text_en": "missing person or an absent person will be the domicile of his legal representative.\nA minor who has attained eighteen years and a person in a similar legal position shall nevertheless have his special domicile in respect of acts he is capable of performing in accordance with the law.",
+      "text_ar": "عن هؤلاء قانوناً.\n(٢) ومع ذلك يكون للقاصر الذي بلغ ثماني عشرة سنة ومن في حكمه موطن خاص، بالنسبة الى الأعمال والتصرفات التي يعتبره القانون أهلأ لمباشرتها.",
+      "is_repealed": false,
+      "continues_from_previous_page": true,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 43",
+      "number_ar": "مادة ( ٤٣ )",
+      "text_en": "A special domicile may be elected for the performance of a specific legal act.\nThe election of domicile must be evidenced by writing.\nA domicile elected for the performance of a legal act shall be deemed to be the domicile in so far as all matters relating to such act are concerned, including the procedure for enforcement by legal means unless the election of domicile is expressly limited to certain special acts, excluding others.",
+      "text_ar": "( ١ ) يجوز اتخاذ موطن مختار لتنفيذ عمل قانوني معين.\n(٢) ولا يجوز إثبات وجود الموطن المختار إلا بالكتابة.\n(٣) والموطن المختار لتنفيذ عمل قانوني يكون هو الموطن بالنسبة إلى كل ما يتعلق بهذا العمل، بما في ذلك إجراءات التنفيذ الجبري ، إلا إذا اشترط صراحة قصر هذا الموطن على أعمال دون أخرى.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 44",
+      "number_ar": "مادة ( ٤٤ )",
+      "text_en": "All persons attaining majority in possession of their mental faculties and not under legal disability, have full legal capacity to exercise their civil rights.\nThe majority of a person is fixed at twenty one years completed in accordance with the Gregorian calendar.",
+      "text_ar": "( ١ ) كل شخص بلغ سن الرشد متمتعا بقواه العقلية ، ولم يحجر عليه ، يكون كامل الأهلية لمباشرة حقوقه المدنية.\n(٢) وسن الرشد هي إحدى وعشرون سنة ميلادية كاملة.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 45",
+      "number_ar": "مادة ( ٤٥ )",
+      "text_en": "A person devoid of discretion, owing to youth, feeble mindedness or insanity is incapable of exercising his civil rights.\nA person who has not attained the age of seven is considered devoid of discretion.",
+      "text_ar": "( ١ ) لا يكون أهلا لمباشرة حقوقه المدنية من كان فاقد التمييز لصغر في السن أو عته أو جنون.\n(٢) وكل من لم يبلغ السابعة يعتبر فاقداً للتمييز.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 46",
+      "number_ar": "مادة ( ٤٦ )\nكل من بلغ سن التمييز ولم يبلغ سن الرشد وكل من بلغ سن الرشد وكان سفيهاً أو ذا غفلة ' يكون ناقص الأهلية وفقاً لما يقرره القانون.",
+      "text_en": "A person who has reached the age of discretion but has not attained majority and a person who has attained his majority but is a prodigal or an imbecile, has a limited legal capacity according to the provisions of the law.",
+      "text_ar": null,
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 47",
+      "number_ar": "مادة ( ٤٧ )\nيخضع فاقدو الأهلية وناقصوها بحسب الأحوال لأحكام الولاية أو الوصاية أو القوَامة بالشروط ووفقاً للقواعد المقررة في القانون.",
+      "text_en": "Persons deprived of full or partial legal capacity are governed, as the case may be, by the rules of natural or legal guardianship or curatorship subject to the conditions and in accordance with the rules laid down by law.",
+      "text_ar": null,
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 48",
+      "number_ar": "مادة ( ٤٨ )\nليس لأحد التزول عن أهليته ولا التعديل في أحكامها.",
+      "text_en": "No person can renounce his legal capacity or modify the rules relating thereto.",
+      "text_ar": null,
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 49",
+      "number_ar": "مادة ( ٤٩ )\nليس لأحد التزول عن حريته الشخصية.",
+      "text_en": "No person can renounce his personal liberty.",
+      "text_ar": null,
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 50",
+      "number_ar": "مادة ( ٥٠ )\nلكل من وقع عليه اعتداء غير مشروع في حق من الحقوق الملازمة لشخصيته ، أن يطلب وقف هذا الاعتداء مع التعويض عما يكون قد لحقه من ضرر.",
+      "text_en": "A person whose rights inherent in his personality have been unlawfully infringed, shall have the right to demand the cessation of the infringement and compensation for any damage sustained thereby.",
+      "text_ar": null,
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 51",
+      "number_ar": "مادة ( ٥١ )\nلكل من نازعه الغير في استعمال اسمه بلا مبرر، ومن انتحل الغير اسمه دون حق ، أن يطلب وقف هذا الاعتداء مع التعويض عما يكون قد لحقه من ضرر.",
+      "text_en": "A person whose right to the use of his name is unlawfully disputed by another, or a person whose name is unlawfully used by another shall have the right to demand cessation of the infringement and compensation for any damage sustained thereby.",
+      "text_ar": null,
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    }
+  ]
+}

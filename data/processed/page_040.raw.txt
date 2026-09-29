@@ -1,0 +1,25 @@
+{
+  "headers": [],
+  "articles": [
+    {
+      "number_en": null,
+      "number_ar": null,
+      "text_en": "indivisible obligation, each debtor is liable for the debt in full.\nA debtor who has effected payment will have a remedy against each of the other co-debtors for his part, unless the contrary follows from the circumstances.",
+      "text_ar": "بوفاء الدين كاملا.\n(٢) وللمدين الذي وفي بالدين حق الرجوع على الباقين ، كل بقدر حصته إلا إذا تبين من الظروف غير ذلك.",
+      "is_repealed": false,
+      "continues_from_previous_page": true,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 302",
+      "number_ar": "مادة ٣٠٢",
+      "text_en": "When there are several creditors in respect of an indivisible obligation or several heirs of a creditor in respect of such an obligation each of the creditors or heirs may demand the performance in its entirety of the indivisible obligation. If one of the creditors or the heirs contests such a demand, the debtor shall effect payment to all the creditors together or deposit the object of the obligation in court.\nCo-creditors will have remedies against a creditor who has received payment, each one for his share.",
+      "text_ar": "(١) إذا تعدد الدائنون في التزام غير قابل للانقسام أو تعدد ورثة الدائن في هذا الالتزام ، جاز لكل دائن أو وارث أن يطالب بأداء الالتزام كاملا ، فإذا اعتراض أحد الدائنين أو الورثة على ذلك ، كان المدين ملزما بأداء الالتزام للدائنين مجتمعين أو إيداع الشيء محل الالتزام.\n(٢) ويرجع الدائنون على الدائن الذي استوفي الالتزام ، كل بقدر حصته.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    }
+  ]
+}

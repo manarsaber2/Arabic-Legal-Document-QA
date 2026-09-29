@@ -1,0 +1,85 @@
+{
+  "headers": [],
+  "articles": [
+    {
+      "number_en": null,
+      "number_ar": null,
+      "text_en": "Novation of a debt between the creditor and one of the joint and several debtors releases other codebtors unless the creditor has reserved his rights against them.",
+      "text_ar": "باقي المدينيين إلا إذا احتفظ الدائن بحقه قبلهم.",
+      "is_repealed": false,
+      "continues_from_previous_page": true,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 287",
+      "number_ar": "مادة ٢٨٧",
+      "text_en": "A joint and several debtor cannot set up compensation with regard to that which a creditor owes to one of the other co-debtors, except in respect of the share of such co-debtor.",
+      "text_ar": "لا يجوز للمدين المتضامن أن يتمسك بالمقاصة التي تقع بين الدائن ومدين متضامن آخر ، إلا بقدر حصة هذا المدين",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 288",
+      "number_ar": "مادة ٢٨٨",
+      "text_en": "Merger that occurs in the person of a creditor and one of the joint and several debtors does not extinguish the debt as regards the other co-debtors except to the extent of the merged share of the codebtor.",
+      "text_ar": "إذا اتحدت الذمة بين الدائن واحد مدينيه المتضامنين ، فان الدين لا ينقضي بالنسبة إلى باقي المدينين ، إلا بقدر حصة المدين الذي أتحدث ذمته مع الدائن.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 289",
+      "number_ar": "مادة ٢٨٩",
+      "text_en": "(1) A release of debt granted by the creditor to one of the joint and several debtors does not release the other co-debtors unless the creditor expressly declares such to be the case.\n(2) In the absence of such a declaration, the creditor may only claim from the other co-debtors the balance of the debt after deduction of the share of the co-debtor whom he has released, unless he has reserved his rights against them for the whole of the debt. In such a case, the joint and several debtors have a claim against the co-debtor who has been released for his share in the debt.",
+      "text_ar": "(١) إذا أبرأ الدائن أحد المدينين المتضامنين فلا تبرأ ذمة الباقين ، إلا إذا صرح الدائن بذلك.\n(٢) فإذا لم يصدر منه هذا التصريح ، لم يكن له أن يطالب باقي المدينين المتضامنين إلا بما بقي من الدين بعد خصم حصة المدين الذي أبراه ، إلا أن يكون قد احتفظ بحقه في الرجوع عليهم بكل الدين . وفي هذه الحالة يكون لهم حق الرجوع على المدين الذي صدر الإبراء لصالحه بحصته في الدين.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 290",
+      "number_ar": "مادة ٢٩٠",
+      "text_en": "If a creditor releases one of the joint and several debtors from the joint and several liability, his right to claim the whole of the debt from the other co-debtors remains unless otherwise agreed.",
+      "text_ar": "إذا أبرأ الدائن أحد المدينين المتضامنين من التضامن بقي حقه في الرجوع على الباقين بكل الدين ، ما لم يتفق على غير ذلك.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 291",
+      "number_ar": "مادة ٢٩١",
+      "text_en": "In all cases of the release of one of the joint and several debtors either from the debt or from the joint and several liability, the other co-debtors may in accordance with Article 298 claim from the co-debtor who has been released his contribution in the share of those co-debtors who are insolvent.\nIf, however, the creditor has discharged the co-debtor to whom he has given a release from all liability in respect of the debt, the creditor will bear himself the contribution of such a co-debtor in the share of the insolvent co-debtors.",
+      "text_ar": "(١) في جميع الأحوال التي يبرأ فيها الدائن أحد المدينين المتضامنين ، سواء أكان الإبراء من الدين أم من التضامن يكون لباقي المدينين أن يرجعوا عند الاقتضاء على هذا المدين بنصيبه في حصة المعسر منهم وفقا للمادة ٢٩٨.\n(٢) على أنه إذا أخلى الدائن المدين الذي أبرأه من كل مسئولية عن الدين ، فان هذا الدائن هو الذي يتحمل نصيب هذا المدين في حصة المعسر.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 292",
+      "number_ar": "مادة ٢٩٢",
+      "text_en": "If the debt is extinguished by prescription as regards one of the joint and several debtors the other codebtors will only benefit from this prescription to the extent of the contribution of that co-debtor.\nIf the prescription is interrupted or suspended as regards one of the joint and several debtors, the creditor cannot claim interruption or suspension as regards the other co-debtors.",
+      "text_ar": "(١) إذا انقضي الدين بالتقادم بالنسبة إلى أحد المدينين المتضامنين ، فلا يستفيد من ذلك باقي المدينين إلا بقدر حصة هذا المدين.\n(٢) وإذا انقطعت مدة التقادم أو وقف سريانه بالنسبة إلى المدينين المتضامنين ، فلا يجوز للدائن أن يتمسك بذلك قبل باقي المدينين.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 293",
+      "number_ar": "مادة ٢٩٣",
+      "text_en": "In the performance of an obligation a joint and several debtor is only responsible for his own acts.\nA formal demand to one of the joint and several debtors or proceedings taken against one of them by the creditor will have no effect against the other co-debtors, but if",
+      "text_ar": "(١) لا يكون المدين المتضامن مسئولا في تنفيذ الالتزام إلا عن فعله.\n(٢) وإذا أعذر الدائن أحد المدينين المتضامنين أو قاضاه ، فلا يكون لذلك أثر بالنسبة إلى باقي المدينين . أما إذا أعذر أحد ، المدينين المتضامنين الدائن ، فان باقي المدينين يستفيدون من هذا الأعذار.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": true,
+      "source_page": 1
+    }
+  ]
+}

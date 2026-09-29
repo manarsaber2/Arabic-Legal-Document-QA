@@ -1,0 +1,65 @@
+{
+  "headers": [],
+  "articles": [
+    {
+      "number_en": "Article 261",
+      "number_ar": "مادة ٢٦١",
+      "text_en": "A state of insolvency ceases by virtue of a judgment of the Court of First Instance in the district in which the domicile of the debtor is situated, delivered upon application of any interested party in the two following cases:\na) if it is established that the liabilities of the debtor are no longer in excess of his assets;\nb) if the debtor effects payment of the debts that were due by him as apart from those that became due as a result of the declaration of insolvency. In such a case, debts that became due as a result of the insolvency become, in accordance with Article 263, once again payable on the dates upon which they were due before the declaration of insolvency.\nIt is the duty of the greffier of the court to record the judgment that puts an end to the state of insolvency in the margin of the registration provided for in Article 253.\nThis entry shall be made on the day that the judgment is delivered and the greffier shall send a copy of this judgment to the registrar of the Cairo Court for the purpose of making a similar entry.",
+      "text_ar": "مادة ٢٦١\n(١) تنتهي حالة الإعسار بحكم تصدره المحكمة الابتدائية التي يتبعها موطن المدين بناء علي طلب ذي شأن في الحالتين الاتيتين:\nأ - متى ثبت أن ديون المدين أصبحت لا تزيد علي أمواله.\nب - متى قام المدين بوفاء ديونه التي حلت دون أن يكون لشهر الإعسار إلي ما كانت عليه من قبل وفقا للمادة ٢٦٣.\n\n(٢) ويؤشر كاتب المحكمة من تلقاء نفسه بالحكم الصادر بانتهاء حالة الاعسار يوم صدوره علي هامش التسجيل المنصوص عليه في المادة ٣٥٢ ،وعليه أن يرسل صورة منه إلي قلم كتاب محكمة مصر للتأشير به كذلك.",
+      "is_repealed": false,
+      "continues_from_previous_page": true,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 262",
+      "number_ar": "مادة ٢٦٢",
+      "text_en": "A state of insolvency automatically ceases upon the expiration of five years from the date on which the registration of the judgment declaring the insolvency was issued.",
+      "text_ar": "مادة ٢٦٢\nتنتهي حالة الاعسار بقوة القانون متي انقضت خمس سنوات علي تاريخ التأشير بالحكم الصادر بشهر الإعسار.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 263",
+      "number_ar": "مادة ٢٦٣",
+      "text_en": "A debtor may, after the cessation of the insolvency, claim that debts that became due as a result of the insolvency, and which have not been paid, shall once again become payable on the dates on which they were due for payment before the insolvency upon condition that he has paid all debts that have fallen due except those falling due as a result of the insolvency.",
+      "text_ar": "مادة ٢٦٣\nيجوز للمدين انتهاء حالة الإعسار أن يطلب اعادة الديون التي كانت قد حلت بسبب شهر الاعسار ولم يتم دفعها إلي أجلها السابق، بشرط أن يكون قد وفي ديونه التي حلت دون أن يكون لشهر الإعسار أثر في حلولها.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 264",
+      "number_ar": "مادة ٢٦٤",
+      "text_en": "The cessation of a state of insolvency by judgment or by virtue of the law does not prevent creditors from attacking acts of their debtor or exercising the rights of the debtor in accordance with Articles 235 to 243.",
+      "text_ar": "مادة ٢٦٤\nانتهاء حالة الاعسار بحكم أو بقوة القانون لا يمنع الدائنين من الطعن في تصرفات المدين، ولا من التمسك باستعمال حقوقه ، وفقا للمواد من ٥٣٢ الي ٢٤٣.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 265",
+      "number_ar": "مادة ٢٦٥",
+      "text_en": "An obligation is conditional when its existence or its extinction depends on a future and uncertain event.",
+      "text_ar": "مادة ٢٦٥\nيكون الالتزام معلقا علي شرط إذا كان وجوده أو زواله مترتبا علي أمر مستقبل غير محقق الوقوع.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 266",
+      "number_ar": "مادة ٢٦٦",
+      "text_en": "An obligation is void when the condition upon which it depends is impossible, contrary to morality or to public order, and the condition is suspensive. If the condition is resolutory the condition itself is deemed to be inexistent. An obligation depending upon a resolutory condition",
+      "text_ar": "مادة ٢٦٦\n(١) لا يكون الالتزام قائما إذا علق علي شرط غير ممكن أو علي شرط مخالف للآداب أو النظام العام ، هذا إذا كان الشرط واقفا . أما إذا كان فاسخا فهو نفسه الذي يعتبر غير قائم.\n\n(٢) ومع ذلك لا يقوم الالتزام الذي علق علي شرط فاسخ مخالف للآداب أو النظام العام ، إذا كان هذا الشرط هو السبب الدافع للالتزام.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": true,
+      "source_page": 1
+    }
+  ]
+}

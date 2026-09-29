@@ -1,0 +1,94 @@
+{
+  "headers": [
+    {
+      "text_en": "disappeared at a later date.",
+      "text_ar": null
+    },
+    {
+      "text_en": "1- Payment not Due",
+      "text_ar": "١ - دفع غير المستحق"
+    }
+  ],
+  "articles": [
+    {
+      "number_en": "Article 180",
+      "number_ar": "مادة ١٨٠",
+      "text_en": "A claim for compensation for enrichment without just cause is prescribed after three years from the date on which the injured party knew of his right to be compensated and in any case after fifteen years from the date that the right first arose.",
+      "text_ar": "تسقط دعوى التعويض عن الأثراء بلا سبب بانقضاء ثلاث سنوات من اليوم الذى يعلم فيه من لحقته الخسارة بحقه فى التعويض ، وتسقط الدعوى ، كذلك فى جميع الأحوال بانقضاء خمس عشرة سنة من اليوم الذى ينشأ فيه هذا الحق.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 181",
+      "number_ar": "مادة ١٨١",
+      "text_en": "Whoever receives, by way of payment, that which is not owing to him, is bound to return it.\nThere is, however, no obligation to restitute when the payor knew that he was under no obligation to pay, unless he was legally incapable or unless he paid under duress.",
+      "text_ar": "( ١ ) كل من تسلم على سبيل الوفاء ما ليس مستحقا له وجب عليه رده\n( ٢ ) على انه لا محل للرد إذا كان من قام بالوفاء كعلم انه غير ملزم بما دفعه ، الا أن يكون ناقص الأهلية ، أو يكون قد اكره على هذا الوفاء.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 182",
+      "number_ar": "مادة ١٨٢",
+      "text_en": "A payment which was not due may be recovered, if it was made in the performance of an obligation whose cause had not materialized or had ceased to exist.",
+      "text_ar": "يصح استرداد غير المستحق إذا كان الوفاء قد تم تنفيذا لالتزام لم يتحقق سببه أو لالتزام زال سببه بعد أن تحقق.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 183",
+      "number_ar": "مادة ١٨٣",
+      "text_en": "Restitution may also be made of a payment effected in the performance of an obligation which had not at the time fallen due, if the payor was not aware that payment was not then due.\nA creditor may, however, limit restitution to the profit he has gained as a result of the premature payment to the extent of the loss suffered by the debtor. When the obligation which has not fallen due is for a sum of money, the creditor must restitute to the debtor interest thereon at the legal or at an agreed rate for the time to run until the due date of payment.",
+      "text_ar": "( ١ ) يصح كذلك استرداد غير المستحق ، إذا كان الوفاء قد تم تنفيذا لالتزام لم يحل اجله وكان الموفى جاهلا قيام الأجل.\n( ٢ ) على انه يجوز للدائن أن يقتصر على رد ما استفاده بسبب الوفاء المعجل فى حدود ما لحق المدين من ضرر. فإذا كان الالتزام الذى لم يحل اجله نقودا ، التزم الدائن أن يرد للمدين فائدتها بسعرها القانونى أو الاتفاقى عن المدة الباقية لحلول الأجل.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 184",
+      "number_ar": "مادة ١٨٤",
+      "text_en": "Restitution is not due of a payment effected by a person other than the debtor, if the creditor, acting in good faith, has in consequence of such payment given up his document of title, or his security or allowed his claim against the real debtor to be prescribed. The real debtor must in such case indemnify the third party who made the payment.",
+      "text_ar": "لا محل لاسترداد غير المستحق إذا حصل الوفاء من غير المدين وترتب عليه أن الدائن ، وهو حسن النية ، قد تجرد من سند الدين ، أو مما حصل عليه من التامينات أو ترك دعواه قبل المدين الحقيقي تسقط بالتقادم. ويلتزم المدين الحقيقي فى هذه الحالة بتعويض الغير الذى قام بالوفاء.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 185",
+      "number_ar": "مادة ١٨٥",
+      "text_en": "When a person has received in good faith, that which is not due to him, he is bound only to restitute that which he has received.\nIf he has received in bad faith, he is bound to restitute in addition to the interest and profit that he has gained or that he has failed to gain by neglect on the thing unduly received, from the date of payment, or from the date he became of bad faith.\nIn any case, a person who has received that which is not due to him, is bound to restitute the interest and profit thereon from the date of a claim in the Courts.",
+      "text_ar": "( ١ ) إذا كان من تسلم غير المستحق حسن النية خلا يلتزم أن يرد الا ما تسلم.\n( ٢ ) اما إذا كان سيئ النية فانه يلتزم ان يرد أيضا الفوائد والأرباح التى جناها ، أو التى قصر فى جنيها من الشئ الذى تسلمه بغير حق ، وذلك من يوم الوفاء أو من اليوم الذى اصبح فيه سيئ النية.\n( ٣ ) وعلى أى حال يلتزم من تسلم غير المستحق برد الفوائد والثمرات من يرم رفع الدعوى.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 186",
+      "number_ar": "مادة ١٨٦",
+      "text_en": "When a person who has received that which was not due to him has the legal capacity to enter into a contract, he is bound only to the extent of his profit.",
+      "text_ar": "إذا لم تتوافر أهلية التعاقد فيمن تسلم غير المستحق فلا يكون ملتزما الا بالقدر الذى أثرى به.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 187",
+      "number_ar": "مادة ١٨٧",
+      "text_en": null,
+      "text_ar": "تسقط دعوى استرداد ما دفع بغير حق بانقضاء ثلاث سنوات من اليوم",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": true,
+      "source_page": 1
+    }
+  ]
+}

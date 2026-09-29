@@ -1,0 +1,35 @@
+{
+  "headers": [],
+  "articles": [
+    {
+      "number_en": null,
+      "number_ar": null,
+      "text_en": "from the contract that performance may only be demanded by the beneficiary.",
+      "text_ar": null,
+      "is_repealed": false,
+      "continues_from_previous_page": true,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 155",
+      "number_ar": "مادة ١٥٥",
+      "text_en": "The stipulator himself, but not his creditors or heirs, may revoke the stipulation for a third party, provided that the revocation is made before the beneficiary advises the debtor or the stipulator of his wish to have the benefit of the stipulation, and that the revocation is not contrary to the spirit of the contract. In the absence of any express or implied agreement to the contrary, the revocation does not liberate the debtor vis-a-vis the stipulator. The stipulator may substitute a new beneficiary in the place of the former beneficiary, or may retain for himself the benefit of the stipulation.",
+      "text_ar": "( ١ ) يجوز للمشترط دون دائنيه أو ورثته أن ينقض المشارطة قبل أن يعلن المنتفع إلى المتعهد أو إلى المشترط رغبته فى الاستفادة منها ، ما لم يكن ذلك مخالفا لما يقتضيه العقد.\n( ٢ ) ولا يترتب على نقض المشارطة أن تبرأ ذمة المتعهد قبل المشترط . الا إذا اتفق صراحة أو ضمنا على خلاف ذلك وللمشترط إحلَال منتفع آخر محل المنتفع الأول ، كما له أن يستأثر لنفسه بالانتفاع من المشارطة.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 156",
+      "number_ar": "مادة ١٥٦",
+      "text_en": "A stipulation in favor of a third party may be made in favor of future persons or institutions, and also in favor of persons or institutions who are not identified at the date of the contract, provided that these persons or institutions can be identified at the date when the effects of the contract come into operation in accordance with the stipulation.",
+      "text_ar": "يجوز فى الإشتراط لمصلحة الغير أن يكون المنتفع شخصا مستقبلا أو جهة مستقبلة ، كما يجوز أن يكون شخصا أو جهة لم يعينا وقت العقد ، متى كان تعيينهما مستطاعا فى وقت أن ينتج العقد أثره طبقا للمشارطة.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    }
+  ]
+}

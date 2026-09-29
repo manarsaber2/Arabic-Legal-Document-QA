@@ -1,0 +1,25 @@
+{
+  "headers": [],
+  "articles": [
+    {
+      "number_en": null,
+      "number_ar": null,
+      "text_en": "special security given to the creditor, even if this security was given by a subsequent act or by virtue of the law, unless the creditor prefers to demand additional security. If the reduction of the security is due to a cause for which the debtor is not responsible, he will forfeit his rights to the term unless he provides adequate security; c) if he does not supply the creditor with the security promised in the contract.",
+      "text_ar": "أن يطالب بتكملة التأمين ، أما إذا كان إضعاف التأمين يرجع إلى سبب لا دخل لإرادة المدين فيه ، فان الأجل يسقط ما لم يققدم المدين ضمانا كافيا. \n (٣) إذا لم يقدم للدائن ما وعد في العقد بتقديمه من التأمينات.",
+      "is_repealed": false,
+      "continues_from_previous_page": true,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 274",
+      "number_ar": "مادة ٢٧٤",
+      "text_en": "An obligation with a suspensive term only becomes due on the date of the expiration of the term. The creditor may, however, even before the end of the term, take measures to protect his rights and may, in particular, ask for security if he fears that the debtor may become bankrupt or insolvent, and has reasonable grounds for his fears.\nAt the end of a resolutory term, the obligation is extinguished without such extinction having any retroactive effect.",
+      "text_ar": "(١) إذا كان الالتزام مقترنا بأجل واقف ، فانه لا يكون نافذا إلا في الوقت الذي ينقضي فيه الأجل ، على أنه يجوز للدائن حتى قبل انقضاء الأجل أن يتخذ من الإجراءات ما يحافظ به على حقوقه ، وله بوجه خاص أن يطالب بتأمين إذا يخشي إفلاس المدين أو إعساره واستند في ذلك إلى سبب معقول. \n (٢) ويترتب على انقضاء الأجل الفاسخ زوال الالتزام ، دون أن يكون لهذا الزوال أثر رجعي.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+pages loaded: 170 / 170
+article records: 1154  (repealed: 56)
+promulgation-law items (excluded): 5
+
+=== WARNINGS ===
+page 16: article 141 was not marked as cut but a continuation follows (merged anyway)
+page 17: article 148 was not marked as cut but a continuation follows (merged anyway)
+page 19: article 161 was cut at the end of the previous page but the next row is a new article (162). Something is missing.
+page 22: article 180 is marked 'continues from previous page' but has its own number
+page 26: article 209 was not marked as cut but a continuation follows (merged anyway)
+page 49: article 360 was cut at the end of the previous page but the next row is a new article (361). Something is missing.
+page 49: article 361 is marked 'continues from previous page' but has its own number
+page 66: article 504 was cut at the end of the previous page but the next row is a new article (٢). Something is missing.
+page 66: article ٢ is marked 'continues from previous page' but has its own number
+page 67: article 511 was not marked as cut but a continuation follows (merged anyway)
+page 73: article 545 was not marked as cut but a continuation follows (merged anyway)
+page 77: article 571 was cut at the end of the previous page but the next row is a new article (572). Something is missing.
+page 77: article 572 is marked 'continues from previous page' but has its own number
+page 81: article 597 was cut at the end of the previous page but the next row is a new article (598). Something is missing.
+page 93: article 671 was cut at the end of the previous page but the next row is a new article (671). Something is missing.
+page 93: article 671 is marked 'continues from previous page' but has its own number
+page 95: article 681 was cut at the end of the previous page but the next row is a new article (682). Something is missing.
+page 103: article 727 was cut at the end of the previous page but the next row is a new article (728). Something is missing.
+page 111: article 781 was cut at the end of the previous page but the next row is a new article (782). Something is missing.
+page 113: article 797 was cut at the end of the previous page but the next row is a new article (798). Something is missing.
+page 115: article 811 was cut at the end of the previous page but the next row is a new article (812). Something is missing.
+page 119: article 834 was not marked as cut but a continuation follows (merged anyway)
+page 120: article 841 was not marked as cut but a continuation follows (merged anyway)
+page 122: article 852 was cut at the end of the previous page but the next row is a new article (853). Something is missing.
+page 122: article 853 is marked 'continues from previous page' but has its own number
+page 128: article 888 was cut at the end of the previous page but the next row is a new article (١). Something is missing.
+page 129: article 893 was not marked as cut but a continuation follows (merged anyway)
+page 130: article 901 was cut at the end of the previous page but the next row is a new article (901). Something is missing.
+page 132: article 916 was cut at the end of the previous page but the next row is a new article (917). Something is missing.
+page 135: article 936 was not marked as cut but a continuation follows (merged anyway)
+page 142: article 982 is marked 'continues from previous page' but has its own number
+page 148: article 1022 was cut at the end of the previous page but the next row is a new article (1023). Something is missing.
+page 154: article 1058 was not marked as cut but a continuation follows (merged anyway)
+page 156: article 1066 was cut at the end of the previous page but the next row is a new article (1067). Something is missing.
+page 162: article 1104 was not marked as cut but a continuation follows (merged anyway)
+sequence break before article 2 (page 66): expected 505
+sequence break before article 505 (page 66): expected 3
+sequence break before article 572 (page 77): expected 573
+sequence break before article 671 (page 93): expected 672
+sequence break before article 1 (page 128): expected 889
+sequence break before article 889 (page 128): expected 2
+sequence break before article 901 (page 130): expected 902
+DUPLICATE article 2 (pages 1 and 66)
+DUPLICATE article 572 (pages 77 and 77)
+DUPLICATE article 671 (pages 92 and 93)
+DUPLICATE article 1 (pages 1 and 128)
+DUPLICATE article 901 (pages 129 and 130)
+
+=== FLAGGED RECORDS ===
+art 230 (p29): missing_text_ar
+art 389 (p53): repealed_by_model_only_check_manually
+art 2 (p66): sequence_break_expected_505
+art 505 (p66): sequence_break_expected_3
+art 572 (p77): sequence_break_expected_573
+art 671 (p93): sequence_break_expected_672
+art 811 (p114): missing_text_en
+art 888 (p127): missing_text_en, missing_text_ar
+art 1 (p128): sequence_break_expected_889
+art 889 (p128): sequence_break_expected_2
+art 894 (p129): missing_text_ar
+art 901 (p129): missing_text_en
+art 901 (p130): sequence_break_expected_902
+art 1022 (p147): missing_text_ar
+
+=== HEADER OUTLINE (check the levels!) ===
+p  1 [chapter ]  | باب تمهيدي أحكام عامة
+p  1 [section ] SECTION I Laws and their Applications | الفصل الأول القانون وتطبيقه
+p  1 [topic   ] 1. Laws and Rights | ١- القانون والحق
+p  1 [topic   ] 2. The Application of Laws | ٢- تطبيق القانون
+p  1 [subtopic] Conflicts of law as to time: | تنازع القوانين من حيث الزمان
+p  2 [subtopic] Conflicts of law as to place: | تنازع القوانين من حيث المكان
+p  4 [section ] SECTION II Persons | الفصل الثاني الأشخاص
+p  4 [topic   ] 1. Individuals | ١- الشخص الطبيعي
+p  6 [topic   ] 2. Juristic persons | ٢- الشخص الاعتباري
+p  7 [topic   ] Associations | ٣- الجمعيات
+p  7 [section ] SECTION III The Classification of Things and Property | الفصل الثالث تقسيم الأشياء والأموال
+p  8 [subtopic] FIRST PART OBLIGATIONS OR PERSONAL RIGHTS | القسم الأول الالتزامات أو الحقوق الشخصية
+p  8 [book    ] BOOK I OBLIGATIONS GENERALLY | الكتاب الأول الالتزامات بوجه عام
+p  8 [chapter ] CHAPTER I Sources of Obligations | الباب الأول مصادر الالتزام
+p  8 [section ] Section I Contracts | الفصل الأول العقد
+p  8 [topic   ] 1. Elements of Contracts
+Consent: | أولا:- أركان العقد
+١ - الرضاء
+p 14 [subtopic] Object: | المحل
+p 15 [subtopic] Consideration: | السبب
+p 15 [subtopic] Nullity: | البطلان
+p 16 [topic   ] 2. The Effects of a Contract | ٢ - آثار العقد
+p 18 [topic   ] 3. Dissolution of contract | ٣ - انحلال العقد
+p 19 [section ] SECTION II Unilateral Undertakings | الفصل الثاني الإرادة المنفردة
+p 19 [section ] SECTION III Unlawful Acts | الفصل الثالث العمل غير المشروع
+p 19 [topic   ] 1. Liability Arising from Personal Acts | ١ - المسئولية عن الأعمال الشخصية
+p 20 [topic   ] 2- Liability arising from the acts of another | ٢ - المسئولية عن عمل الغير
+p 21 [subtopic] 3 Liability Arising from Things | ٣ المسئولية الناشئة عن الأشياء
+p 21 [section ] Section IV Enrichment without Just Cause | الفصل الرابع الإثراء بلا سبب
+p 22 [topic   ] 1- Payment not Due | ١ - دفع غير المستحق
+p 23 [topic   ] 2- Voluntary Agency | ٢ - الفضالة
+p 24 [section ] Section V The Law | الفصل الخامس القانون
+p 24 [chapter ] CHAPTER II The Effects of Obligations | الباب الثانى آثار الإلتزام
+p 24 [section ] Section I Specific Performance | الفصل الأول التنفيذ العيني
+p 26 [section ] Section II Compensation in Lieu of Performance | الفصل الثانى التنفيذ بطريق التعويض
+p 29 [section ] Section III Means of Realizing and Securing the Rights of Creditors | الفصل الثالث ما يكفل حقوق الدائنين من وسائل تنفيذ ووسائل ضمان
+p 29 [topic   ] 1. Means of Realizing the Rights of Creditors | ١ - وسائل التنفيذ
+p 31 [topic   ] 2. One of the Means of Security: the Right of Retention | ٢ - إحدى وسائل الضمان: الحق في الحبس
+p 31 [topic   ] 3. Insolvency | الإعسار
+p 34 [chapter ] Chapter III Kinds of Conditions Modifying the Effects of Obligations | الباب الثالث الأوصاف المعدلة لأثر الالتزام
+p 34 [section ] Section I Conditional Obligations and Time Clauses | الفصل الأول الشرط والأجل
+p 34 [topic   ] 1. Conditional Obligations | ١ - الشرط
+p 35 [topic   ] 2. Time Clauses | ٢- الأجل
+p 36 [section ] Section II Plurality of Objects of an Obligation | الفصل الثاني تعدد محل الالتزام
+p 36 [topic   ] 1. Alternative Obligations | ١ - الالتزام التخييري
+p 36 [topic   ] 2. Facultative Obligations | ٢ - الالتزام البدلي
+p 37 [section ] Section III Plurality of Parties to an Obligation | الفصل الثالث تعدد طرفي الالتزام
+p 37 [topic   ] 1. Joint and Several Obligations | ١- التضامن
+p 39 [topic   ] 2. Indivisibility | عدم القابلية للانقسام
+p 40 [chapter ] Chapter IV Transmission of an Obligation | الباب الرابع انتقال الالتزام
+p 40 [section ] Section I The Assignment of a Right | الفصل الأول حوالة الحق
+p 41 [section ] Section II Assignment of Debt | الفصل الثاني حوالة الدين
+p 42 [chapter ] Chapter V The Extinction of Obligations | الباب الخامس انقضاء الالتزام
+p 42 [section ] Section I Payment | الفصل الأول الوفاء
+p 42 [topic   ] 1. The Two Parties to Payment | ١- طرفا الوفاء
+p 45 [topic   ] 2. Means of Payment | ٢- محل الوفاء
+p 46 [section ] Section II | الفصل الثاني
+p 47 [subtopic] Methods of Extinction of the Obligation Equivalent to
+Performance | انقضاء الالتزام بما يعادل الوفاء
+p 47 [topic   ] 1. Giving in Payment | ١ - الوفاء بمقابل
+p 47 [topic   ] 2. Novation and Delegation | ٢ - التجديد والإنابة
+p 49 [topic   ] 3. Compensation (set off) | ٣- المقاصة
+p 50 [topic   ] 4. Merger | ٤ - اتحاد الذمة
+p 50 [section ] Section III The Extinction of Obligations without Payment | الفصل الثالث انقضاء الالتزام دون الوفاء به
+p 50 [topic   ] 1. Release of the Obligation | ١ - الإبراء
+p 50 [topic   ] 2. Impossibility of Performance | ٢ - استحالة التنفيذ
+p 50 [topic   ] 3. Extinctive Prescription | ٣ - التقادم المسقط
+p 53 [chapter ] Chapter VI Proof of Obligations | الباب السادس إثبات الالتزام
+p 53 [book    ] BOOK II SPECIFIC CONTRACTS | الكتاب الثاني العقود المسماة
+p 53 [chapter ] Chapter I Contracts as Regards Ownership | الباب الأول العقود التي تقع على الملكية
+p 53 [section ] Section I Sale | الفصل الأول البيع
+p 53 [topic   ] 1. Sale in General | ١ - البيع بوجه عام
+p 53 [subtopic] Elements of Sale | أركان البيع
+p 54 [subtopic] Obligations of the Vendor | التزامات البائع
+p 59 [subtopic] Obligation of the Purchaser | التزامات المشتري
+p 60 [topic   ] 2. Different Forms of Sale | ٢- بعض أنواع البيوع
+p 60 [subtopic] Sale with a Right of Redemption | بيع الوفاء
+p 60 [subtopic] Sale of a Thing Belonging to Another | بيع ملك الغير
+p 61 [subtopic] Sale of Litigious Rights | بيع الحقوق المتنازع عليها
+p 61 [subtopic] Sale of an Inheritance | بيع التركة
+p 62 [subtopic] Sale Made During a Person's Last Illness | البيع في مرض الموت
+p 62 [subtopic] Sale by a Representative to Himself | بيع النائب لنفسه
+p 63 [section ] Section II Exchange | الفصل الثاني المقايضة
+p 63 [section ] Section III Gifts | الفصل الثالث الهبة
+p 63 [topic   ] 1. Elements of a Gift | ١ - أركان الهبة
+p 64 [topic   ] 2. The Effects of a Gift | ٢- آثار الهبة
+p 64 [topic   ] 3. Revocation of Gifts | ٣- الرجوع في الهبة
+p 66 [section ] Section IV Partnership | الفصل الرابع الشركة
+p 66 [subtopic] 1 Elements of the Contract of Partnership | ١ أركان الشركة
+p 67 [topic   ] 2- The Management of Partnership | ٢ - إدارة الشركة
+p 68 [topic   ] 3- The effects of partnership. | ٣- أثار الشركة
+p 69 [topic   ] 4- Ways in which a partnership comes to an end | ٤- طرق انقضاء الشركة
+p 70 [topic   ] 5- Liquidation and partition of the partnership property | ٥ - تصفية الشركة وقسمتها
+p 71 [section ] Section V Loans and Annuities | الفصل الخامس القرض والدخل الدائم
+p 71 [topic   ] 1- Loans for Consumption | ١ - القرض
+p 72 [topic   ] 2- Annuities. | ٢- الدخل الدائم
+p 73 [section ] Section VI Compromise | الفصل السادس الصلح
+p 73 [topic   ] 1- The elements of compromise | ١- أركان الصلح
+p 73 [topic   ] 2- The effects of compromise | ٢- آثار الصلح
+p 74 [topic   ] 3- Nullity of compromise | ٣- بطلان الصلح
+p 74 [chapter ] Chapter II Contracts relating to the use of a thing | الباب الثاني العقود الواردة على الانتفاع بالشيء
+p 74 [section ] Section I Leases | الفصل الأول الإيجار
+p 74 [topic   ] 1- Leases Generally | ١- الإيجار بوجه عام
+p 74 [subtopic] Elements of a lease | أركان الإيجار
+p 75 [subtopic] Effects of a Lease | آثار الإيجار
+p 80 [subtopic] Assignment of lease and sub-lease | التنازل عن الإيجار والإيجار من الباطن
+p 81 [subtopic] The end of a contract of lease | انتهاء الإيجار
+p 81 [subtopic] Death of the lessee or his insolvency | موت المستأجر أو إعساره
+p 83 [topic   ] 2- Certain kinds of leases. | بعض أنواع الإيجار
+p 83 [subtopic] Leases of agricultural land. | إيجار الأراضي الزراعية
+p 84 [subtopic] Amodiation | المزارعة
+p 85 [subtopic] Lease of Wakf property. | إيجار الوقف
+p 86 [section ] Section II Loan for Use | الفصل الثاني العارية
+p 86 [topic   ] 1- Obligations of the Lender | ١ - التزامات المعير
+p 86 [topic   ] 2- Obligations of the Borrower | ٢ - التزامات المستعير
+p 87 [topic   ] 3- Termination of the Loan for Use | ٣- انتهاء العارية
+p 88 [chapter ] Chapter III Contracts for the hire of services | الباب الثالث العقود الواردة على العمل
+p 88 [section ] Section I Contracts for work and concessions of public utility services | الفصل الأول المقاولة والتزام المرافق العامة
+p 88 [topic   ] 1- Contracts for work | ١ - عقد المقاولة
+p 88 [subtopic] Obligations of the Contractor | التزامات المقاول
+p 89 [subtopic] Obligations of the Master | التزامات رب العمل
+p 90 [subtopic] Sub-contracts | المقاولة من الباطن
+p 91 [subtopic] The End of a Contract for Work | انقضاء المقاولة
+p 92 [topic   ]  | ٢-
+التزام المرافق العامة
+p 93 [section ] Section II Contracts of Service | الفصل الثاني عقد العمل
+p 94 [topic   ] 1- Elements of a Contract | ١- أركان العقد
+p 95 [topic   ] 2- Effects of a Contract | ٢- أحكام العقد
+p 95 [subtopic] The Obligations of the Worker | التزامات العامل
+p 96 [subtopic] The Obligations of the Master | 
+p 97 [topic   ] The End of Contracts of Service | ٣- انتهاء عقد العمل
+p 98 [section ] Section III Mandate | الفصل الثالث الوكالة
+p 98 [topic   ] 1- The Elements of Mandate | ١ - أركان الوكالة
+p 99 [topic   ] 2- The Effects of a Mandate | ٢ - آثار الوكالة
+p100 [topic   ] The End of a Mandate | ٣- انتهاء الوكالة
+p101 [section ] Section IV Deposit | الفصل الرابع الوديعة
+p101 [topic   ] 1- The Obligations of the Depository | ١ - التزامات المودع عنده
+p102 [topic   ] 2- The Obligations of the Depositor | ٢- التزامات المودع
+p102 [topic   ] 3- Certain Kinds of Deposits | ٣- بعض أنواع الوديعة
+p103 [section ] Section V Judicial Custody | الفصل الخامس
+الحراسة
+p104 [chapter ] Chapter IV Aleatory Contracts | الباب الرابع عقود الغرر
+p104 [section ] Section I Gaming and Betting | الفصل الأول المقامرة والرهان
+p104 [section ] Section II Life Annuities | الفصل الثاني المرتب مدى الحياة
+p105 [section ] Section III Contracts of Insurance | الفصل الثالث عقد التأمين
+p105 [topic   ] 1- General Provisions | ١ - أحكام عامة
+p106 [topic   ] 2- Certain Classes of Insurance
+Life Insurance | ٢- بعض أنواع التأمين
+التأمين على الحياة
+p109 [subtopic] Insurance against Fire | التأمين من الحريق
+p110 [chapter ] Chapter V Suretyship | الباب الخامس الكفالة
+p110 [section ] Section I The Elements of Suretyship | الفصل الأول أركان الكفالة
+p111 [section ] Section II. The Effects of Suretyship | الفصل الثاني آثار الكفالة
+p111 [topic   ] 1- The Relationship between the Surety and the Creditor | ١- العلاقة ما بين الكفيل والدائن
+p113 [topic   ] 2- The Relationship between the Surety and the Debtor | ٢- العلاقة ما بين الكفيل والمدين
+p113 [subtopic] SECOND PART REAL RIGHTS | 
+p113 [book    ] BOOK III The Principal Real Rights | الكتاب الثالث الحقوق العينية الأصلية
+p113 [chapter ] Chapter I The Right of Ownership | الباب الأول حق الملكية
+p113 [section ] Section I The Right of Ownership in General | الفصل الأول حق الملكية بوجه العام
+p113 [topic   ] 1- Limits and Sanctions | ١- نطاقه ووسائل حمايته
+p114 [topic   ] 2- Restrictions on the Right of Ownership | ٢- القيود التي ترد على حق الملكية
+p117 [topic   ]  | ٣- الملكية الشائعة
+p117 [subtopic]  | أحكام الشيوع
+p117 [subtopic] Provisions Relating to Joint Ownership | 
+p118 [subtopic] The Cessation of Joint Ownership by Partition | انقضاء الشيوع بالقسمة
+p121 [subtopic] Obligatory Joint Ownership | الشيوع الإجباري
+p121 [subtopic] Family Joint Ownership | ملكية الأسرة
+p122 [subtopic] Ownership of Storeys in Buildings | ملكيات الطبقات
+p123 [subtopic] Syndicates of Owners of Storeys of a Single Building | اتحاد ملاك طبقات البناء الواحد
+p125 [section ] Section II Acquisition of Ownership | الفصل الثاني أسباب كسب الملكية
+p125 [topic   ] 1. Acquisition by Appropriation | ١ - الاستيلاء
+p125 [subtopic] The Appropriation of Movables without an Owner | الاستيلاء على منقول ليس له مالك
+p125 [subtopic] The Appropriation of Immovables which have no Owner | الاستيلاء على عقار ليس له مالك
+p125 [topic   ] 2. Acquisition by Inheritance and Winding up of an Estate | ٢ - الميراث وتصفية التركة
+p125 [subtopic] The Appointment of an Administrator | تعيين مصف للتركة
+p127 [subtopic] Inventory of the Estate | جرد التركة
+p128 [subtopic] Discharge of the Debts of the Estate | تسوية ديون التركة
+p129 [subtopic] Delivery and Division of the Property of the Estate | تسليم أموال التركة وقسمة هذه الأموال
+p131 [subtopic] Rules Applicable to Estates that have not been Wound Up | أحكام التركات التى لم تصف
+p131 [topic   ] 3- Acquisition by Will | ٣- الوصية
+p132 [topic   ] 4- Acquisition by Accession | ٤- الالتصاق
+p132 [subtopic] The Right of Accession in Respect of Immovable
+Property | الالتصاق بالعقار
+p134 [subtopic] The Right of Accession in Respect of Movable Property | الالتصاق بالمنقول
+p134 [topic   ] 5- Acquisition by Contract | ٥- العقد
+p134 [topic   ] 6- Acquisition by Preemption
+Conditions for the Exercise of Preemption | ٦- الشفعة
+شروط الأخذ بالشفعة
+p135 [subtopic] The Procedure for Preemption. | إجراءات الشفعة
+p136 [subtopic] The Effects of Preemption | آثار الشفعة
+p137 [subtopic] Forfeiture of the Right of Preemption | سقوط الشفعة
+p137 [topic   ] 7- Possession | ٧- الحيازة
+p137 [subtopic] Acquisition, Transfer and Loss of Possession | كسب الحيازة وزوالها
+p138 [subtopic] Protection of Possession
+(The three possessory actions) | حماية الحيازة
+( دعاوى الحيازة الثلاث)
+p139 [subtopic] Effects of Possession.
+Acquisitive Prescription | آثار الحيازة
+التقادم المكسب
+p141 [subtopic] The Acquisition of Movables by Prescription | تملك المنقول بالحيازة
+p141 [subtopic] The Acquisition of the Fruits by Possession | تملك الثمار بالحيازة
+p141 [subtopic] Recovery of Expenses | استرداد المصروفات
+p142 [subtopic] Liability in the Event of Loss | المسئولية عن الهلاك
+p142 [chapter ] Chapter II Rights Derived From the Right of Ownership | الباب الثاني الحقوق المتفرعة عن حق الملكية
+p142 [section ] Section I The Right to Usufruct, the right of User and the right of Occupation | الفصل الأول حق الانتفاع وحق الاستعمال وحق السكن
+p142 [topic   ] 1- Usufruct | ١ - حق الانتفاع
+p144 [topic   ] 2- The Right of User and Occupation | ٢- حق الاستعمال وحق السكن
+p144 [section ] Section II The Right of Hekr | الفصل الثاني حق الحكر
+p146 [subtopic] Some Kinds of Hekr | بعض أنواع الحكر
+p146 [section ] Section III Servitudes | الفصل الثالث حق الارتفاق
+p149 [book    ] BOOK IV ACCESSORY RIGHTS OR REAL SECURITIES | الكتاب الرابع الحقوق العينية التبعية أو التأمينات العينية
+p149 [chapter ] Chapter I Mortgages | الباب الأول الرهن الرسمي
+p149 [section ] Section I The Constitution of Mortgages | الفصل الأول إنشاء الرهن
+p151 [section ] Section II The Effects of a Mortgage | الفصل الثاني آثار الرهن
+p151 [topic   ] 1-The Effects of a Mortgage as Between the Parties As
+Regards the Mortgagor | ١- أثر الرهن فيما بين المتعاقدين بالنسبة إلى الراهن
+p152 [subtopic] As Regards the Mortgagee | بالنسبة إلى الدائن المرتهن:
+p153 [topic   ] 2- The Effects of Mortgage as Regards Third Parties | ٢ - أثر الرهن بالنسبة إلى الغير
+p153 [subtopic] The Right of Preference and the Right of Tracing | حق التقدم وحق التتبع
+p158 [section ] Section III Extinguishment of the Mortgage | الفصل الثالث انقضاء الرهن
+p158 [chapter ] Chapter II Judgment Charges upon Immovable Property | الباب الثاني حق الاختصاص
+p158 [section ] Section I The Constitution of a Judgment Charge | الفصل الأول إنشاء حق الاختصاص
+p160 [section ] Section II The Effects of a Judgment Charge, its Reduction and
+Extinguishment | الفصل الثاني آثار حق الاختصاص وإنقاصه وانقضاؤه
+p160 [chapter ] Chapter III Rights Derived from the Right of Ownership Pledge | الباب الثالث الرهن الحيازي
+p160 [section ] Section I Elements of a Pledge | الفصل الأول أركان الرهن الحيازي
+p161 [section ] Section II The Effects of a Pledge | الفصل الثاني آثار رهن الحيازة
+p161 [topic   ] 1- Between the contracting parties | ١ - فيما بين المتعاقدين
+p161 [subtopic] Obligations of the Pledgor | التزامات الراهن
+p161 [subtopic] Obligations of the Pledgee | التزامات الدائن المرتهن
+p162 [topic   ] 2- As Regards Third Parties | 
+p163 [section ] Section III Extinguishment of a Pledge | الفصل الثالث انقضاء الرهن الحيازي
+p163 [section ] Section IV Certain Kinds of Pledge | الفصل الرابع بعض أنواع الرهن الحيازي
+p163 [topic   ] 1- Pledge of an Immovable (Antichresis) | ١ - الرهن العقاري
+p164 [topic   ] 2- Pledge of a Movable | ٢- رهن المنقول
+p165 [topic   ] 3- Pledge of Debts | ٣- رهن الدين
+p166 [chapter ] Chapter IV Privileged Rights | الباب الرابع حقوق الامتياز
+p166 [section ] Section I General Provisions | الفصل الأول أحكام عامة
+p167 [section ] Section II Kinds of Privileges | الفصل الثاني أنواع الحقوق الممتازة
+p167 [topic   ] 1- General Privileges and Special Privileges over
+Movables | ١ - حقوق الامتياز العامة وحقوق الامتياز الخاصة الواقعة على منقول
+p170 [topic   ] 2- Special Privileges over Immovables | ٢- حقوق الامتياز الخاصة الواقعة على عقار

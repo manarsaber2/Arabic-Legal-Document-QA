@@ -1,0 +1,75 @@
+{
+  "headers": [],
+  "articles": [
+    {
+      "number_en": null,
+      "number_ar": null,
+      "text_en": "commercial usage, or on account of other circumstances, have anticipated a formal acceptance, the contract is deemed to have been concluded, if the offer is not refused within a reasonable time.\nFailure to reply is equivalent to acceptance when the offer relates to dealings already existing between the parties, or when the offer is solely in the interests of the offeree.",
+      "text_ar": "إذا لم يرفض الإيجاب في وقت مناسب.\n(٢) ويعتبر السكوت عن الرد قبولاً. إذا كان هناك تعامل سابق بين المتعاقدين واتصل الإيجاب ذا التعامل، أو إذا تمخض الإيجاب لمنفعة من وجه إليه.",
+      "is_repealed": false,
+      "continues_from_previous_page": true,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 99",
+      "number_ar": "مادة ( ٩٩ )",
+      "text_en": "A contract of sale by public auction is only concluded when the final bid is accepted. A bid is nullified from the moment a higher bid is made, even if the higher bid is void.",
+      "text_ar": "لا يتم العقد في المزايدات إلا برسو المزاد . ويسقط العطاء بعطاء يزيد عليه ولو كان باطلاً.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 100",
+      "number_ar": "مادة ( ١٠٠ )",
+      "text_en": "Acceptance in the case of a contract of adhesion is confined to adhesion to standard conditions which are drawn up by the offeror and which are not subject to discussion.",
+      "text_ar": "القبول في عقود الإذعان يقتصر على مجرد التسليم بشروط مقررة يضعها الموجب ولا يقبل مناقشة فيها.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 101",
+      "number_ar": "مادة ( ١٠١ )",
+      "text_en": "An agreement by which the two parties, or one of them, promise to enter into a particular contract in the future, is only binding if all the essential points of the contract envisaged and the time when the contract should be concluded are stated.\nWhen the law provides that a contract shall not be valid unless a certain form is observed, this form must also be observed in any agreement embodying a promise to enter into such a contract.",
+      "text_ar": "(١) الاتفاق الذي يعد بموجبه كلا المتعاقدين أو أحدهما بابرام عقد معين في المستقبل لا ينعقد، إلا إذا عينت جميع المسائل الجوهرية للعقد المراد إبرامه، والمدة التي يجب إبرامه فيها.\n(٢) إذا اشتراط القانون لتمام العقد استيفاء شكل معين، فهذا الشكل تجب مراعاته أيضاً في الاتفاق الذي يتضمن الوعد بإبرام هذا العقد.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 102",
+      "number_ar": "مادة ( ١٠٢ )",
+      "text_en": "If a party, who has promised to enter into a contract, refuses to do so, and the other party takes legal proceedings against him to enforce the promise, and the conditions required for the conclusion of the contract, especially those as to the form, exist, the judgment will, upon becoming final, replace the contract.",
+      "text_ar": "إذا وعد شخص بإبرام عقد ثم نكل وقاضاه المتعاقد الآخر طالباً تنفيذ الوعد ، وكانت الشروط اللازمة لتمام العقد وبخاصة ما يتعلق منها بالشكل متوافرة ، قام الحكم متى حاز قوة الشيء المقضي به مقام العقد.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 103",
+      "number_ar": "مادة ( ١٠٣ )",
+      "text_en": "In the absence of a clause to the contrary in the contract, the payment of earnest money at the time the contract is concluded indicates that either party may withdraw from the contract.\nThe person who has paid the earnest money and withdrawn from the contract forfeits the earnest money, and the person who has received earnest money and withdraws from the contract shall repay double the amount of the earnest money, even if the withdrawal does not cause any prejudice.",
+      "text_ar": "(١) دفع العربون وقت إبرام العقد يفيد أن لكل من المتعاقدين الحق في العدول عنه، إلا إذا قضي الاتفاق بغير ذلك.\n(٢) فإذا عدل من دفع العربون، فقده وإذا عدل من قبضه، رد ضعفه هذا ولو لم يترتب على العدول أي ضرر.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": false,
+      "source_page": 1
+    },
+    {
+      "number_en": "Article 104",
+      "number_ar": "مادة ( ١٠٤ )",
+      "text_en": "When a contract is entered into by a representative, such representative and not the principal will be the person who will be looked to in examining the question of vices of consent, or the effects attached to the fact that the contracting party knew or should necessarily have been aware of certain special circumstances.\nWhen, however, the representative is a mandatory who acted in accordance with the principal's precise instructions, the principal cannot plead the ignorance of his representative of circumstances which the principal",
+      "text_ar": "( ١ ) إذا تم العقد بطريق النيابة كان شخص النائب لا شخص الأصيل هو محل الاعتبار عند النظر في عيوب الإرادة أو في أثر العلم ببعض الظروف الخاصة ، أو افتراض العلم بها حتماً.\n( ٢ ) ومع ذلك إذا كان النائب وكيلا ويتصرف وفقا لتعليمات معينة صدرت له من موكله ، فليس للموكل أن يتمسك بجهل النائب لظروف كان يعلمها هو ، أو كان من المفروض حتماً أن يعلمها.",
+      "is_repealed": false,
+      "continues_from_previous_page": false,
+      "continues_on_next_page": true,
+      "source_page": 1
+    }
+  ]
+}
