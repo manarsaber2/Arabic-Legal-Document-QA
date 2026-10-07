@@ -1,6 +1,6 @@
 {
   "page": 127,
-  "model": "gemini-3.5-flash-lite",
+  "model": "gemini/gemini-3.5-flash-lite",
   "blocks": [
     {
       "kind": "article",
@@ -12,7 +12,7 @@
       "number_en": null,
       "number_ar": null,
       "number_end": null,
-      "text_en": "the final winding up, an adequate alimentary allowance\nto such heirs as were supported by the deceased and to\ndeduct such payments from the share in the estate of\neach heir to whom such alimentary allowance is made.\nAny dispute arising as regards such an allowance shall be\nsettled by the Juge de Service.",
+      "text_en": "the final winding up, an adequate alimentary allowance to such heirs as were supported by the deceased and to deduct such payments from the share in the estate of each heir to whom such alimentary allowance is made. Any dispute arising as regards such an allowance shall be settled by the Juge de Service.",
       "text_ar": "(٢) وكل منازعة تتعلق بهذه النفقة يفصل فيها قاضى الأمور الوقتية.",
       "is_repealed": false,
       "continues_from_previous_page": true,
@@ -29,7 +29,7 @@
       "number_ar": null,
       "number_end": null,
       "text_en": null,
-      "text_ar": null,
+      "text_ar": "جرد التركة",
       "is_repealed": false,
       "continues_from_previous_page": false,
       "continues_on_next_page": false
@@ -42,10 +42,10 @@
       "title_en": null,
       "title_ar": null,
       "number_en": "883",
-      "number_ar": "۸۸۳",
+      "number_ar": "٨٨٣",
       "number_end": null,
-      "text_en": "As from the date of the entry of an order appointing an\nadministrator, the creditors of an estate can only take\nproceedings or continue proceedings already\ncommenced in connection with the estate against the\nadministrator.\nAny distribution opened against the deceased before his\ndeath, in which the order of allotment has not become\nfinal, must, at the request of any interested party, be\nsuspended until all the debts of the estate have been\nsettled.",
-      "text_ar": "مادة ٨۸۳\n(١) لا يجوز من وقت قيد الأمر الصادر بتعيين المصفى أن يتخذ الدائنون\nأى أجراء على التركة ، كما لا يجوز لهم أن يستمروا فى أى إجراء اتخذوه\nإلا فى مواجهة المصفى.\n\n( ٢ ) وكل توزيـع فتح ضد المورث ولم تقفل قائمته النهائية ، يجب وقفه\nحتى تتم تسوية جميع ديون التركة متى طلب ذلك أحد ذوى الشأن.",
+      "text_en": "As from the date of the entry of an order appointing an administrator, the creditors of an estate can only take proceedings or continue proceedings already commenced in connection with the estate against the administrator.\nAny distribution opened against the deceased before his death, in which the order of allotment has not become final, must, at the request of any interested party, be suspended until all the debts of the estate have been settled.",
+      "text_ar": "( ١ ) لا يجوز من وقت قيد الأمر الصادر بتعيين المصفى أن يتخذ الدائنون أى أجراء على التركة ، كما لا يجوز لهم أن يستمروا فى أى إجراء اتخذه إلا فى مواجهة المصفى.\n( ٢ ) وكل توزیع فتح ضد المورث ولم تقفل قائمته النهائية ، يجب وقفه حتى تتم تسوية جميع ديون التركة متى طلب ذلك أحد ذوى الشأن.",
       "is_repealed": false,
       "continues_from_previous_page": false,
       "continues_on_next_page": false
@@ -60,8 +60,8 @@
       "number_en": "884",
       "number_ar": "٨٨٤",
       "number_end": null,
-      "text_en": "No heir may dispose of estate assets, recover estate\ndebts, or set off a personal debt against a debt of the\nestate until an inheritance certificate, provided for in\nArticle 901 has been delivered to him.",
-      "text_ar": "مادة ٨٨٤\nلا يجوز للوارث قبل أن تسلم إليه شهادة التوريث المنصوص عليها المادة\n٩٠١ أن يتصرف فى مال التركة ، كما لا يجوز له ان يستوفى ما للتركة\nمن ديون أو أن يجعل دينا عليه قصاصا يدين التركة.",
+      "text_en": "No heir may dispose of estate assets, recover estate debts, or set off a personal debt against a debt of the estate until an inheritance certificate, provided for in Article 901 has been delivered to him.",
+      "text_ar": "لا يجوز للوارث قبل أن تسلم إليه شهادة التوريث المنصوص عليها المادة ٩٠١ أن يتصرف فى مال التركة ، كما لا يجوز له ان يستوفى ما للتركة من ديون أو أن يجعل دينا عليه قصاصا يدين التركة.",
       "is_repealed": false,
       "continues_from_previous_page": false,
       "continues_on_next_page": false
@@ -76,8 +76,8 @@
       "number_en": "885",
       "number_ar": "٨٨٥",
       "number_end": null,
-      "text_en": "An administrator is bound, during the winding up, to\ntake the necessary measures to preserve and administer\nthe property of the estate. He must also represent the\nestate before the Courts and proceed with the recovery\nof debts due to the estate.\nAn administrator is, even if he is not remunerated,\nresponsible to the same extent as a paid mandatory. The\nJudge may call on him to render an account of his\nadministration at periodical intervals.",
-      "text_ar": "مادة ٨٨٥\n(١) على المصفى فى أثناء التصفية أن يتخذ ما تتطلبه أموال التركة من\nالوسائل التحفظية ، وأن يقوم بما يلزم من الإدارة ، ولعيه أيضا أن ينوب\nعن التركة فى الدعاوى وأن يستوفي ما لها من ديون قد حلت.\n\n( ٢ ) ويكون المصفى ، ولو لم يكن مأجورا ، مسئولا مسئولية الوكيل\nالمأجور . وللقاضى أن يطالبه بتقديم حساب عن أدارته فى مواعيد دورية.",
+      "text_en": "An administrator is bound, during the winding up, to take the necessary measures to preserve and administer the property of the estate. He must also represent the estate before the Courts and proceed with the recovery of debts due to the estate.\nAn administrator is, even if he is not remunerated, responsible to the same extent as a paid mandatory. The Judge may call on him to render an account of his administration at periodical intervals.",
+      "text_ar": "( ١ ) على المصفى فى أثناء التصفية أن يتخذ ما تتطلبه أموال التركة من الوسائل التحفظية ، وأن يقوم بما يلزم من الإدارة ، ولعبه أيضا أن ينوب عن التركة فى الدعاوى وأن يستوفى ما لها من ديون قد حلت.\n( ٢ ) ويكون المصفى ، ولو لم يكن مأجورا ، مسئولا مسئولية الوكيل المأجور . وللقاضى أن يطالبه بتقديم حساب عن أدارته فى مواعيد دورية.",
       "is_repealed": false,
       "continues_from_previous_page": false,
       "continues_on_next_page": false
@@ -92,8 +92,8 @@
       "number_en": "886",
       "number_ar": "٨٨٦",
       "number_end": null,
-      "text_en": "An administrator must publish a notice calling on the\ncreditors and debtors of the estate to submit particulars\nof their claims and of their debts within a delay of three\nmonths from the last publication of the notice.\nThis notice must be posted on the main door of the\nresidence of the Omdah in the town or village in which\nthe estate property is situate, or on the main door of the\npolice station in the town where this property is situate,\nand on the notice board of the Summary Court within\nthe jurisdiction of the deceased was domiciled at\nthe date of his death. The notice must also be published\nin a daily newspaper with a wide circulation.",
-      "text_ar": "مادة ٨٨٦\n(١) على المصفى أن يوجه تكليفا علينا لدائني التركة ومدينيها يدعوهم فيه\nلأن قدموا بيانا بما لهم من حقوق وما عليهم من ديون ، وذلك خلال ثلاثة\nأشهر من التاريخ الذي ينشر فيه التكليف آخر مرة.\n\n(٢) ويجب أن يلصق التكليف على الباب الرئيسي لمقر العمدة فى المدينة\nأو القرية التى توجد بها أعيان التركة ، أو على الباب الرئيسي لمركز\nالبوليس فى المدن التي تقع في دائرتها هذه الأعيان ، وفى لوحة المحكمة\nالجزئية التي يقع في دائرتها أخر موطن للمورث وفى صحيفة من الصحف\nاليومية الواسعة الانتشار.",
+      "text_en": "An administrator must publish a notice calling on the creditors and debtors of the estate to submit particulars of their claims and of their debts within a delay of three months from the last publication of the notice.\nThis notice must be posted on the main door of the residence of the Omdah in the town or village in which the estate property is situate, or on the main door of the police station in the town where this property is situate, and on the notice board of the Summary Court within the jurisdiction of which the deceased was domiciled at the date of his death. The notice must also be published in a daily newspaper with a wide circulation.",
+      "text_ar": "( ١ ) على المصفى أن يوجه تكليفا علنيا لدائني التركة ومدينيها يدعوهم فيه لأن قدموا بيانا بما لهم من حقوق وما عليهم من ديون ، وذلك خلال ثلاثة أشهر من التاريخ الذي ينشر فيه التكليف آخر مرة.\n( ٢ ) ويجب أن يلصق التكليف على الباب الرئيسي لمقر العمدة في المدينة أو القرية التي توجد بها أعيان التركة ، أو على الباب الرئيسي لمركز البوليس فى المدن التي تقع فى دائرتها هذه الأعيان ، وفى لوحة المحكمة الجزئية التى يقع فى دائرتها آخر موطن للمورث وفى صحيفة من الصحف اليومية الواسعة الانتشار.",
       "is_repealed": false,
       "continues_from_previous_page": false,
       "continues_on_next_page": false
@@ -106,29 +106,14 @@
       "title_en": null,
       "title_ar": null,
       "number_en": "887",
-      "number_ar": "۸۸۷",
+      "number_ar": "٨٨٧",
       "number_end": null,
-      "text_en": "An administrator must, within four months from the\ndate of his appointment, file with the registry of the\nCourt a statement of the assets and liabilities of the\nestate with an estimate of their value. He must also,\nwithin the same time, inform every interested party by\nregistered letter of the filing of the statement.\nAn administrator may apply to the Judge for an\nextension of time, if this extension is justified by\ncircumstances.",
-      "text_ar": "مادة ٨٨٧\n(١) على المصفى أن يودع قلم كتاب المحكمة ، خلال أربعة أشهر من\nتعيينه ، قائمة تبين ما للتركة وما عليها وتشتمل على تقدير لقيمة هذه\nالأموال ، وعليه أيضا أن يخطر بكتاب موصى عليه في الميعاد المتقدم كل\nذى شأن بحصول هذا الإيداع.\n\n( ٢ ) ويجوز أن يطلب إلى القاضى مد هذا الميعاد إذا وجدت ظروف تبرر\nذلك",
+      "text_en": "An administrator must, within four months from the date of his appointment, file with the registry of the Court a statement of the assets and liabilities of the estate with an estimate of their value. He must also, within the same time, inform every interested party by registered letter of the filing of the statement.\nAn administrator may apply to the Judge for an extension of time, if this extension is justified by circumstances.",
+      "text_ar": "( ١ ) على المصفى أن يودع قلم كتاب المحكمة ، خلال أربعة أشهر من تعيينه ، قائمة تبين ما للتركة وما عليها وتشتمل على تقدير قيمة هذه الأموال ، وعليه أيضا أن يخطر بكتاب موصى عليه في الميعاد المتقدم كل ذى شأن بحصول هذا الإيداع.\n( ٢ ) ويجوز أن يطلب إلى القاضى مد هذا الميعاد إذا وجدت ظروف تبرر ذلك",
       "is_repealed": false,
       "continues_from_previous_page": false,
       "continues_on_next_page": false
-    },
-    {
-      "kind": "article",
-      "front_matter": false,
-      "label_en": null,
-      "label_ar": null,
-      "title_en": null,
-      "title_ar": null,
-      "number_en": "888",
-      "number_ar": "۸۸۸",
-      "number_end": null,
-      "text_en": null,
-      "text_ar": null,
-      "is_repealed": false,
-      "continues_from_previous_page": false,
-      "continues_on_next_page": true
     }
+
   ]
 }

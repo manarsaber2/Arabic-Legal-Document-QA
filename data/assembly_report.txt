@@ -1,5 +1,5 @@
 pages loaded: 170 / 170
-article records: 1154  (repealed: 56)
+article records: 1153  (repealed: 56)
 promulgation-law items (excluded): 5
 
 === WARNINGS ===
@@ -28,12 +28,12 @@ page 119: article 834 was not marked as cut but a continuation follows (merged a
 page 120: article 841 was not marked as cut but a continuation follows (merged anyway)
 page 122: article 852 was cut at the end of the previous page but the next row is a new article (853). Something is missing.
 page 122: article 853 is marked 'continues from previous page' but has its own number
-page 128: article 888 was cut at the end of the previous page but the next row is a new article (١). Something is missing.
 page 129: article 893 was not marked as cut but a continuation follows (merged anyway)
 page 130: article 901 was cut at the end of the previous page but the next row is a new article (901). Something is missing.
 page 132: article 916 was cut at the end of the previous page but the next row is a new article (917). Something is missing.
 page 135: article 936 was not marked as cut but a continuation follows (merged anyway)
 page 142: article 982 is marked 'continues from previous page' but has its own number
+page 147: article 1016 was not marked as cut but a continuation follows (merged anyway)
 page 148: article 1022 was cut at the end of the previous page but the next row is a new article (1023). Something is missing.
 page 154: article 1058 was not marked as cut but a continuation follows (merged anyway)
 page 156: article 1066 was cut at the end of the previous page but the next row is a new article (1067). Something is missing.
@@ -42,30 +42,22 @@ sequence break before article 2 (page 66): expected 505
 sequence break before article 505 (page 66): expected 3
 sequence break before article 572 (page 77): expected 573
 sequence break before article 671 (page 93): expected 672
-sequence break before article 1 (page 128): expected 889
-sequence break before article 889 (page 128): expected 2
 sequence break before article 901 (page 130): expected 902
 DUPLICATE article 2 (pages 1 and 66)
 DUPLICATE article 572 (pages 77 and 77)
 DUPLICATE article 671 (pages 92 and 93)
-DUPLICATE article 1 (pages 1 and 128)
 DUPLICATE article 901 (pages 129 and 130)
 
 === FLAGGED RECORDS ===
-art 230 (p29): missing_text_ar
 art 389 (p53): repealed_by_model_only_check_manually
 art 2 (p66): sequence_break_expected_505
 art 505 (p66): sequence_break_expected_3
 art 572 (p77): sequence_break_expected_573
 art 671 (p93): sequence_break_expected_672
 art 811 (p114): missing_text_en
-art 888 (p127): missing_text_en, missing_text_ar
-art 1 (p128): sequence_break_expected_889
-art 889 (p128): sequence_break_expected_2
-art 894 (p129): missing_text_ar
 art 901 (p129): missing_text_en
 art 901 (p130): sequence_break_expected_902
-art 1022 (p147): missing_text_ar
+art 1022 (p147): missing_text_en
 
 === HEADER OUTLINE (check the levels!) ===
 p  1 [chapter ]  | باب تمهيدي أحكام عامة
