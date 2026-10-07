@@ -39,20 +39,23 @@ OUT_DIR = BASE_DIR / "data" / "processed"
 
 MODEL = os.getenv("MODEL", "gemini-3.5-flash-lite") 
 FALLBACK_MODEL = os.getenv("FALLBACK_MODEL", "gemini-3.1-flash-lite") 
-HF_MODEL = "Qwen/Qwen2.5-VL-72B-Instruct"
+##HF_MODEL = "Qwen/Qwen3.8-27B:novita"
 
 MAX_OUTPUT_TOKENS = 32768
 
 # Attempts designed to break strict verbatim text/image signatures (RECITATION workaround)
+HF_MODEL = "Qwen/Qwen2.5-VL-72B-Instruct"
+
 ATTEMPTS = [
-    # Attempt 1: Standard extraction with safety override and 120 DPI
-    {"provider": "gemini", "model": MODEL, "dpi": 120, "crop_y": 0, "crop_x": 0, "rotate": 0.0, "thinking": None},
-    # Attempt 2: Vertical trim (crops top/bottom margins to remove repetitive headers/footers) + lower DPI
-    {"provider": "gemini", "model": MODEL, "dpi": 110, "crop_y": 25, "crop_x": 10, "rotate": 0.0, "thinking": None},
-    # Attempt 3: Micro rotation + fallback model
-    {"provider": "gemini", "model": FALLBACK_MODEL, "dpi": 120, "crop_y": 20, "crop_x": 15, "rotate": 0.5, "thinking": None},
-    # Attempt 4: Hugging Face Fallback (bypasses RECITATION filters)
+    # Attempt 1: Standard Gemini
     {"provider": "hf", "model": HF_MODEL, "dpi": 150, "crop_y": 0, "crop_x": 0, "rotate": 0.0, "thinking": None},
+    {"provider": "gemini", "model": MODEL, "dpi": 120, "crop_y": 0, "crop_x": 0, "rotate": 0.0, "thinking": None},
+    # Attempt 2: Trimmed Gemini
+    {"provider": "gemini", "model": MODEL, "dpi": 110, "crop_y": 25, "crop_x": 10, "rotate": 0.0, "thinking": None},
+    # Attempt 3: Micro rotation Gemini
+    {"provider": "gemini", "model": FALLBACK_MODEL, "dpi": 120, "crop_y": 20, "crop_x": 15, "rotate": 0.5, "thinking": None},
+    # Attempt 4: Hugging Face Full Page (Zero Crop + High DPI)
+   
 ]
 
 TRANSIENT_CODES = {429, 500, 502, 503, 504}
