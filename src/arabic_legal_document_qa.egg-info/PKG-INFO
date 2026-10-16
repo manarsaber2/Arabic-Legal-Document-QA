@@ -1,0 +1,31 @@
+Metadata-Version: 2.4
+Name: arabic-legal-document-qa
+Version: 0.1.0
+Summary: System answers legal questions over the Egyptian Civil Code
+Author: Manar Saber
+Requires-Python: <3.14,>=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: pydantic
+Requires-Dist: sentence-transformers
+Requires-Dist: qdrant-client
+Requires-Dist: rank-bm25
+Requires-Dist: mlflow
+Requires-Dist: google-genai
+Requires-Dist: python-dotenv
+Provides-Extra: ocr
+Requires-Dist: pymupdf; extra == "ocr"
+Requires-Dist: numpy; extra == "ocr"
+Requires-Dist: huggingface_hub; extra == "ocr"
+Requires-Dist: pillow; extra == "ocr"
+Provides-Extra: eval
+Requires-Dist: ragas; extra == "eval"
+Requires-Dist: langchain-google-genai; extra == "eval"
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: pytest-cov; extra == "dev"
+Requires-Dist: ruff; extra == "dev"
+Requires-Dist: httpx; extra == "dev"
+
+# Arabic-Legal-Document-QA

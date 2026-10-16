@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+src/arabic_legal_document_qa.egg-info/PKG-INFO
+src/arabic_legal_document_qa.egg-info/SOURCES.txt
+src/arabic_legal_document_qa.egg-info/dependency_links.txt
+src/arabic_legal_document_qa.egg-info/requires.txt
+src/arabic_legal_document_qa.egg-info/top_level.txt
+src/legal-qa/__init__.py
+src/legal-qa/api.py
+src/legal-qa/chunk.py
+src/legal-qa/clean_and_reprocess.py
+src/legal-qa/extraction.py
+src/legal-qa/index.py
+src/legal-qa/merge.py
+src/legal-qa/retriever.py
+tests/test-corpus.py
