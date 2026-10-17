@@ -1,9 +1,0 @@
-{
-  "tag": "multilingual-e5-small_cs600_ov80",
-  "model": "intfloat/multilingual-e5-small",
-  "chunk_size": 600,
-  "overlap": 80,
-  "hit_at_5": 0.4,
-  "mrr": 0.27611111111111103,
-  "collection": "multilingual-e5-small_cs600_ov80"
-}

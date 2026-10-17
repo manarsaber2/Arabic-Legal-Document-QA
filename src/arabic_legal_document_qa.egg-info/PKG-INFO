@@ -1,31 +1,30 @@
 Metadata-Version: 2.4
 Name: arabic-legal-document-qa
 Version: 0.1.0
-Summary: System answers legal questions over the Egyptian Civil Code
-Author: Manar Saber
-Requires-Python: <3.14,>=3.10
-Description-Content-Type: text/markdown
-Requires-Dist: fastapi
-Requires-Dist: uvicorn
-Requires-Dist: pydantic
-Requires-Dist: sentence-transformers
-Requires-Dist: qdrant-client
-Requires-Dist: rank-bm25
-Requires-Dist: mlflow
-Requires-Dist: google-genai
-Requires-Dist: python-dotenv
+Summary: Arabic/English Egyptian Civil Code QA: hybrid retrieval (Qdrant + BM25) + Gemini
+Requires-Python: >=3.10
+Requires-Dist: fastapi>=0.115
+Requires-Dist: uvicorn[standard]>=0.30
+Requires-Dist: pydantic>=2.7
+Requires-Dist: python-dotenv>=1.0
+Requires-Dist: sentence-transformers>=3.0
+Requires-Dist: qdrant-client>=1.12
+Requires-Dist: rank-bm25>=0.2.2
+Requires-Dist: google-genai>=1.0
+Requires-Dist: mlflow>=3.0
+Requires-Dist: httpx
+Requires-Dist: numpy
 Provides-Extra: ocr
 Requires-Dist: pymupdf; extra == "ocr"
-Requires-Dist: numpy; extra == "ocr"
 Requires-Dist: huggingface_hub; extra == "ocr"
 Requires-Dist: pillow; extra == "ocr"
 Provides-Extra: eval
-Requires-Dist: ragas; extra == "eval"
+Requires-Dist: ragas>=0.2; extra == "eval"
 Requires-Dist: langchain-google-genai; extra == "eval"
+Provides-Extra: obs
+Requires-Dist: langfuse>=3.0; extra == "obs"
 Provides-Extra: dev
 Requires-Dist: pytest; extra == "dev"
 Requires-Dist: pytest-cov; extra == "dev"
 Requires-Dist: ruff; extra == "dev"
 Requires-Dist: httpx; extra == "dev"
-
-# Arabic-Legal-Document-QA

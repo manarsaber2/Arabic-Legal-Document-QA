@@ -1,1 +1,1 @@
-legal-qa
+legal_qa

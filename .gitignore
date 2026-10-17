@@ -1,3 +1,9 @@
 .env
 /processed
 qdrant_storage/
+data/index/
+mlruns/
+mlflow.db
+__pycache__/
+.env
+.hf/
