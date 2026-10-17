@@ -1,0 +1,5 @@
+metrics.hit_at_5,metrics.mrr,metrics.hit_at_5_en,metrics.n_chunks,metrics.multi_part_chunks,metrics.hit_at_5_ar,metrics.embed_seconds,metrics.n_eval,params.overlap,params.model,params.chunk_size,params.embedding_model,params.n_articles,params.chunk_overlap,params.retrieval,tags.mlflow.runName
+0.4,0.27611111111111103,,,,,,,80,intfloat/multilingual-e5-small,600,,,,,BEST-multilingual-e5-small_cs600_ov80
+0.4,0.27611111111111103,0.5,2295.0,0.0,0.3333333333333333,164.1,60.0,,,600,intfloat/multilingual-e5-small,1149,80,hybrid_bm25_dense_rrf,multilingual-e5-small_cs600_ov80
+,,,2295.0,0.0,,117.9,,,,600,intfloat/multilingual-e5-small,1149,80,hybrid_bm25_dense_rrf,multilingual-e5-small_cs600_ov80
+,,,2295.0,0.0,,103.4,,,,600,intfloat/multilingual-e5-small,1149,80,hybrid_bm25_dense_rrf,multilingual-e5-small_cs600_ov80

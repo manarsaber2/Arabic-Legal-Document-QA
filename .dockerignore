@@ -1,0 +1,11 @@
+.git
+.dvc/cache
+data/*.pdf
+data/index/*
+!data/index/best
+mlflow.db
+mlruns
+__pycache__
+.env
+tests
+reports

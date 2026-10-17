@@ -1,0 +1,17 @@
+# docker compose up --build            -> API with the index baked in (embedded Qdrant)
+# docker compose --profile server up   -> API + separate Qdrant server (QDRANT_URL), the index must be built against it
+services:
+  api:
+    build: .
+    ports: ["8000:8000"]
+    env_file: .env
+    restart: unless-stopped
+
+  qdrant:
+    profiles: ["server"]
+    image: qdrant/qdrant:latest
+    ports: ["6333:6333"]
+    volumes: ["qdrant_data:/qdrant/storage"]
+
+volumes:
+  qdrant_data:

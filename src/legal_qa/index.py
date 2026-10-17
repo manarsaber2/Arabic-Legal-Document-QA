@@ -14,9 +14,10 @@ import time
 from pathlib import Path
 
 import mlflow
+import mlflow.pyfunc
 
-from chunk import build_chunks
-from retriever import Embedder, Retriever
+from legal_qa.chunk import build_chunks
+from legal_qa.retriever import Embedder, Retriever
 
 ROOT = Path(__file__).resolve().parents[2]
 ARTICLES = ROOT / "data" / "articles.jsonl"
@@ -30,17 +31,56 @@ SWEEP = [  # (model, chunk_size, overlap) -- small sizes force real splits on lo
 ]
 
 
+class RetrieverConfig(mlflow.pyfunc.PythonModel):
+    """Registry entry for the winning retrieval config (embedding model, chunking, Qdrant collection)."""
+
+    def load_context(self, context):
+        self.config = json.load(open(context.artifacts["config"], encoding="utf-8"))
+
+    def predict(self, context, model_input, params=None):
+        return [self.config] * len(model_input)
+
+
+def register_best(best: dict) -> None:
+    cfg = {k: best[k] for k in ("tag", "model", "chunk_size", "overlap", "hit_at_5", "mrr")}
+    cfg["collection"] = best["tag"]
+    cfg_path = INDEX_ROOT / "best_config.json"
+    cfg_path.write_text(json.dumps(cfg, indent=2), encoding="utf-8")
+    with mlflow.start_run(run_name=f"BEST-{best['tag']}"):
+        mlflow.log_params({k: cfg[k] for k in ("model", "chunk_size", "overlap")})
+        mlflow.log_metrics({k: cfg[k] for k in ("hit_at_5", "mrr")})
+        info = mlflow.pyfunc.log_model(name="retriever_config", python_model=RetrieverConfig(),
+                                       artifacts={"config": str(cfg_path)}, pip_requirements=["mlflow"])
+        mv = mlflow.register_model(info.model_uri, "arabic-legal-qa-retriever")
+        mlflow.MlflowClient().set_registered_model_alias("arabic-legal-qa-retriever", "champion", mv.version)
+        print(f"registered arabic-legal-qa-retriever v{mv.version} (alias: champion) -> {best['tag']}")
+
+
+def export_report() -> None:
+    """reports/mlflow_runs.csv: all runs side by side (for the README / screenshot evidence)."""
+    df = mlflow.search_runs(experiment_names=["arabic-legal-qa-retrieval"])
+    keep = [c for c in df.columns if c.startswith(("params.", "metrics.")) or c == "tags.mlflow.runName"]
+    (ROOT / "reports").mkdir(exist_ok=True)
+    df[keep].to_csv(ROOT / "reports" / "mlflow_runs.csv", index=False)
+    print(f"{len(df)} runs -> reports/mlflow_runs.csv")
+
+
 def evaluate(r: Retriever, k: int = 5) -> dict:
     if not EVAL.exists():
         return {}
     rows = [json.loads(l) for l in EVAL.read_text(encoding="utf-8").splitlines() if l.strip()]
-    hits, rr = 0, 0.0
+    hits, rr, by_lang = 0, 0.0, {}
     for row in rows:
         got = [h["article_number"] for h in r.search(row["question"], k=k)]
-        if row["article_number"] in got:
-            hits += 1
-            rr += 1.0 / (got.index(row["article_number"]) + 1)
-    return {f"hit_at_{k}": hits / len(rows), "mrr": rr / len(rows), "n_eval": len(rows)}
+        ok = row["article_number"] in got
+        hits += ok
+        rr += 1.0 / (got.index(row["article_number"]) + 1) if ok else 0.0
+        h_, n_ = by_lang.get(row.get("lang", "all"), (0, 0))
+        by_lang[row.get("lang", "all")] = (h_ + ok, n_ + 1)
+    out = {f"hit_at_{k}": hits / len(rows), "mrr": rr / len(rows), "n_eval": len(rows)}
+    if len(by_lang) > 1:
+        out.update({f"hit_at_{k}_{lg}": h_ / n_ for lg, (h_, n_) in by_lang.items()})
+    return out
 
 
 def run(model: str, chunk_size: int, overlap: int, fake: bool = False) -> dict:
@@ -80,7 +120,7 @@ def run(model: str, chunk_size: int, overlap: int, fake: bool = False) -> dict:
         metrics.update(evaluate(Retriever(out, emb)))
         mlflow.log_metrics(metrics)
         print(tag, metrics)
-    return {"tag": tag, "dir": out, **metrics}
+    return {"tag": tag, "dir": out, "model": model, "chunk_size": chunk_size, "overlap": overlap, **metrics}
 
 
 def main() -> None:
@@ -103,6 +143,9 @@ def main() -> None:
         shutil.rmtree(INDEX_ROOT / "best", ignore_errors=True)
         shutil.copytree(best["dir"], INDEX_ROOT / "best")
         print(f"BEST: {best['tag']}  mrr={best['mrr']:.3f}  hit@5={best['hit_at_5']:.3f}  -> data/index/best")
+        if not a.fake:
+            register_best(best)
+    export_report()
 
 
 if __name__ == "__main__":

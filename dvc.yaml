@@ -1,0 +1,19 @@
+# dvc pull && dvc repro
+# PDF -> articles.jsonl (Gemini OCR/extraction) is NOT a stage: it is paid and non-deterministic, so it runs
+# offline once and its output is tracked as data:  dvc add data/legal_data_raw.pdf data/articles.jsonl data/eval/eval.jsonl
+stages:
+  chunk:
+    cmd: python src/legal_qa/chunk.py
+    deps: [src/legal_qa/chunk.py, data/articles.jsonl]
+    outs: [data/chunks.jsonl]
+  index:
+    cmd: >-
+      python src/legal_qa/index.py --model ${index.model}
+      --chunk-size ${index.chunk_size} --overlap ${index.overlap}
+    deps: [src/legal_qa/index.py, src/legal_qa/indexing.py, src/legal_qa/retriever.py,
+           src/legal_qa/chunk.py, data/articles.jsonl, data/eval/eval.jsonl]
+    params: [index]
+    outs: [data/index/best]
+    metrics:
+      - reports/retrieval_metrics.json:
+          cache: false

@@ -1,0 +1,23 @@
+artifact_path: file:///E:/Arabic Legal Document Q&A/Arabic-Legal-Document-QA/mlruns/1/models/m-00dbdda4e0ba4aec9261de3d5575ab65/artifacts
+flavors:
+  python_function:
+    artifacts:
+      config:
+        path: artifacts/best_config.json
+        uri: E:\Arabic Legal Document Q&A\Arabic-Legal-Document-QA\data\index\best_config.json
+    cloudpickle_version: 3.1.2
+    code: null
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pyfunc.model
+    python_model: python_model.pkl
+    python_version: 3.10.9
+    streamable: false
+mlflow_version: 3.17.1
+model_id: m-00dbdda4e0ba4aec9261de3d5575ab65
+model_size_bytes: 1995
+model_uuid: m-00dbdda4e0ba4aec9261de3d5575ab65
+prompts: null
+run_id: 90df7b23054d4676805e8fa1e6d1aeb1
+utc_time_created: '2026-10-16 21:32:43.103067'

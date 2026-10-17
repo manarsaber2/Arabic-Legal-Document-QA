@@ -1,0 +1,1 @@
+{"embedding_model": "intfloat/multilingual-e5-base", "chunk_size": 600, "overlap": 80, "fake": false, "collection": "multilingual-e5-base_cs600_ov80"}
