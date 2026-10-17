@@ -1,9 +1,7 @@
 import json
-import os
-import re
 from pathlib import Path
+
 from dotenv import load_dotenv
-from huggingface_hub import InferenceClient
 
 BASE_DIR = Path(__file__).resolve().parent
 load_dotenv(BASE_DIR / ".env")
@@ -18,7 +16,7 @@ def fix_duplicates_and_empty_texts():
         print(f"File not found: {JSONL_PATH}")
         return
 
-   
+
     with open(JSONL_PATH, "r", encoding="utf-8") as f:
         records = [json.loads(line) for line in f if line.strip()]
 
@@ -30,31 +28,31 @@ def fix_duplicates_and_empty_texts():
 
     for rec in records:
         art_num = rec.get("article_number")
-        
+
         if art_num is not None and art_num in seen_articles:
             duplicates_count += 1
             continue
-            
+
         if art_num is not None:
             seen_articles.add(art_num)
-        
+
         cleaned_records.append(rec)
 
     print(f" Removed {duplicates_count} duplicate records.")
 
-   
+
     empty_ar_records = [
-        r for r in cleaned_records 
+        r for r in cleaned_records
         if not r.get("is_repealed") and not (r.get("text_ar") or "").strip()
     ]
 
     if empty_ar_records:
         print(f"Found {len(empty_ar_records)} active records with empty Arabic text.")
-       
+
     else:
         print(" All active articles have valid Arabic text!")
 
-    
+
     with open(CLEAN_JSONL_PATH, "w", encoding="utf-8") as f:
         for rec in cleaned_records:
             f.write(json.dumps(rec, ensure_ascii=False) + "\n")
@@ -75,7 +73,7 @@ def find_missing_text_pages():
             if not line.strip():
                 continue
             item = json.loads(line)
-            
+
             # Check non-repealed articles with empty or whitespace-only Arabic text
             is_repealed = item.get("is_repealed", False)
             text_ar = item.get("text_ar", "") or ""
@@ -90,7 +88,7 @@ def find_missing_text_pages():
 
     sorted_pages = sorted(list(empty_pages))
     pages_str = ",".join(map(str, sorted_pages))
-    
+
     print(f"\nFound {missing_count} active articles missing Arabic text across {len(sorted_pages)} pages.")
     print(f"Target Pages: {pages_str}")
     return pages_str

@@ -17,7 +17,7 @@ from fastapi.responses import StreamingResponse
 from pydantic import BaseModel, Field, field_validator
 
 from legal_qa import tracing
-from legal_qa.retrieve import Retriever
+from legal_qa.retriever import Retriever
 
 ROOT = Path(__file__).resolve().parents[2]
 load_dotenv(ROOT / ".env")

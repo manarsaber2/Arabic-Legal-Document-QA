@@ -1,9 +1,10 @@
 import json
 
+from tests.conftest import ARTICLES
+
 from legal_qa.indexing import build_index
 from legal_qa.reindex import merge_articles, reindex
 from legal_qa.retriever import Retriever
-from tests.conftest import ARTICLES
 
 NEW_DOC = [
     {"article_number": 99, "text_ar": "مادة (99)\nتتقادم دعوى التعويض بمرور ثلاث سنوات.",

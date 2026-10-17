@@ -206,7 +206,7 @@ def main():
             # ---------------- articles ----------------
             if b.get("front_matter"):
                 front.append({
-                    "number_ar": b.get("number_ar"), 
+                    "number_ar": b.get("number_ar"),
                     "text_ar": b.get("text_ar"),
                     "source_page": page,
                 })

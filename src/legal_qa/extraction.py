@@ -37,8 +37,8 @@ load_dotenv(BASE_DIR / ".env")
 PDF_PATH = BASE_DIR / "data" / "legal_data_raw.pdf"
 OUT_DIR = BASE_DIR / "data" / "processed"
 
-MODEL = os.getenv("MODEL", "gemini-3.5-flash-lite") 
-FALLBACK_MODEL = os.getenv("FALLBACK_MODEL", "gemini-3.1-flash-lite") 
+MODEL = os.getenv("MODEL", "gemini-3.5-flash-lite")
+FALLBACK_MODEL = os.getenv("FALLBACK_MODEL", "gemini-3.1-flash-lite")
 ##HF_MODEL = "Qwen/Qwen3.8-27B:novita"
 
 MAX_OUTPUT_TOKENS = 32768
@@ -55,7 +55,7 @@ ATTEMPTS = [
     # Attempt 3: Micro rotation Gemini
     {"provider": "gemini", "model": FALLBACK_MODEL, "dpi": 120, "crop_y": 20, "crop_x": 15, "rotate": 0.5, "thinking": None},
     # Attempt 4: Hugging Face Full Page (Zero Crop + High DPI)
-   
+
 ]
 
 TRANSIENT_CODES = {429, 500, 502, 503, 504}
@@ -266,7 +266,7 @@ def call_hf(hf_client, model, image_bytes):
                 "role": "user",
                 "content": [
                     {
-                        "type": "text", 
+                        "type": "text",
                         "text": PROMPT + "\n\nReturn ONLY raw valid JSON object with key 'blocks' like this: {\"blocks\": [...]}"
                     },
                     {
@@ -288,7 +288,7 @@ def call_hf(hf_client, model, image_bytes):
 
     if not content or not content.strip():
         raise EmptyResponse("Hugging Face returned an empty response")
-        
+
     return content.strip()
 
 
@@ -367,9 +367,9 @@ def process_page(doc, gemini_client, hf_client, page_num, force):
 
             data = json.loads(raw)
             if isinstance(data, list):
-            
+
                 data = {"blocks": data}
-            
+
             parsed = PageExtraction.model_validate(data)
 
             payload = {
@@ -417,7 +417,7 @@ def main():
     OUT_DIR.mkdir(parents=True, exist_ok=True)
 
     gemini_client = genai.Client()
-    
+
     # Initialize Hugging Face Client
     hf_token = os.environ.get("HF_TOKEN")
     hf_client = InferenceClient(api_key=hf_token) if hf_token else None

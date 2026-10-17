@@ -1,6 +1,6 @@
 # dvc pull && dvc repro
 # PDF -> articles.jsonl (Gemini OCR/extraction) is NOT a stage: it is paid and non-deterministic, so it runs
-# offline once and its output is tracked as data:  dvc add data/legal_data_raw.pdf data/articles.jsonl data/eval/eval.jsonl
+# offline once and its output is tracked as data:  dvc add data/legal_data_raw.pdf data/articles.jsonl   (eval.jsonl stays in git: small, CI needs it)
 stages:
   chunk:
     cmd: python src/legal_qa/chunk.py
