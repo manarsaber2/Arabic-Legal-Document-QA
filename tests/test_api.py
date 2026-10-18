@@ -13,7 +13,8 @@ def test_ask_contract(client):
     r = client.post("/ask", json={"question": "هل يسأل من استعمل حقه استعمالا مشروعا عن الضرر؟"})
     assert r.status_code == 200
     body = r.json()
-    assert set(body) == {"answer", "sources"}
+    assert {"answer", "sources"} <= set(body)
+    assert body["passages"] and all(p["text"] for p in body["passages"])
     assert isinstance(body["answer"], str) and body["answer"]
     assert body["sources"] and all(isinstance(s, str) for s in body["sources"])
     assert "Article 4" in body["sources"] or "المادة 4" in body["sources"]
@@ -39,7 +40,7 @@ def test_missing_question_422(client):
 def test_refusal_has_no_sources(client):
     api.state["llm"].reply = api.REFUSAL_AR
     body = client.post("/ask", json={"question": "ما عاصمة فرنسا؟"}).json()
-    assert body["sources"] == []
+    assert body["sources"] == [] and body["passages"] == []
     assert body["answer"] == api.REFUSAL_AR
 
 
@@ -60,3 +61,16 @@ def test_stream_events(client):
 def test_llm_missing_returns_503(client):
     api.state.pop("llm")
     assert client.post("/ask", json={"question": "سؤال"}).status_code == 503
+
+
+def test_query_rewrite_is_added_and_falls_back(client, monkeypatch):
+    from legal_qa import api
+    monkeypatch.setattr(api, "QUERY_REWRITE", True)
+    monkeypatch.setattr(api, "call_llm", lambda p: "استعمال الحق المشروع Lawful exercise of a right")
+    q = api.search_query("هو ينفع اضر حد وانا بستعمل حقي؟")
+    assert q.startswith("هو ينفع") and "استعمال الحق المشروع" in q
+
+    def boom(p):
+        raise RuntimeError("llm down")
+    monkeypatch.setattr(api, "call_llm", boom)
+    assert api.search_query("سؤال") == "سؤال"

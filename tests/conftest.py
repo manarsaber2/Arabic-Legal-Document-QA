@@ -1,6 +1,10 @@
 """Offline fixtures: tiny bilingual corpus, fake hashed embeddings, embedded Qdrant in tmp, stub LLM."""
 
+import os
+
 import pytest
+
+os.environ["QUERY_REWRITE"] = "0"  # tests use a fixed-reply fake LLM; rewriting has its own test
 
 from legal_qa.indexing import build_index
 

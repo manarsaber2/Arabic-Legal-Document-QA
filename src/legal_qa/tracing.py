@@ -22,7 +22,10 @@ def trace(name: str, **input_):
         return
     try:
         lf = _client()
-        cm = lf.start_as_current_span(name=name, input=input_)
+        if hasattr(lf, "start_as_current_observation"):  # langfuse >= 4
+            cm = lf.start_as_current_observation(name=name, as_type="span", input=input_)
+        else:                                            # langfuse 3.x
+            cm = lf.start_as_current_span(name=name, input=input_)
         span = cm.__enter__()
         ctx["trace_id"] = lf.get_current_trace_id()
     except Exception as e:  # noqa: BLE001

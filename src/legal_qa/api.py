@@ -1,7 +1,7 @@
 """FastAPI service.   uvicorn legal_qa.api:app --port 8000
 
   GET  /health      -> {"status": "healthy", "documents_indexed": N}
-  POST /ask         -> {"answer": str, "sources": [str]}         body: {"question": str}
+  POST /ask         -> {"answer": str, "sources": [str], "passages": [{article, citation, text}]}
   POST /ask/stream  -> Server-Sent Events: sources, token..., done
   POST /search      -> retrieval only (debugging / evaluation)
 """
@@ -24,6 +24,15 @@ load_dotenv(ROOT / ".env")
 INDEX_DIR = Path(os.getenv("INDEX_DIR", ROOT / "data" / "index" / "best"))
 MODEL = os.getenv("MODEL", "gemini-3.5-flash-lite")
 FALLBACK_MODEL = os.getenv("FALLBACK_MODEL", "gemini-3.1-flash-lite")
+
+DEFAULT_K = int(os.getenv("DEFAULT_K", "8"))
+QUERY_REWRITE = os.getenv("QUERY_REWRITE", "1") == "1"
+
+REWRITE_PROMPT = """Rewrite this question about the Egyptian Civil Code as a search query.
+Output ONE line: the question in formal legal Arabic (Modern Standard Arabic, no dialect) followed by the key legal terms in English.
+If the question is in English, output it with the matching formal Arabic legal terms. No explanations.
+
+Question: {q}"""
 
 REFUSAL_AR = "المواد المتاحة لا تحتوي على إجابة لهذا السؤال."
 REFUSAL_EN = "The available articles do not contain an answer to this question."
@@ -95,7 +104,7 @@ app = FastAPI(title="Arabic Legal QA", lifespan=lifespan)
 
 class Ask(BaseModel):
     question: str = Field(min_length=1, max_length=1000)
-    k: int = Field(5, ge=1, le=10)
+    k: int = Field(DEFAULT_K, ge=1, le=10)
 
     @field_validator("question")
     @classmethod
@@ -103,6 +112,19 @@ class Ask(BaseModel):
         if not v.strip():
             raise ValueError("question must not be blank")
         return v.strip()
+
+
+def search_query(question: str) -> str:
+    """Colloquial Egyptian Arabic vs formal-Arabic corpus is the main retrieval gap (hit@5 0.33 on Arabic).
+    One cheap LLM call rewrites the question into formal legal wording; the original stays in the query.
+    Any failure falls back to the plain question, so /ask never breaks because of this step."""
+    if not QUERY_REWRITE or "llm" not in state:
+        return question
+    try:
+        rewritten = call_llm(REWRITE_PROMPT.format(q=question)).splitlines()[0].strip()
+        return f"{question}\n{rewritten}" if rewritten else question
+    except Exception:  # noqa: BLE001
+        return question
 
 
 def _citation(h: dict) -> str:
@@ -118,18 +140,21 @@ def _is_refusal(answer: str) -> bool:
     return REFUSAL_AR in answer or REFUSAL_EN in answer
 
 
-def answer_question(question: str, k: int = 5) -> dict:
+def answer_question(question: str, k: int = DEFAULT_K) -> dict:
     """Full pipeline. Returns answer, sources (citation strings), contexts (for RAGAS), trace_id."""
     if "llm" not in state:
         raise HTTPException(503, "GEMINI_API_KEY not set: /ask needs it; /search and /health work without one")
     with tracing.trace("ask", question=question, k=k) as t:
         t0 = time.time()
-        hits = state["retriever"].search(question, k=k)
+        hits = state["retriever"].search(search_query(question), k=k)
         answer = call_llm(_prompt(hits, question))
         answerable = not _is_refusal(answer)
         out = {"answer": answer, "answerable": answerable,
                "sources": [_citation(h) for h in hits] if answerable else [],
-               "contexts": [h["display_text"] for h in hits], "trace_id": t["trace_id"]}
+               "passages": [{"article": h["article_number"], "citation": _citation(h), "text": h["display_text"]}
+                            for h in hits] if answerable else [],
+               "contexts": [f"[Article {h['article_number']}]\n{h['display_text']}" for h in hits],  # same as the prompt
+               "articles": [h["article_number"] for h in hits], "trace_id": t["trace_id"]}
         t["output"] = answer
         t["metadata"] = {"answerable": answerable, "retrieved": [h["article_number"] for h in hits],
                          "latency_s": round(time.time() - t0, 3)}
@@ -144,14 +169,15 @@ def health():
 @app.post("/ask")
 def ask(req: Ask):
     out = answer_question(req.question, req.k)
-    return {"answer": out["answer"], "sources": out["sources"]}
+    # contract: answer + sources (list[str]); passages = the article texts behind those sources
+    return {"answer": out["answer"], "sources": out["sources"], "passages": out["passages"]}
 
 
 @app.post("/ask/stream")
 def ask_stream(req: Ask):
     if "llm" not in state:
         raise HTTPException(503, "GEMINI_API_KEY not set: /ask needs it; /search and /health work without one")
-    hits = state["retriever"].search(req.question, k=req.k)
+    hits = state["retriever"].search(search_query(req.question), k=req.k)
     prompt = _prompt(hits, req.question)
 
     def sse(event: str, data) -> str:
@@ -175,6 +201,6 @@ def ask_stream(req: Ask):
 
 @app.post("/search")
 def search(req: Ask):
-    hits = state["retriever"].search(req.question, k=req.k)
+    hits = state["retriever"].search(search_query(req.question), k=req.k)
     return [{"article_number": h["article_number"], "lang": h["lang"], "citation": _citation(h),
              "score": round(h["score"], 4), "text": h["display_text"]} for h in hits]

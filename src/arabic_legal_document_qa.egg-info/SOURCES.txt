@@ -17,8 +17,8 @@ src/legal_qa/merge.py
 src/legal_qa/ragas_eval.py
 src/legal_qa/reindex.py
 src/legal_qa/retriever.py
-src/legal_qa/trace.py
-tests/test-corpus.py
+src/legal_qa/tracing.py
 tests/test_api.py
-tests/testchunk.py
-tests/testreindex.py
+tests/test_chunk.py
+tests/test_corpus.py
+tests/test_reindex.py

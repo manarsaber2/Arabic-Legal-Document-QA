@@ -37,7 +37,7 @@ jobs:
       - name: "Rebuild index (dvc repro, chunk then index)"
         run: dvc repro
       - name: "RAGAS gate on 20 questions (fails if faithfulness is below 0.75)"
-        run: python src/legal_qa/ragas_eval.py --limit 20
+        run: python -m legal_qa.ragas_eval --limit 20
       - uses: actions/upload-artifact@v4
         with:
           name: index

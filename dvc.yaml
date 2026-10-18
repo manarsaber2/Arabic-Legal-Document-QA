@@ -3,12 +3,12 @@
 # offline once and its output is tracked as data:  dvc add data/legal_data_raw.pdf data/articles.jsonl   (eval.jsonl stays in git: small, CI needs it)
 stages:
   chunk:
-    cmd: python src/legal_qa/chunk.py
+    cmd: python -m legal_qa.chunk
     deps: [src/legal_qa/chunk.py, data/articles.jsonl]
     outs: [data/chunks.jsonl]
   index:
     cmd: >-
-      python src/legal_qa/index.py --model ${index.model}
+      python -m legal_qa.index --model ${index.model}
       --chunk-size ${index.chunk_size} --overlap ${index.overlap}
     deps: [src/legal_qa/index.py, src/legal_qa/indexing.py, src/legal_qa/retriever.py,
            src/legal_qa/chunk.py, data/articles.jsonl, data/eval/eval.jsonl]
