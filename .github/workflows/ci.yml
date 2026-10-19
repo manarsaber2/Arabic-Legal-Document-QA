@@ -2,6 +2,7 @@ name: ci
 on:
   push: {branches: [main]}
   pull_request:
+  workflow_dispatch:
 
 jobs:
   lint-test:
@@ -13,14 +14,14 @@ jobs:
       - run: pip install torch --index-url https://download.pytorch.org/whl/cpu
       - run: pip install -e ".[dev]"
       - run: ruff check .
-      - run: pytest -q          # offline: fake embeddings + stub LLM (corpus test is skipped without data)
-
+      - run: pytest -q          
   index-and-gate:
     needs: lint-test
     runs-on: ubuntu-latest
     env:
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       FAITHFULNESS_GATE: "0.75"
+      RAGAS_WORKERS: "2"
       ALERT_WEBHOOK_URL: ${{ secrets.ALERT_WEBHOOK_URL }}
     steps:
       - uses: actions/checkout@v4
@@ -36,8 +37,8 @@ jobs:
           dvc pull data/articles.jsonl
       - name: "Rebuild index (dvc repro, chunk then index)"
         run: dvc repro
-      - name: "RAGAS gate on 20 questions (fails if faithfulness is below 0.75)"
-        run: python -m legal_qa.ragas_eval --limit 20
+      - name: "RAGAS gate on 30 questions (fails if faithfulness is below 0.75)"
+        run: python -m legal_qa.ragas_eval --limit 30
       - uses: actions/upload-artifact@v4
         with:
           name: index
