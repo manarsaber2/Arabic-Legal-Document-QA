@@ -31,9 +31,9 @@ jobs:
       - run: pip install -e ".[dev,eval]" dvc
       - name: Pull articles.jsonl from DagsHub (eval.jsonl is in git)
         run: |
-          dvc remote modify origin --local auth basic
-          dvc remote modify origin --local user ${{ secrets.DAGSHUB_USER }}
-          dvc remote modify origin --local password ${{ secrets.DAGSHUB_TOKEN }}
+          dvc remote modify dagshub --local auth basic
+          dvc remote modify dagshub --local user ${{ secrets.DAGSHUB_USER }}
+          dvc remote modify dagshub --local password ${{ secrets.DAGSHUB_TOKEN }}
           dvc pull data/articles.jsonl
       - name: "Rebuild index (dvc repro, chunk then index)"
         run: dvc repro
