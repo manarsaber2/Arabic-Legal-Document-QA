@@ -4,7 +4,7 @@ FROM python:3.10-slim
 WORKDIR /app
 ENV PYTHONUNBUFFERED=1 PYTHONPATH=/app/src HF_HOME=/app/.hf INDEX_DIR=/app/data/index/best
 
-RUN pip install --no-cache-dir torch --index-url https://download.pytorch.org/whl/cpu
+RUN pip install --no-cache-dir "torch==2.14.1+cpu" --extra-index-url https://download.pytorch.org/whl/cpu
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
