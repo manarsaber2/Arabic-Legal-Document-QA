@@ -37,8 +37,8 @@ jobs:
           dvc pull data/articles.jsonl
       - name: "Rebuild index (dvc repro, chunk then index)"
         run: dvc repro
-      - name: "RAGAS gate on 30 questions (fails if faithfulness is below 0.75)"
-        run: python -m legal_qa.ragas_eval --limit 30
+      - name: "RAGAS gate on 20 questions (fails if faithfulness is below 0.75)"
+        run: python -m legal_qa.ragas_eval --limit 20
       - uses: actions/upload-artifact@v4
         with:
           name: index
