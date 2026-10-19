@@ -6,4 +6,5 @@ mlruns/
 mlflow.db
 __pycache__/
 .env
-.hf/data/chunks.jsonl
+.hf
+/data/chunks.jsonl
