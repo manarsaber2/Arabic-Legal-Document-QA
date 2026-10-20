@@ -1,0 +1,62 @@
+schema: '2.0'
+stages:
+  chunk:
+    cmd: python -m legal_qa.chunk
+    deps:
+    - path: data/articles.jsonl
+      hash: md5
+      md5: c2b02516c2b51ecd686c329717cfaa20
+      size: 2058467
+    - path: src/legal_qa/chunk.py
+      hash: md5
+      md5: 1ced0c2ac91016fef77db39fbd4dec02
+      size: 5925
+    outs:
+    - path: data/chunks.jsonl
+      hash: md5
+      md5: afa9cde67c5292d6a2488d56e9efeaab
+      size: 3181833
+  index:
+    cmd: python -m legal_qa.index --model intfloat/multilingual-e5-small 
+      --chunk-size 600 --overlap 80
+    deps:
+    - path: data/articles.jsonl
+      hash: md5
+      md5: c2b02516c2b51ecd686c329717cfaa20
+      size: 2058467
+    - path: data/eval/eval.jsonl
+      hash: md5
+      md5: 5f1b67aa37558c24fb27580a4b78da5f
+      size: 26948
+    - path: src/legal_qa/chunk.py
+      hash: md5
+      md5: 1ced0c2ac91016fef77db39fbd4dec02
+      size: 5925
+    - path: src/legal_qa/index.py
+      hash: md5
+      md5: ee29b6519c2e974b0c79b08b0591fd3e
+      size: 6273
+    - path: src/legal_qa/indexing.py
+      hash: md5
+      md5: 89124f346c90b6599107fdf1e46d50b3
+      size: 2260
+    - path: src/legal_qa/retriever.py
+      hash: md5
+      md5: 8e10a0a9c4f2e069cd3fc6f6b9495f44
+      size: 4869
+    params:
+      params.yaml:
+        index:
+          model: intfloat/multilingual-e5-small
+          chunk_size: 600
+          overlap: 80
+    outs:
+    - path: data/index/best
+      hash: md5
+      md5: 35230b08fe430717d0cf44f504ec42b7.dir
+      size: 13604077
+      nfiles: 5
+    - path: reports/retrieval_metrics.json
+      hash: md5
+      md5: 59ed812b593fa2f2f87e68de0670714a
+      size: 339
