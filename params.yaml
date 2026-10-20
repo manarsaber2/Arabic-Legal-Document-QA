@@ -1,0 +1,4 @@
+index:
+  model: intfloat/multilingual-e5-small
+  chunk_size: 600
+  overlap: 80

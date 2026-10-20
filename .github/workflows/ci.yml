@@ -1,0 +1,62 @@
+name: ci
+on:
+  push: {branches: [main]}
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  lint-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.10", cache: pip}
+      - run: pip install torch --index-url https://download.pytorch.org/whl/cpu
+      - run: pip install -e ".[dev]"
+      - run: ruff check .
+      - run: pytest -q          
+  index-and-gate:
+    needs: lint-test
+    runs-on: ubuntu-latest
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      FAITHFULNESS_GATE: "0.75"
+      RAGAS_WORKERS: "2"
+      ALERT_WEBHOOK_URL: ${{ secrets.ALERT_WEBHOOK_URL }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.10", cache: pip}
+      - run: pip install torch --index-url https://download.pytorch.org/whl/cpu
+      - run: pip install -e ".[dev,eval]" dvc
+      - name: Pull articles.jsonl from DagsHub (eval.jsonl is in git)
+        run: |
+          dvc remote modify dagshub --local auth basic
+          dvc remote modify dagshub --local user ${{ secrets.DAGSHUB_USER }}
+          dvc remote modify dagshub --local password ${{ secrets.DAGSHUB_TOKEN }}
+          dvc pull data/articles.jsonl
+      - name: "Rebuild index (dvc repro, chunk then index)"
+        run: dvc repro
+      - name: "RAGAS gate on 20 questions (fails if faithfulness is below 0.75)"
+        run: python -m legal_qa.ragas_eval --limit 20
+      - uses: actions/upload-artifact@v4
+        with:
+          name: index
+          path: data/index/best
+
+  docker:
+    needs: index-and-gate
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    permissions: {contents: read, packages: write}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with: {name: index, path: data/index/best}
+      - uses: docker/login-action@v3
+        with: {registry: ghcr.io, username: "${{ github.actor }}", password: "${{ secrets.GITHUB_TOKEN }}"}
+      - uses: docker/build-push-action@v6
+        with:
+          context: .
+          push: true
+          tags: ghcr.io/${{ github.repository_owner }}/arabic-legal-qa:latest,ghcr.io/${{ github.repository_owner }}/arabic-legal-qa:${{ github.sha }}

@@ -1,0 +1,12 @@
+metrics.hit_at_5,metrics.mrr,metrics.hit_at_5_en,metrics.hit_at_5_ar,metrics.n_eval,metrics.embed_seconds,metrics.multi_part_chunks,metrics.n_chunks,params.overlap,params.chunk_size,params.model,params.n_articles,params.retrieval,params.embedding_model,params.chunk_overlap,tags.mlflow.runName
+0.4,0.27611111111111103,,,,,,,80,600,intfloat/multilingual-e5-small,,,,,BEST-multilingual-e5-small_cs600_ov80
+0.4,0.27611111111111103,0.5,0.3333333333333333,60.0,458.0,0.0,2295.0,,600,,1149,hybrid_bm25_dense_rrf,intfloat/multilingual-e5-small,80,multilingual-e5-small_cs600_ov80
+0.4666666666666667,0.3161111111111111,0.625,0.3611111111111111,60.0,378.8,91.0,2341.0,,150,,1149,hybrid_bm25_dense_rrf,intfloat/multilingual-e5-base,30,multilingual-e5-base_cs150_ov30
+0.4666666666666667,0.3077777777777778,0.625,0.3611111111111111,60.0,431.1,0.0,2295.0,,600,,1149,hybrid_bm25_dense_rrf,intfloat/multilingual-e5-base,80,multilingual-e5-base_cs600_ov80
+0.4,0.2694444444444445,0.5416666666666666,0.3055555555555556,60.0,111.6,908.0,2786.0,,80,,1149,hybrid_bm25_dense_rrf,intfloat/multilingual-e5-small,20,multilingual-e5-small_cs80_ov20
+0.4,0.26861111111111113,0.5,0.3333333333333333,60.0,109.8,91.0,2341.0,,150,,1149,hybrid_bm25_dense_rrf,intfloat/multilingual-e5-small,30,multilingual-e5-small_cs150_ov30
+0.4,0.27611111111111103,0.5,0.3333333333333333,60.0,150.5,0.0,2295.0,,600,,1149,hybrid_bm25_dense_rrf,intfloat/multilingual-e5-small,80,multilingual-e5-small_cs600_ov80
+0.4,0.27611111111111103,,,,,,,80,600,intfloat/multilingual-e5-small,,,,,BEST-multilingual-e5-small_cs600_ov80
+0.4,0.27611111111111103,0.5,0.3333333333333333,60.0,164.1,0.0,2295.0,,600,,1149,hybrid_bm25_dense_rrf,intfloat/multilingual-e5-small,80,multilingual-e5-small_cs600_ov80
+,,,,,117.9,0.0,2295.0,,600,,1149,hybrid_bm25_dense_rrf,intfloat/multilingual-e5-small,80,multilingual-e5-small_cs600_ov80
+,,,,,103.4,0.0,2295.0,,600,,1149,hybrid_bm25_dense_rrf,intfloat/multilingual-e5-small,80,multilingual-e5-small_cs600_ov80

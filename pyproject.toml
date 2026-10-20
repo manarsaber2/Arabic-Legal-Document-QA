@@ -1,47 +1,38 @@
 [build-system]
-requires=["setuptools>=61.0"]
-build-backend="setuptools.build_meta"
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
 
 [project]
-name="Arabic Legal Document QA"
-version="0.1.0"
-description="System answers legal questions"
-readme="README.md"
-requires-python =">=3.10,<3.14"
-
-authors=[
-    {name="Manar Saber"}
-]
-
-dependencies=[
-    "fastapi",
-    "llama-cloud"
+name = "arabic-legal-document-qa"
+version = "0.1.0"
+description = "Arabic/English Egyptian Civil Code QA: hybrid retrieval (Qdrant + BM25) + Gemini"
+requires-python = ">=3.10"
+dependencies = [
+  "fastapi>=0.115", "uvicorn[standard]>=0.30", "pydantic>=2.7", "python-dotenv>=1.0",
+  "sentence-transformers>=3.0", "qdrant-client>=1.12", "rank-bm25>=0.2.2",
+  "google-genai>=1.0", "mlflow>=3.0", "httpx", "numpy",
 ]
 
 [project.optional-dependencies]
-
-dev=[
-    "pytest"
-]
-
-test = [
-    "pytest",
-    "pytest-cov",
-]
+ocr = ["pymupdf", "huggingface_hub", "pillow"]
+eval = ["ragas>=0.2", "langchain-google-genai"]
+obs = ["langfuse>=3.0"]
+dev = ["pytest", "pytest-cov", "ruff", "httpx"]
 
 [tool.setuptools.packages.find]
 where = ["src"]
 
-[tool.pytest.ini_options]
-testpaths = ["tests"]
-pythonpath = ["src"]
-
 [tool.ruff]
-line-length = 88
-target-version = "py310"
+line-length = 120
+src = ["src", "tests"]
 
 [tool.ruff.lint]
-select = ["E", "F", "I"]
+select = ["E", "F", "I", "W"]
+ignore = ["E501", "E741", "E731"]
 
-[tool.ruff.format]
-quote-style = "double"
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src", "."]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/*" = ["E501"]
