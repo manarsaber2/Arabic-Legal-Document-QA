@@ -4,7 +4,9 @@ services:
   api:
     build: .
     ports: ["8000:8000"]
-    env_file: .env
+    env_file:
+      - path: .env
+        required: false      # without .env the API starts; only /ask needs GEMINI_API_KEY
     restart: unless-stopped
 
   qdrant:
